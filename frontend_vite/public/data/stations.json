@@ -1,0 +1,8582 @@
+[
+  {
+    "kommune": "KARM\u00d8Y",
+    "station_id": "SN47230",
+    "latitude": 59.2555,
+    "longitude": 5.1963
+  },
+  {
+    "kommune": "VANG",
+    "station_id": "SN23670",
+    "latitude": 61.1375,
+    "longitude": 8.8175
+  },
+  {
+    "kommune": "STAD",
+    "station_id": "SN59450",
+    "latitude": 62.1467,
+    "longitude": 5.2115
+  },
+  {
+    "kommune": "LUSTER",
+    "station_id": "SN55000",
+    "latitude": 61.299413,
+    "longitude": 7.313199
+  },
+  {
+    "kommune": "RINGSAKER",
+    "station_id": "SN12590",
+    "latitude": 60.92824,
+    "longitude": 10.67016
+  },
+  {
+    "kommune": "\u00d8VRE EIKER",
+    "station_id": "SN26640",
+    "latitude": 59.7025,
+    "longitude": 9.7773
+  },
+  {
+    "kommune": "MIDTRE GAULDAL",
+    "station_id": "SN67650",
+    "latitude": 62.96367,
+    "longitude": 10.87183
+  },
+  {
+    "kommune": "OSLO",
+    "station_id": "SN18269",
+    "latitude": 59.9535,
+    "longitude": 10.9035
+  },
+  {
+    "kommune": "TRONDHEIM",
+    "station_id": "SN68090",
+    "latitude": 63.3757259,
+    "longitude": 10.3123892
+  },
+  {
+    "kommune": "BREMANGER",
+    "station_id": "SN57790",
+    "latitude": 61.6788,
+    "longitude": 5.2007
+  },
+  {
+    "kommune": "LARVIK",
+    "station_id": "SN27860",
+    "latitude": 59.2203,
+    "longitude": 9.983
+  },
+  {
+    "kommune": "VESTNES",
+    "station_id": "SN61065",
+    "latitude": 62.6112,
+    "longitude": 7.1135
+  },
+  {
+    "kommune": "OSLO",
+    "station_id": "SN18700",
+    "latitude": 59.9423,
+    "longitude": 10.72
+  },
+  {
+    "kommune": "SANDEFJORD",
+    "station_id": "SN27600",
+    "latitude": 59.132,
+    "longitude": 10.2147
+  },
+  {
+    "kommune": "AND\u00d8Y",
+    "station_id": "SN87110",
+    "latitude": 69.3073,
+    "longitude": 16.1312
+  },
+  {
+    "kommune": "VALLE",
+    "station_id": "SN40250",
+    "latitude": 59.1972,
+    "longitude": 7.5273
+  },
+  {
+    "kommune": "BYKLE",
+    "station_id": "SN40905",
+    "latitude": 59.64067,
+    "longitude": 7.45533
+  },
+  {
+    "kommune": "SANDEFJORD",
+    "station_id": "SN27295",
+    "latitude": 59.30367,
+    "longitude": 10.1975
+  },
+  {
+    "kommune": "SOKNDAL",
+    "station_id": "SN43220",
+    "latitude": 58.37983,
+    "longitude": 6.19367
+  },
+  {
+    "kommune": "B\u00c6RUM",
+    "station_id": "SN19660",
+    "latitude": 59.9475,
+    "longitude": 10.3855
+  },
+  {
+    "kommune": "OSLO",
+    "station_id": "SN18260",
+    "latitude": 59.9468,
+    "longitude": 10.9257
+  },
+  {
+    "kommune": "ULLENSVANG",
+    "station_id": "SN49240",
+    "latitude": 59.94867,
+    "longitude": 6.58317
+  },
+  {
+    "kommune": "GRANE",
+    "station_id": "SN77295",
+    "latitude": 65.4347,
+    "longitude": 13.396
+  },
+  {
+    "kommune": "NORD-ODAL",
+    "station_id": "SN5350",
+    "latitude": 60.3882026,
+    "longitude": 11.5590577
+  },
+  {
+    "kommune": "H\u00d8YANGER",
+    "station_id": "SN52990",
+    "latitude": 61.1095,
+    "longitude": 6.134
+  },
+  {
+    "kommune": "NORSKEHAVET",
+    "station_id": "SN76963",
+    "latitude": 64.994,
+    "longitude": 6.5513
+  },
+  {
+    "kommune": "NORDREISA",
+    "station_id": "SN92170",
+    "latitude": 69.888,
+    "longitude": 21.437
+  },
+  {
+    "kommune": "TROMS\u00d8",
+    "station_id": "SN90295",
+    "latitude": 69.75,
+    "longitude": 18.25
+  },
+  {
+    "kommune": "MEL\u00d8Y",
+    "station_id": "SN80740",
+    "latitude": 66.9035,
+    "longitude": 13.646
+  },
+  {
+    "kommune": "SANDEFJORD",
+    "station_id": "SN27564",
+    "latitude": 59.1505,
+    "longitude": 10.2025
+  },
+  {
+    "kommune": "HVALER",
+    "station_id": "SN1070",
+    "latitude": 59.0418843,
+    "longitude": 11.0321464
+  },
+  {
+    "kommune": "INDER\u00d8Y",
+    "station_id": "SN71230",
+    "latitude": 63.7905,
+    "longitude": 10.73033
+  },
+  {
+    "kommune": "HOLMESTRAND",
+    "station_id": "SN26990",
+    "latitude": 59.6193334,
+    "longitude": 10.2150378
+  },
+  {
+    "kommune": "ALVDAL",
+    "station_id": "SN8840",
+    "latitude": 61.992005,
+    "longitude": 10.886351
+  },
+  {
+    "kommune": "OS",
+    "station_id": "SN810",
+    "latitude": 62.2776,
+    "longitude": 11.732
+  },
+  {
+    "kommune": "LUSTER",
+    "station_id": "SN55520",
+    "latitude": 61.345,
+    "longitude": 7.26233
+  },
+  {
+    "kommune": "STRANDA",
+    "station_id": "SN60670",
+    "latitude": 62.3285,
+    "longitude": 7.06633
+  },
+  {
+    "kommune": "OPPDAL",
+    "station_id": "SN63595",
+    "latitude": 62.58183,
+    "longitude": 9.21367
+  },
+  {
+    "kommune": "BALSFJORD",
+    "station_id": "SN90250",
+    "latitude": 69.14483,
+    "longitude": 19.05033
+  },
+  {
+    "kommune": "DRANGEDAL",
+    "station_id": "SN34580",
+    "latitude": 59.0767,
+    "longitude": 9.0687
+  },
+  {
+    "kommune": "S\u00d8MNA",
+    "station_id": "SN76245",
+    "latitude": 65.27017,
+    "longitude": 12.14567
+  },
+  {
+    "kommune": "DRAMMEN",
+    "station_id": "SN26864",
+    "latitude": 59.7497,
+    "longitude": 10.195
+  },
+  {
+    "kommune": "LUSTER",
+    "station_id": "SN55260",
+    "latitude": 61.54817,
+    "longitude": 7.87017
+  },
+  {
+    "kommune": "ASKER",
+    "station_id": "SN19830",
+    "latitude": 59.548,
+    "longitude": 10.49217
+  },
+  {
+    "kommune": "GJESDAL",
+    "station_id": "SN44485",
+    "latitude": 58.6833,
+    "longitude": 5.9877
+  },
+  {
+    "kommune": "DRAMMEN",
+    "station_id": "SN26900",
+    "latitude": 59.7538274,
+    "longitude": 10.1206179
+  },
+  {
+    "kommune": "T\u00d8NSBERG",
+    "station_id": "SN27214",
+    "latitude": 59.4109629,
+    "longitude": 10.2799816
+  },
+  {
+    "kommune": "B\u00c6RUM",
+    "station_id": "SN19525",
+    "latitude": 59.9383,
+    "longitude": 10.515
+  },
+  {
+    "kommune": "HEMNES",
+    "station_id": "SN79215",
+    "latitude": 66.2298,
+    "longitude": 13.8728
+  },
+  {
+    "kommune": "BERGEN",
+    "station_id": "SN50505",
+    "latitude": 60.34517,
+    "longitude": 5.37133
+  },
+  {
+    "kommune": "LESJA",
+    "station_id": "SN61630",
+    "latitude": 62.2583,
+    "longitude": 8.2
+  },
+  {
+    "kommune": "K\u00c5FJORD",
+    "station_id": "SN91551",
+    "latitude": 69.4802,
+    "longitude": 20.8693
+  },
+  {
+    "kommune": "HAMAR\u00d8Y",
+    "station_id": "SN83710",
+    "latitude": 68.0484437,
+    "longitude": 16.0828758
+  },
+  {
+    "kommune": "NOTODDEN",
+    "station_id": "SN31700",
+    "latitude": 59.87033,
+    "longitude": 8.92667
+  },
+  {
+    "kommune": "ULLENSVANG",
+    "station_id": "SN46432",
+    "latitude": 59.8357,
+    "longitude": 6.7108
+  },
+  {
+    "kommune": "BOD\u00d8",
+    "station_id": "SN82310",
+    "latitude": 67.3084,
+    "longitude": 14.4309
+  },
+  {
+    "kommune": "H\u00d8YLANDET",
+    "station_id": "SN78910",
+    "latitude": 64.69333,
+    "longitude": 12.3295
+  },
+  {
+    "kommune": "\u00d8YGARDEN",
+    "station_id": "SN50514",
+    "latitude": 60.31833,
+    "longitude": 5.077
+  },
+  {
+    "kommune": "STOR-ELVDAL",
+    "station_id": "SN8140",
+    "latitude": 61.4255,
+    "longitude": 11.0803
+  },
+  {
+    "kommune": "STAD",
+    "station_id": "SN58750",
+    "latitude": 61.9068,
+    "longitude": 5.9932
+  },
+  {
+    "kommune": "B\u00c5TSFJORD",
+    "station_id": "SN98648",
+    "latitude": 70.367,
+    "longitude": 29.7663
+  },
+  {
+    "kommune": "HORTEN",
+    "station_id": "SN27160",
+    "latitude": 59.4198,
+    "longitude": 10.4647
+  },
+  {
+    "kommune": "V\u00c5GAN",
+    "station_id": "SN85450",
+    "latitude": 68.2415652,
+    "longitude": 14.6654748
+  },
+  {
+    "kommune": "R\u00d8ST",
+    "station_id": "SN85890",
+    "latitude": 67.5267,
+    "longitude": 12.1038
+  },
+  {
+    "kommune": "TYSV\u00c6R",
+    "station_id": "SN47060",
+    "latitude": 59.418,
+    "longitude": 5.4485
+  },
+  {
+    "kommune": "KRISTIANSAND",
+    "station_id": "SN39030",
+    "latitude": 58.1813,
+    "longitude": 8.0915
+  },
+  {
+    "kommune": "\u00d8YSTRE SLIDRE",
+    "station_id": "SN23500",
+    "latitude": 61.122,
+    "longitude": 9.063
+  },
+  {
+    "kommune": "BERGEN",
+    "station_id": "SN50810",
+    "latitude": 60.4742,
+    "longitude": 5.3418
+  },
+  {
+    "kommune": "SALTDAL",
+    "station_id": "SN81790",
+    "latitude": 66.5778505,
+    "longitude": 15.3506767
+  },
+  {
+    "kommune": "ENEBAKK",
+    "station_id": "SN4040",
+    "latitude": 59.75,
+    "longitude": 11.1535
+  },
+  {
+    "kommune": "SOLA",
+    "station_id": "SN44530",
+    "latitude": 58.8437,
+    "longitude": 5.5942
+  },
+  {
+    "kommune": "ULLENSAKER",
+    "station_id": "SN4390",
+    "latitude": 60.0693,
+    "longitude": 11.13165
+  },
+  {
+    "kommune": "V\u00c5G\u00c5",
+    "station_id": "SN14420",
+    "latitude": 61.80483,
+    "longitude": 9.30317
+  },
+  {
+    "kommune": "OVERHALLA",
+    "station_id": "SN72710",
+    "latitude": 64.5103196,
+    "longitude": 12.0190534
+  },
+  {
+    "kommune": "STRYN",
+    "station_id": "SN58705",
+    "latitude": 61.98783,
+    "longitude": 7.32883
+  },
+  {
+    "kommune": "VARD\u00d8",
+    "station_id": "SN98630",
+    "latitude": 70.2453,
+    "longitude": 30.5303
+  },
+  {
+    "kommune": "KARM\u00d8Y",
+    "station_id": "SN47275",
+    "latitude": 59.3755,
+    "longitude": 5.29583
+  },
+  {
+    "kommune": "KVINESDAL",
+    "station_id": "SN42520",
+    "latitude": 58.6577,
+    "longitude": 6.9443
+  },
+  {
+    "kommune": "SAMNANGER",
+    "station_id": "SN50245",
+    "latitude": 60.36433,
+    "longitude": 5.69417
+  },
+  {
+    "kommune": "HER\u00d8Y",
+    "station_id": "SN59800",
+    "latitude": 62.3293,
+    "longitude": 5.268
+  },
+  {
+    "kommune": "BERGEN",
+    "station_id": "SN52452",
+    "latitude": 60.5225,
+    "longitude": 5.267
+  },
+  {
+    "kommune": "NORD-AURDAL",
+    "station_id": "SN23410",
+    "latitude": 61.00279,
+    "longitude": 9.3014123
+  },
+  {
+    "kommune": "LILLEHAMMER",
+    "station_id": "SN12680",
+    "latitude": 61.0917,
+    "longitude": 10.4762
+  },
+  {
+    "kommune": "VOLDA",
+    "station_id": "SN59665",
+    "latitude": 62.1447,
+    "longitude": 6.0842
+  },
+  {
+    "kommune": "S\u00d8R-VARANGER",
+    "station_id": "SN99500",
+    "latitude": 69.3719837,
+    "longitude": 29.6920056
+  },
+  {
+    "kommune": "TINGVOLL",
+    "station_id": "SN64510",
+    "latitude": 62.9133,
+    "longitude": 8.1862
+  },
+  {
+    "kommune": "VESTBY",
+    "station_id": "SN17650",
+    "latitude": 59.60017,
+    "longitude": 10.7395
+  },
+  {
+    "kommune": "SIRDAL",
+    "station_id": "SN42810",
+    "latitude": 58.6642,
+    "longitude": 6.709
+  },
+  {
+    "kommune": "ALTA",
+    "station_id": "SN93070",
+    "latitude": 69.9705892,
+    "longitude": 23.1082096
+  },
+  {
+    "kommune": "SKIEN",
+    "station_id": "SN30330",
+    "latitude": 59.2268,
+    "longitude": 9.5772
+  },
+  {
+    "kommune": "SARPSBORG",
+    "station_id": "SN3370",
+    "latitude": 59.31933,
+    "longitude": 11.04217
+  },
+  {
+    "kommune": "VAKSDAL",
+    "station_id": "SN51010",
+    "latitude": 60.5205,
+    "longitude": 5.7243
+  },
+  {
+    "kommune": "NESSEBY",
+    "station_id": "SN99090",
+    "latitude": 70.0278,
+    "longitude": 29.1303
+  },
+  {
+    "kommune": "SANDNES",
+    "station_id": "SN44730",
+    "latitude": 58.8662,
+    "longitude": 5.7592
+  },
+  {
+    "kommune": "LUNNER",
+    "station_id": "SN4590",
+    "latitude": 60.2755,
+    "longitude": 10.7475
+  },
+  {
+    "kommune": "INDRE FOSEN",
+    "station_id": "SN71385",
+    "latitude": 63.6965,
+    "longitude": 10.2425
+  },
+  {
+    "kommune": "VOSS",
+    "station_id": "SN51800",
+    "latitude": 60.70204,
+    "longitude": 6.937327
+  },
+  {
+    "kommune": "HJARTDAL",
+    "station_id": "SN31900",
+    "latitude": 59.7464781,
+    "longitude": 8.8083264
+  },
+  {
+    "kommune": "SUNNFJORD",
+    "station_id": "SN57380",
+    "latitude": 61.51583,
+    "longitude": 6.657
+  },
+  {
+    "kommune": "NORDRE FOLLO",
+    "station_id": "SN17895",
+    "latitude": 59.794,
+    "longitude": 10.76
+  },
+  {
+    "kommune": "TROMS\u00d8",
+    "station_id": "SN90612",
+    "latitude": 69.8368,
+    "longitude": 19.0298
+  },
+  {
+    "kommune": "FJALER",
+    "station_id": "SN56420",
+    "latitude": 61.2928,
+    "longitude": 5.0443
+  },
+  {
+    "kommune": "MEL\u00d8Y",
+    "station_id": "SN80707",
+    "latitude": 66.8303,
+    "longitude": 13.9067
+  },
+  {
+    "kommune": "\u00d8RSTA",
+    "station_id": "SN59695",
+    "latitude": 62.16,
+    "longitude": 6.2877
+  },
+  {
+    "kommune": "LYNGEN",
+    "station_id": "SN91150",
+    "latitude": 69.5887,
+    "longitude": 20.0930685
+  },
+  {
+    "kommune": "OSLO",
+    "station_id": "SN18317",
+    "latitude": 59.9188,
+    "longitude": 10.7528
+  },
+  {
+    "kommune": "STEINKJER",
+    "station_id": "SN70820",
+    "latitude": 64.1163,
+    "longitude": 11.729
+  },
+  {
+    "kommune": "RAKKESTAD",
+    "station_id": "SN3280",
+    "latitude": 59.4617,
+    "longitude": 11.3937
+  },
+  {
+    "kommune": "SEL",
+    "station_id": "SN16271",
+    "latitude": 61.8883,
+    "longitude": 9.4798
+  },
+  {
+    "kommune": "STAVANGER",
+    "station_id": "SN44640",
+    "latitude": 58.9563,
+    "longitude": 5.7278
+  },
+  {
+    "kommune": "DRAMMEN",
+    "station_id": "SN26580",
+    "latitude": 59.7310381,
+    "longitude": 10.2142049
+  },
+  {
+    "kommune": "VESTV\u00c5G\u00d8Y",
+    "station_id": "SN86090",
+    "latitude": 68.256386,
+    "longitude": 13.781393
+  },
+  {
+    "kommune": "KARM\u00d8Y",
+    "station_id": "SN47260",
+    "latitude": 59.3445,
+    "longitude": 5.2115
+  },
+  {
+    "kommune": "RAUMA",
+    "station_id": "SN61310",
+    "latitude": 62.4515,
+    "longitude": 7.662
+  },
+  {
+    "kommune": "AURLAND",
+    "station_id": "SN53280",
+    "latitude": 60.861,
+    "longitude": 7.1048
+  },
+  {
+    "kommune": "\u00c5FJORD",
+    "station_id": "SN71780",
+    "latitude": 63.9678,
+    "longitude": 10.2237
+  },
+  {
+    "kommune": "VINJE",
+    "station_id": "SN32950",
+    "latitude": 59.636602,
+    "longitude": 8.204856
+  },
+  {
+    "kommune": "HEIM",
+    "station_id": "SN65060",
+    "latitude": 63.1442,
+    "longitude": 8.5602
+  },
+  {
+    "kommune": "HOL",
+    "station_id": "SN29720",
+    "latitude": 60.4188,
+    "longitude": 8.5263
+  },
+  {
+    "kommune": "NORDKAPP",
+    "station_id": "SN94640",
+    "latitude": 71.1575,
+    "longitude": 25.7742
+  },
+  {
+    "kommune": "MOLDE",
+    "station_id": "SN62270",
+    "latitude": 62.7443,
+    "longitude": 7.2617
+  },
+  {
+    "kommune": "NISSEDAL",
+    "station_id": "SN37310",
+    "latitude": 59.1723,
+    "longitude": 8.3442
+  },
+  {
+    "kommune": "\u00d8YGARDEN",
+    "station_id": "SN50517",
+    "latitude": 60.317655,
+    "longitude": 5.122896
+  },
+  {
+    "kommune": "L\u00c6RDAL",
+    "station_id": "SN54590",
+    "latitude": 61.10217,
+    "longitude": 8.01717
+  },
+  {
+    "kommune": "TJELDSUND",
+    "station_id": "SN87795",
+    "latitude": 68.5515,
+    "longitude": 16.481
+  },
+  {
+    "kommune": "SKIEN",
+    "station_id": "SN30285",
+    "latitude": 59.1642,
+    "longitude": 9.6638
+  },
+  {
+    "kommune": "T\u00d8NSBERG",
+    "station_id": "SN27262",
+    "latitude": 59.2952,
+    "longitude": 10.5145
+  },
+  {
+    "kommune": "\u00d8YSTRE SLIDRE",
+    "station_id": "SN13750",
+    "latitude": 61.4183,
+    "longitude": 8.8945
+  },
+  {
+    "kommune": "LIER",
+    "station_id": "SN19923",
+    "latitude": 59.819,
+    "longitude": 10.33
+  },
+  {
+    "kommune": "L\u00c6RDAL",
+    "station_id": "SN54330",
+    "latitude": 61.0795,
+    "longitude": 7.84783
+  },
+  {
+    "kommune": "GULEN",
+    "station_id": "SN52930",
+    "latitude": 60.9585,
+    "longitude": 5.425
+  },
+  {
+    "kommune": "SULDAL",
+    "station_id": "SN46300",
+    "latitude": 59.5887,
+    "longitude": 6.809
+  },
+  {
+    "kommune": "HARSTAD",
+    "station_id": "SN87660",
+    "latitude": 68.7900028,
+    "longitude": 16.538223
+  },
+  {
+    "kommune": "LAVANGEN",
+    "station_id": "SN88010",
+    "latitude": 68.6753,
+    "longitude": 17.9052
+  },
+  {
+    "kommune": "ASKER",
+    "station_id": "SN19815",
+    "latitude": 59.6415,
+    "longitude": 10.60383
+  },
+  {
+    "kommune": "KARLS\u00d8Y",
+    "station_id": "SN90630",
+    "latitude": 69.903,
+    "longitude": 19.47367
+  },
+  {
+    "kommune": "\u00c5SNES",
+    "station_id": "SN6160",
+    "latitude": 60.5492,
+    "longitude": 12.0242
+  },
+  {
+    "kommune": "KARM\u00d8Y",
+    "station_id": "SN47170",
+    "latitude": 59.3755,
+    "longitude": 5.3115
+  },
+  {
+    "kommune": "T\u00d8NSBERG",
+    "station_id": "SN27271",
+    "latitude": 59.27,
+    "longitude": 10.4019
+  },
+  {
+    "kommune": "DRAMMEN",
+    "station_id": "SN26840",
+    "latitude": 59.7658,
+    "longitude": 10.0123
+  },
+  {
+    "kommune": "ETNE",
+    "station_id": "SN47610",
+    "latitude": 59.6357,
+    "longitude": 6.0873
+  },
+  {
+    "kommune": "RANA",
+    "station_id": "SN79720",
+    "latitude": 66.2785,
+    "longitude": 14.8892
+  },
+  {
+    "kommune": "FOLLDAL",
+    "station_id": "SN8780",
+    "latitude": 62.0099727,
+    "longitude": 10.0002444
+  },
+  {
+    "kommune": "HAMAR",
+    "station_id": "SN12180",
+    "latitude": 60.8028,
+    "longitude": 11.2028
+  },
+  {
+    "kommune": "BYKLE",
+    "station_id": "SN40890",
+    "latitude": 59.6193,
+    "longitude": 7.427
+  },
+  {
+    "kommune": "SELBU",
+    "station_id": "SN68290",
+    "latitude": 63.2248,
+    "longitude": 11.0075
+  },
+  {
+    "kommune": "TROMS\u00d8",
+    "station_id": "SN90495",
+    "latitude": 69.6942,
+    "longitude": 18.982
+  },
+  {
+    "kommune": "VINJE",
+    "station_id": "SN33300",
+    "latitude": 59.7675,
+    "longitude": 7.8173
+  },
+  {
+    "kommune": "STRANDA",
+    "station_id": "SN60242",
+    "latitude": 62.1883,
+    "longitude": 6.9869
+  },
+  {
+    "kommune": "RENNEBU",
+    "station_id": "SN66630",
+    "latitude": 62.87633,
+    "longitude": 9.84133
+  },
+  {
+    "kommune": "LARVIK",
+    "station_id": "SN27800",
+    "latitude": 59.1964044,
+    "longitude": 9.9641999
+  },
+  {
+    "kommune": "OSLO",
+    "station_id": "SN18245",
+    "latitude": 59.9652,
+    "longitude": 10.8737
+  },
+  {
+    "kommune": "GRANE",
+    "station_id": "SN77280",
+    "latitude": 65.6215,
+    "longitude": 13.2892
+  },
+  {
+    "kommune": "SANDEFJORD",
+    "station_id": "SN27540",
+    "latitude": 59.1312,
+    "longitude": 10.2558
+  },
+  {
+    "kommune": "SUNNFJORD",
+    "station_id": "SN56250",
+    "latitude": 61.29217,
+    "longitude": 5.827
+  },
+  {
+    "kommune": "B\u00c6RUM",
+    "station_id": "SN19510",
+    "latitude": 59.94046,
+    "longitude": 10.6227
+  },
+  {
+    "kommune": "DRAMMEN",
+    "station_id": "SN26894",
+    "latitude": 59.7413,
+    "longitude": 10.1672
+  },
+  {
+    "kommune": "LOM",
+    "station_id": "SN55290",
+    "latitude": 61.5648,
+    "longitude": 7.9957
+  },
+  {
+    "kommune": "SULA",
+    "station_id": "SN60870",
+    "latitude": 62.4402,
+    "longitude": 6.1922
+  },
+  {
+    "kommune": "\u00d8YGARDEN",
+    "station_id": "SN50526",
+    "latitude": 60.3725,
+    "longitude": 5.17383
+  },
+  {
+    "kommune": "DRAMMEN",
+    "station_id": "SN19932",
+    "latitude": 59.8562,
+    "longitude": 10.065
+  },
+  {
+    "kommune": "BERGEN",
+    "station_id": "SN50508",
+    "latitude": 60.337542,
+    "longitude": 5.210791
+  },
+  {
+    "kommune": "KRISTIANSAND",
+    "station_id": "SN39212",
+    "latitude": 58.14117,
+    "longitude": 7.93967
+  },
+  {
+    "kommune": "SIGDAL",
+    "station_id": "SN26230",
+    "latitude": 60.041,
+    "longitude": 9.59083
+  },
+  {
+    "kommune": "SANDEFJORD",
+    "station_id": "SN27450",
+    "latitude": 59.229738,
+    "longitude": 10.345751
+  },
+  {
+    "kommune": "NORSKEHAVET",
+    "station_id": "SN76930",
+    "latitude": 66.0256,
+    "longitude": 8.085
+  },
+  {
+    "kommune": "BERLEV\u00c5G",
+    "station_id": "SN98265",
+    "latitude": 70.52917,
+    "longitude": 29.09183
+  },
+  {
+    "kommune": "OPPDAL",
+    "station_id": "SN63580",
+    "latitude": 62.6708,
+    "longitude": 9.1967
+  },
+  {
+    "kommune": "TROMS\u00d8",
+    "station_id": "SN90980",
+    "latitude": 69.7565,
+    "longitude": 19.6647
+  },
+  {
+    "kommune": "STAD",
+    "station_id": "SN58780",
+    "latitude": 61.9183,
+    "longitude": 6.0392
+  },
+  {
+    "kommune": "LUSTER",
+    "station_id": "SN55550",
+    "latitude": 61.2925,
+    "longitude": 7.1887
+  },
+  {
+    "kommune": "FLEKKEFJORD",
+    "station_id": "SN42720",
+    "latitude": 58.4117,
+    "longitude": 6.657
+  },
+  {
+    "kommune": "KARASJOK",
+    "station_id": "SN97251",
+    "latitude": 69.4635,
+    "longitude": 25.5023
+  },
+  {
+    "kommune": "STEIGEN",
+    "station_id": "SN83300",
+    "latitude": 67.923,
+    "longitude": 15.1123
+  },
+  {
+    "kommune": "V\u00c5GAN",
+    "station_id": "SN85480",
+    "latitude": 68.26283,
+    "longitude": 14.24983
+  },
+  {
+    "kommune": "KARASJOK",
+    "station_id": "SN97350",
+    "latitude": 69.3696,
+    "longitude": 24.4315
+  },
+  {
+    "kommune": "BARDU",
+    "station_id": "SN88100",
+    "latitude": 68.6457,
+    "longitude": 18.2442
+  },
+  {
+    "kommune": "SUNNFJORD",
+    "station_id": "SN57150",
+    "latitude": 61.44133,
+    "longitude": 5.82217
+  },
+  {
+    "kommune": "KRAGER\u00d8",
+    "station_id": "SN34370",
+    "latitude": 58.92455,
+    "longitude": 9.3126
+  },
+  {
+    "kommune": "TROMS\u00d8",
+    "station_id": "SN90480",
+    "latitude": 69.67677,
+    "longitude": 18.96923
+  },
+  {
+    "kommune": "DRANGEDAL",
+    "station_id": "SN34810",
+    "latitude": 59.1708196,
+    "longitude": 8.7342377
+  },
+  {
+    "kommune": "GRONG",
+    "station_id": "SN73550",
+    "latitude": 64.531,
+    "longitude": 12.3837
+  },
+  {
+    "kommune": "SENJA",
+    "station_id": "SN88623",
+    "latitude": 69.4625,
+    "longitude": 17.35
+  },
+  {
+    "kommune": "F\u00c6RDER",
+    "station_id": "SN27435",
+    "latitude": 59.2417,
+    "longitude": 10.4023
+  },
+  {
+    "kommune": "B\u00c6RUM",
+    "station_id": "SN19405",
+    "latitude": 59.8909,
+    "longitude": 10.608
+  },
+  {
+    "kommune": "MIDTRE GAULDAL",
+    "station_id": "SN67270",
+    "latitude": 62.983,
+    "longitude": 10.23733
+  },
+  {
+    "kommune": "HORTEN",
+    "station_id": "SN27130",
+    "latitude": 59.432,
+    "longitude": 10.42167
+  },
+  {
+    "kommune": "TANA",
+    "station_id": "SN96850",
+    "latitude": 70.2122,
+    "longitude": 28.159
+  },
+  {
+    "kommune": "\u00d8YER",
+    "station_id": "SN13125",
+    "latitude": 61.2865,
+    "longitude": 10.28683
+  },
+  {
+    "kommune": "SUNNFJORD",
+    "station_id": "SN57365",
+    "latitude": 61.5110244,
+    "longitude": 6.1557262
+  },
+  {
+    "kommune": "TANA",
+    "station_id": "SN96931",
+    "latitude": 70.0733,
+    "longitude": 28.0012
+  },
+  {
+    "kommune": "L\u00c6RDAL",
+    "station_id": "SN54180",
+    "latitude": 61.0545,
+    "longitude": 7.5625
+  },
+  {
+    "kommune": "SULDAL",
+    "station_id": "SN46150",
+    "latitude": 59.4812702,
+    "longitude": 6.270611
+  },
+  {
+    "kommune": "STOR-ELVDAL",
+    "station_id": "SN8720",
+    "latitude": 61.8902,
+    "longitude": 10.1398
+  },
+  {
+    "kommune": "TRONDHEIM",
+    "station_id": "SN68230",
+    "latitude": 63.3986067,
+    "longitude": 10.4228226
+  },
+  {
+    "kommune": "SULA",
+    "station_id": "SN60855",
+    "latitude": 62.43013,
+    "longitude": 6.353563
+  },
+  {
+    "kommune": "EIDFJORD",
+    "station_id": "SN29400",
+    "latitude": 60.1833,
+    "longitude": 7.4805
+  },
+  {
+    "kommune": "PORSGRUNN",
+    "station_id": "SN30270",
+    "latitude": 59.1405,
+    "longitude": 9.6663
+  },
+  {
+    "kommune": "GILDESK\u00c5L",
+    "station_id": "SN80880",
+    "latitude": 67.093,
+    "longitude": 14.1663
+  },
+  {
+    "kommune": "SN\u00c5SA",
+    "station_id": "SN70850",
+    "latitude": 64.1587,
+    "longitude": 12.4692
+  },
+  {
+    "kommune": "SKIEN",
+    "station_id": "SN30279",
+    "latitude": 59.122623,
+    "longitude": 9.605432
+  },
+  {
+    "kommune": "K\u00c5FJORD",
+    "station_id": "SN91530",
+    "latitude": 69.4818,
+    "longitude": 20.5787
+  },
+  {
+    "kommune": "KVINESDAL",
+    "station_id": "SN42490",
+    "latitude": 58.50467,
+    "longitude": 7.07867
+  },
+  {
+    "kommune": "STORD",
+    "station_id": "SN48070",
+    "latitude": 59.7465,
+    "longitude": 5.4025
+  },
+  {
+    "kommune": "HOLMESTRAND",
+    "station_id": "SN27085",
+    "latitude": 59.4858783,
+    "longitude": 10.3070762
+  },
+  {
+    "kommune": "ASKER",
+    "station_id": "SN19710",
+    "latitude": 59.8558,
+    "longitude": 10.4358
+  },
+  {
+    "kommune": "SELBU",
+    "station_id": "SN69190",
+    "latitude": 63.338,
+    "longitude": 11.08867
+  },
+  {
+    "kommune": "AREMARK",
+    "station_id": "SN1650",
+    "latitude": 59.3006,
+    "longitude": 11.6599
+  },
+  {
+    "kommune": "LUND",
+    "station_id": "SN43010",
+    "latitude": 58.5072,
+    "longitude": 6.5046
+  },
+  {
+    "kommune": "S\u00d8RREISA",
+    "station_id": "SN89233",
+    "latitude": 69.09167,
+    "longitude": 18.29717
+  },
+  {
+    "kommune": "SALTDAL",
+    "station_id": "SN81930",
+    "latitude": 67.0129,
+    "longitude": 15.973
+  },
+  {
+    "kommune": "LYNGEN",
+    "station_id": "SN91180",
+    "latitude": 69.8915,
+    "longitude": 20.1387
+  },
+  {
+    "kommune": "SKJ\u00c5K",
+    "station_id": "SN15951",
+    "latitude": 62.0108,
+    "longitude": 7.3926
+  },
+  {
+    "kommune": "HOLMESTRAND",
+    "station_id": "SN27040",
+    "latitude": 59.5975,
+    "longitude": 10.2095741
+  },
+  {
+    "kommune": "B\u00d8MLO",
+    "station_id": "SN48061",
+    "latitude": 59.79733,
+    "longitude": 5.18717
+  },
+  {
+    "kommune": "SEL",
+    "station_id": "SN16265",
+    "latitude": 61.87833,
+    "longitude": 9.41533
+  },
+  {
+    "kommune": "RAKKESTAD",
+    "station_id": "SN1300",
+    "latitude": 59.24,
+    "longitude": 11.44683
+  },
+  {
+    "kommune": "DOVRE",
+    "station_id": "SN9303",
+    "latitude": 62.23183,
+    "longitude": 9.53167
+  },
+  {
+    "kommune": "INDRE \u00d8STFOLD",
+    "station_id": "SN3480",
+    "latitude": 59.546,
+    "longitude": 11.4535
+  },
+  {
+    "kommune": "SKJERV\u00d8Y",
+    "station_id": "SN91727",
+    "latitude": 70.0537,
+    "longitude": 20.6315
+  },
+  {
+    "kommune": "DRAMMEN",
+    "station_id": "SN26780",
+    "latitude": 59.7655,
+    "longitude": 10.0582
+  },
+  {
+    "kommune": "GRANE",
+    "station_id": "SN77390",
+    "latitude": 65.25347,
+    "longitude": 13.31519
+  },
+  {
+    "kommune": "\u00d8RSTA",
+    "station_id": "SN59680",
+    "latitude": 62.180413205637954,
+    "longitude": 6.078056927162791
+  },
+  {
+    "kommune": "ULLENSAKER",
+    "station_id": "SN4781",
+    "latitude": 60.1883,
+    "longitude": 11.0743
+  },
+  {
+    "kommune": "STAVANGER",
+    "station_id": "SN44580",
+    "latitude": 58.9482,
+    "longitude": 5.6697
+  },
+  {
+    "kommune": "HJELMELAND",
+    "station_id": "SN45675",
+    "latitude": 59.14967,
+    "longitude": 6.17367
+  },
+  {
+    "kommune": "VOSS",
+    "station_id": "SN51991",
+    "latitude": 60.866,
+    "longitude": 6.473
+  },
+  {
+    "kommune": "EVJE OG HORNNES",
+    "station_id": "SN39520",
+    "latitude": 58.49083,
+    "longitude": 7.77717
+  },
+  {
+    "kommune": "LEIRFJORD",
+    "station_id": "SN78350",
+    "latitude": 66.2178,
+    "longitude": 13.3917
+  },
+  {
+    "kommune": "LINDESNES",
+    "station_id": "SN41090",
+    "latitude": 58.0247,
+    "longitude": 7.4517
+  },
+  {
+    "kommune": "VINJE",
+    "station_id": "SN33240",
+    "latitude": 59.6923275,
+    "longitude": 8.0535662
+  },
+  {
+    "kommune": "HASVIK",
+    "station_id": "SN92750",
+    "latitude": 70.4865,
+    "longitude": 22.1457
+  },
+  {
+    "kommune": "FJORD",
+    "station_id": "SN60640",
+    "latitude": 62.297,
+    "longitude": 7.2525
+  },
+  {
+    "kommune": "S\u00d8R-VARANGER",
+    "station_id": "SN99380",
+    "latitude": 69.71,
+    "longitude": 29.8695
+  },
+  {
+    "kommune": "GRATANGEN",
+    "station_id": "SN87950",
+    "latitude": 68.732,
+    "longitude": 17.2413
+  },
+  {
+    "kommune": "SOLA",
+    "station_id": "SN44562",
+    "latitude": 58.93355,
+    "longitude": 5.69005
+  },
+  {
+    "kommune": "V\u00c5GAN",
+    "station_id": "SN86290",
+    "latitude": 68.3052,
+    "longitude": 14.113
+  },
+  {
+    "kommune": "\u00d8YSTRE SLIDRE",
+    "station_id": "SN23550",
+    "latitude": 61.2509419,
+    "longitude": 8.9225701
+  },
+  {
+    "kommune": "DRAMMEN",
+    "station_id": "SN26852",
+    "latitude": 59.7487,
+    "longitude": 10.2258
+  },
+  {
+    "kommune": "VINDAFJORD",
+    "station_id": "SN46850",
+    "latitude": 59.5553,
+    "longitude": 5.9948
+  },
+  {
+    "kommune": "AURLAND",
+    "station_id": "SN53480",
+    "latitude": 60.7192,
+    "longitude": 7.2085
+  },
+  {
+    "kommune": "PORSGRUNN",
+    "station_id": "SN30261",
+    "latitude": 59.1353,
+    "longitude": 9.6385
+  },
+  {
+    "kommune": "SKIEN",
+    "station_id": "SN30288",
+    "latitude": 59.1768,
+    "longitude": 9.6297
+  },
+  {
+    "kommune": "ORKLAND",
+    "station_id": "SN66005",
+    "latitude": 63.638828,
+    "longitude": 9.687796
+  },
+  {
+    "kommune": "ALSTAHAUG",
+    "station_id": "SN76780",
+    "latitude": 66.014,
+    "longitude": 12.612
+  },
+  {
+    "kommune": "SENJA",
+    "station_id": "SN88650",
+    "latitude": 69.5015,
+    "longitude": 17.8708
+  },
+  {
+    "kommune": "NOME",
+    "station_id": "SN32540",
+    "latitude": 59.27283,
+    "longitude": 9.28017
+  },
+  {
+    "kommune": "AUSTRHEIM",
+    "station_id": "SN52565",
+    "latitude": 60.8154,
+    "longitude": 4.95738
+  },
+  {
+    "kommune": "KARM\u00d8Y",
+    "station_id": "SN47272",
+    "latitude": 59.297135,
+    "longitude": 5.337831
+  },
+  {
+    "kommune": "STANGE",
+    "station_id": "SN12210",
+    "latitude": 60.767,
+    "longitude": 11.1333
+  },
+  {
+    "kommune": "\u00d8RSTA",
+    "station_id": "SN59850",
+    "latitude": 62.275183,
+    "longitude": 6.011491
+  },
+  {
+    "kommune": "HEMSEDAL",
+    "station_id": "SN25165",
+    "latitude": 60.97567,
+    "longitude": 8.15567
+  },
+  {
+    "kommune": "\u00c5LESUND",
+    "station_id": "SN60945",
+    "latitude": 62.4703,
+    "longitude": 6.2108
+  },
+  {
+    "kommune": "TOKKE",
+    "station_id": "SN32890",
+    "latitude": 59.4965232,
+    "longitude": 8.1999004
+  },
+  {
+    "kommune": "STJ\u00d8RDAL",
+    "station_id": "SN69100",
+    "latitude": 63.4597,
+    "longitude": 10.9305
+  },
+  {
+    "kommune": "SANDEFJORD",
+    "station_id": "SN27480",
+    "latitude": 59.1683,
+    "longitude": 10.2752
+  },
+  {
+    "kommune": "KR\u00d8DSHERAD",
+    "station_id": "SN24600",
+    "latitude": 60.137,
+    "longitude": 9.5958
+  },
+  {
+    "kommune": "\u00c5LESUND",
+    "station_id": "SN60810",
+    "latitude": 62.5158,
+    "longitude": 6.8717
+  },
+  {
+    "kommune": "B\u00c6RUM",
+    "station_id": "SN19459",
+    "latitude": 59.9478,
+    "longitude": 10.6027
+  },
+  {
+    "kommune": "LARVIK",
+    "station_id": "SN30243",
+    "latitude": 59.008377,
+    "longitude": 9.775898
+  },
+  {
+    "kommune": "FYRESDAL",
+    "station_id": "SN37600",
+    "latitude": 59.28417,
+    "longitude": 8.0895
+  },
+  {
+    "kommune": "VOSS",
+    "station_id": "SN53160",
+    "latitude": 60.9004,
+    "longitude": 6.7243
+  },
+  {
+    "kommune": "SKIEN",
+    "station_id": "SN30282",
+    "latitude": 59.1702,
+    "longitude": 9.6017
+  },
+  {
+    "kommune": "NORE OG UVDAL",
+    "station_id": "SN29600",
+    "latitude": 60.4629,
+    "longitude": 8.7511
+  },
+  {
+    "kommune": "OSLO",
+    "station_id": "SN18170",
+    "latitude": 59.8955,
+    "longitude": 10.8368
+  },
+  {
+    "kommune": "SN\u00c5SA",
+    "station_id": "SN70960",
+    "latitude": 64.33333,
+    "longitude": 12.341
+  },
+  {
+    "kommune": "MIDTRE GAULDAL",
+    "station_id": "SN67560",
+    "latitude": 62.9763,
+    "longitude": 10.5608
+  },
+  {
+    "kommune": "LARVIK",
+    "station_id": "SN29950",
+    "latitude": 58.9688,
+    "longitude": 10.148
+  },
+  {
+    "kommune": "VANYLVEN",
+    "station_id": "SN59530",
+    "latitude": 62.01633,
+    "longitude": 5.538
+  },
+  {
+    "kommune": "BAMBLE",
+    "station_id": "SN34095",
+    "latitude": 58.9817,
+    "longitude": 9.6068
+  },
+  {
+    "kommune": "VESTNES",
+    "station_id": "SN61064",
+    "latitude": 62.6213,
+    "longitude": 7.0903
+  },
+  {
+    "kommune": "\u00d8KSNES",
+    "station_id": "SN86921",
+    "latitude": 69.066442,
+    "longitude": 15.17019
+  },
+  {
+    "kommune": "LARVIK",
+    "station_id": "SN30246",
+    "latitude": 59.0644161,
+    "longitude": 9.9423322
+  },
+  {
+    "kommune": "SENJA",
+    "station_id": "SN88626",
+    "latitude": 69.5,
+    "longitude": 17.4833
+  },
+  {
+    "kommune": "ULLENSVANG",
+    "station_id": "SN46530",
+    "latitude": 59.9534,
+    "longitude": 6.9627
+  },
+  {
+    "kommune": "MELHUS",
+    "station_id": "SN67210",
+    "latitude": 63.13833,
+    "longitude": 10.25483
+  },
+  {
+    "kommune": "HAMMERFEST",
+    "station_id": "SN94242",
+    "latitude": 70.6691,
+    "longitude": 23.6651
+  },
+  {
+    "kommune": "FAUSKE",
+    "station_id": "SN81915",
+    "latitude": 67.1195,
+    "longitude": 16.0797
+  },
+  {
+    "kommune": "MIDT-TELEMARK",
+    "station_id": "SN32220",
+    "latitude": 59.5022,
+    "longitude": 8.9837
+  },
+  {
+    "kommune": "OSLO",
+    "station_id": "SN18215",
+    "latitude": 59.9323,
+    "longitude": 10.8315
+  },
+  {
+    "kommune": "TROMS\u00d8",
+    "station_id": "SN90510",
+    "latitude": 69.6508,
+    "longitude": 19.0065
+  },
+  {
+    "kommune": "SANDEFJORD",
+    "station_id": "SN27770",
+    "latitude": 59.2752,
+    "longitude": 10.2022
+  },
+  {
+    "kommune": "N\u00c6R\u00d8YSUND",
+    "station_id": "SN75410",
+    "latitude": 64.7977,
+    "longitude": 10.5493
+  },
+  {
+    "kommune": "KVINNHERAD",
+    "station_id": "SN48450",
+    "latitude": 59.8641203,
+    "longitude": 5.7694553
+  },
+  {
+    "kommune": "BYKLE",
+    "station_id": "SN40420",
+    "latitude": 59.3505771,
+    "longitude": 7.3439563
+  },
+  {
+    "kommune": "RANA",
+    "station_id": "SN79600",
+    "latitude": 66.3643,
+    "longitude": 14.3015
+  },
+  {
+    "kommune": "SENJA",
+    "station_id": "SN88500",
+    "latitude": 69.3627,
+    "longitude": 17.0513
+  },
+  {
+    "kommune": "SALTDAL",
+    "station_id": "SN81780",
+    "latitude": 66.6588,
+    "longitude": 15.4068
+  },
+  {
+    "kommune": "BOD\u00d8",
+    "station_id": "SN82220",
+    "latitude": 67.27833,
+    "longitude": 14.51733
+  },
+  {
+    "kommune": "EIGERSUND",
+    "station_id": "SN43390",
+    "latitude": 58.5130222,
+    "longitude": 6.0584114
+  },
+  {
+    "kommune": "LYNGDAL",
+    "station_id": "SN41990",
+    "latitude": 58.2205,
+    "longitude": 6.92383
+  },
+  {
+    "kommune": "T\u00d8NSBERG",
+    "station_id": "SN27330",
+    "latitude": 59.2938,
+    "longitude": 10.2983
+  },
+  {
+    "kommune": "PORSANGER",
+    "station_id": "SN94870",
+    "latitude": 70.47183,
+    "longitude": 25.07667
+  },
+  {
+    "kommune": "KARLS\u00d8Y",
+    "station_id": "SN90770",
+    "latitude": 70.1064,
+    "longitude": 19.5837
+  },
+  {
+    "kommune": "ALVER",
+    "station_id": "SN52505",
+    "latitude": 60.711874,
+    "longitude": 4.868172
+  },
+  {
+    "kommune": "ULLENSVANG",
+    "station_id": "SN49087",
+    "latitude": 60.2178,
+    "longitude": 6.4298
+  },
+  {
+    "kommune": "VEGA",
+    "station_id": "SN76460",
+    "latitude": 65.5967,
+    "longitude": 11.2863
+  },
+  {
+    "kommune": "F\u00c6RDER",
+    "station_id": "SN27420",
+    "latitude": 59.1205,
+    "longitude": 10.398
+  },
+  {
+    "kommune": "SVEIO",
+    "station_id": "SN47445",
+    "latitude": 59.625,
+    "longitude": 5.48483
+  },
+  {
+    "kommune": "SUNNFJORD",
+    "station_id": "SN57000",
+    "latitude": 61.391,
+    "longitude": 5.76
+  },
+  {
+    "kommune": "TRONDHEIM",
+    "station_id": "SN68125",
+    "latitude": 63.4223,
+    "longitude": 10.3498
+  },
+  {
+    "kommune": "HADSEL",
+    "station_id": "SN86598",
+    "latitude": 68.5813,
+    "longitude": 15.0147
+  },
+  {
+    "kommune": "B\u00c5TSFJORD",
+    "station_id": "SN98360",
+    "latitude": 70.6036315,
+    "longitude": 29.6990634
+  },
+  {
+    "kommune": "LILLEHAMMER",
+    "station_id": "SN13110",
+    "latitude": 61.16967,
+    "longitude": 10.41067
+  },
+  {
+    "kommune": "VESTRE TOTEN",
+    "station_id": "SN11710",
+    "latitude": 60.59505,
+    "longitude": 10.6408
+  },
+  {
+    "kommune": "KONGSBERG",
+    "station_id": "SN28380",
+    "latitude": 59.6247,
+    "longitude": 9.6377
+  },
+  {
+    "kommune": "KARM\u00d8Y",
+    "station_id": "SN47194",
+    "latitude": 59.1535,
+    "longitude": 5.253
+  },
+  {
+    "kommune": "PORSGRUNN",
+    "station_id": "SN30255",
+    "latitude": 59.0872,
+    "longitude": 9.6603
+  },
+  {
+    "kommune": "S\u00d8R-VARANGER",
+    "station_id": "SN99670",
+    "latitude": 69.7315,
+    "longitude": 30.4133
+  },
+  {
+    "kommune": "LUSTER",
+    "station_id": "SN55430",
+    "latitude": 61.6595,
+    "longitude": 7.2762
+  },
+  {
+    "kommune": "NOTODDEN",
+    "station_id": "SN30650",
+    "latitude": 59.5666,
+    "longitude": 9.2111
+  },
+  {
+    "kommune": "GRIMSTAD",
+    "station_id": "SN38150",
+    "latitude": 58.29683,
+    "longitude": 8.462
+  },
+  {
+    "kommune": "NORDRE FOLLO",
+    "station_id": "SN17820",
+    "latitude": 59.7718,
+    "longitude": 10.832
+  },
+  {
+    "kommune": "OSLO",
+    "station_id": "SN18233",
+    "latitude": 59.9452,
+    "longitude": 10.864
+  },
+  {
+    "kommune": "STORFJORD",
+    "station_id": "SN91380",
+    "latitude": 69.3875,
+    "longitude": 20.2823
+  },
+  {
+    "kommune": "GJESDAL",
+    "station_id": "SN44520",
+    "latitude": 58.755,
+    "longitude": 6.0135
+  },
+  {
+    "kommune": "HJELMELAND",
+    "station_id": "SN46090",
+    "latitude": 59.29417,
+    "longitude": 6.29267
+  },
+  {
+    "kommune": "KVITS\u00d8Y",
+    "station_id": "SN44610",
+    "latitude": 59.0705,
+    "longitude": 5.4122
+  },
+  {
+    "kommune": "SOGNDAL",
+    "station_id": "SN55735",
+    "latitude": 61.34733,
+    "longitude": 6.8745
+  },
+  {
+    "kommune": "NESODDEN",
+    "station_id": "SN17775",
+    "latitude": 59.7377,
+    "longitude": 10.5886
+  },
+  {
+    "kommune": "KRISTIANSUND",
+    "station_id": "SN64330",
+    "latitude": 63.1093,
+    "longitude": 7.8158
+  },
+  {
+    "kommune": "KRISTIANSAND",
+    "station_id": "SN39200",
+    "latitude": 58.1457,
+    "longitude": 7.9968
+  },
+  {
+    "kommune": "KINN",
+    "station_id": "SN57700",
+    "latitude": 61.61367,
+    "longitude": 5.33117
+  },
+  {
+    "kommune": "\u00c5FJORD",
+    "station_id": "SN71750",
+    "latitude": 63.918,
+    "longitude": 10.4055
+  },
+  {
+    "kommune": "TINN",
+    "station_id": "SN31520",
+    "latitude": 59.8356592,
+    "longitude": 8.314218
+  },
+  {
+    "kommune": "FAUSKE",
+    "station_id": "SN82130",
+    "latitude": 67.33117,
+    "longitude": 15.162
+  },
+  {
+    "kommune": "SKJERV\u00d8Y",
+    "station_id": "SN91685",
+    "latitude": 69.9878,
+    "longitude": 20.6642
+  },
+  {
+    "kommune": "NESBYEN",
+    "station_id": "SN24890",
+    "latitude": 60.5669244,
+    "longitude": 9.1323323
+  },
+  {
+    "kommune": "OPPDAL",
+    "station_id": "SN63630",
+    "latitude": 62.6352,
+    "longitude": 9.392
+  },
+  {
+    "kommune": "HOLMESTRAND",
+    "station_id": "SN26765",
+    "latitude": 59.5100536,
+    "longitude": 10.1273764
+  },
+  {
+    "kommune": "VOSS",
+    "station_id": "SN51940",
+    "latitude": 60.7855,
+    "longitude": 6.49967
+  },
+  {
+    "kommune": "BYKLE",
+    "station_id": "SN40510",
+    "latitude": 59.3335,
+    "longitude": 6.8817
+  },
+  {
+    "kommune": "LYNGEN",
+    "station_id": "SN91120",
+    "latitude": 69.5598,
+    "longitude": 20.1518
+  },
+  {
+    "kommune": "KINN",
+    "station_id": "SN59010",
+    "latitude": 61.9309,
+    "longitude": 5.12764
+  },
+  {
+    "kommune": "RINDAL",
+    "station_id": "SN64590",
+    "latitude": 63.097,
+    "longitude": 9.43667
+  },
+  {
+    "kommune": "BERGEN",
+    "station_id": "SN50570",
+    "latitude": 60.404,
+    "longitude": 5.3358
+  },
+  {
+    "kommune": "RINGSAKER",
+    "station_id": "SN12960",
+    "latitude": 61.1638,
+    "longitude": 10.7088
+  },
+  {
+    "kommune": "L\u00c6RDAL",
+    "station_id": "SN54320",
+    "latitude": 61.0583,
+    "longitude": 7.818
+  },
+  {
+    "kommune": "SURNADAL",
+    "station_id": "SN64970",
+    "latitude": 63.0075,
+    "longitude": 8.66383
+  },
+  {
+    "kommune": "HJARTDAL",
+    "station_id": "SN31855",
+    "latitude": 59.5873,
+    "longitude": 8.585
+  },
+  {
+    "kommune": "\u00c5S",
+    "station_id": "SN17850",
+    "latitude": 59.6605,
+    "longitude": 10.7818
+  },
+  {
+    "kommune": "ASKVOLL",
+    "station_id": "SN57030",
+    "latitude": 61.35917,
+    "longitude": 5.17283
+  },
+  {
+    "kommune": "TROMS\u00d8",
+    "station_id": "SN91060",
+    "latitude": 69.6017,
+    "longitude": 19.7092
+  },
+  {
+    "kommune": "T\u00d8NSBERG",
+    "station_id": "SN27261",
+    "latitude": 59.2625,
+    "longitude": 10.4985
+  },
+  {
+    "kommune": "FR\u00d8YA",
+    "station_id": "SN65930",
+    "latitude": 63.8719,
+    "longitude": 8.5509
+  },
+  {
+    "kommune": "TOKKE",
+    "station_id": "SN37570",
+    "latitude": 59.3792661,
+    "longitude": 7.8276227
+  },
+  {
+    "kommune": "TROMS\u00d8",
+    "station_id": "SN90360",
+    "latitude": 69.54633,
+    "longitude": 19.00867
+  },
+  {
+    "kommune": "MIDT-TELEMARK",
+    "station_id": "SN32061",
+    "latitude": 59.3822,
+    "longitude": 9.2118
+  },
+  {
+    "kommune": "SOGNDAL",
+    "station_id": "SN55702",
+    "latitude": 61.15917,
+    "longitude": 7.1365
+  },
+  {
+    "kommune": "NITTEDAL",
+    "station_id": "SN4455",
+    "latitude": 60.11067,
+    "longitude": 10.84667
+  },
+  {
+    "kommune": "ORKLAND",
+    "station_id": "SN65275",
+    "latitude": 63.228,
+    "longitude": 9.3853
+  },
+  {
+    "kommune": "DRAMMEN",
+    "station_id": "SN27010",
+    "latitude": 59.713,
+    "longitude": 10.146
+  },
+  {
+    "kommune": "GLOPPEN",
+    "station_id": "SN57990",
+    "latitude": 61.6594,
+    "longitude": 5.9468
+  },
+  {
+    "kommune": "KINN",
+    "station_id": "SN59210",
+    "latitude": 61.92917,
+    "longitude": 5.12133
+  },
+  {
+    "kommune": "KVAM",
+    "station_id": "SN50310",
+    "latitude": 60.3889174,
+    "longitude": 5.9636631
+  },
+  {
+    "kommune": "SKJERV\u00d8Y",
+    "station_id": "SN91670",
+    "latitude": 69.92,
+    "longitude": 20.6
+  },
+  {
+    "kommune": "LESJA",
+    "station_id": "SN16845",
+    "latitude": 62.147,
+    "longitude": 8.69033
+  },
+  {
+    "kommune": "VOSS",
+    "station_id": "SN51530",
+    "latitude": 60.6252,
+    "longitude": 6.4265
+  },
+  {
+    "kommune": "L\u00d8DINGEN",
+    "station_id": "SN85040",
+    "latitude": 68.368,
+    "longitude": 15.943
+  },
+  {
+    "kommune": "LILLEHAMMER",
+    "station_id": "SN12700",
+    "latitude": 61.104,
+    "longitude": 10.5112
+  },
+  {
+    "kommune": "HOLMESTRAND",
+    "station_id": "SN26750",
+    "latitude": 59.57017,
+    "longitude": 10.05967
+  },
+  {
+    "kommune": "STAD",
+    "station_id": "SN58860",
+    "latitude": 61.8902,
+    "longitude": 6.1065
+  },
+  {
+    "kommune": "BERGEN",
+    "station_id": "SN50830",
+    "latitude": 60.42133,
+    "longitude": 5.461
+  },
+  {
+    "kommune": "AUSTEVOLL",
+    "station_id": "SN50175",
+    "latitude": 60.0167,
+    "longitude": 5.2038
+  },
+  {
+    "kommune": "RANA",
+    "station_id": "SN79253",
+    "latitude": 66.16567,
+    "longitude": 14.58367
+  },
+  {
+    "kommune": "SARPSBORG",
+    "station_id": "SN3190",
+    "latitude": 59.2850933,
+    "longitude": 11.1127995
+  },
+  {
+    "kommune": "H\u00c5",
+    "station_id": "SN43895",
+    "latitude": 58.5505,
+    "longitude": 5.6815
+  },
+  {
+    "kommune": "\u00d8YGARDEN",
+    "station_id": "SN50525",
+    "latitude": 60.372,
+    "longitude": 5.1555
+  },
+  {
+    "kommune": "SM\u00d8LA",
+    "station_id": "SN65320",
+    "latitude": 63.478,
+    "longitude": 7.99333
+  },
+  {
+    "kommune": "HEMSEDAL",
+    "station_id": "SN25090",
+    "latitude": 60.867445,
+    "longitude": 8.532364
+  },
+  {
+    "kommune": "HJELMELAND",
+    "station_id": "SN45770",
+    "latitude": 59.23,
+    "longitude": 6.1498
+  },
+  {
+    "kommune": "HER\u00d8Y",
+    "station_id": "SN59820",
+    "latitude": 62.3195,
+    "longitude": 5.72083
+  },
+  {
+    "kommune": "OSLO",
+    "station_id": "SN18810",
+    "latitude": 59.9118,
+    "longitude": 10.6815
+  },
+  {
+    "kommune": "SUNNFJORD",
+    "station_id": "SN56895",
+    "latitude": 61.34567,
+    "longitude": 6.3215
+  },
+  {
+    "kommune": "STANGE",
+    "station_id": "SN5370",
+    "latitude": 60.52517,
+    "longitude": 11.50867
+  },
+  {
+    "kommune": "MOSS",
+    "station_id": "SN17150",
+    "latitude": 59.3742,
+    "longitude": 10.798
+  },
+  {
+    "kommune": "OSLO",
+    "station_id": "SN18020",
+    "latitude": 59.8775,
+    "longitude": 10.8185
+  },
+  {
+    "kommune": "BERGEN",
+    "station_id": "SN50507",
+    "latitude": 60.331,
+    "longitude": 5.29917
+  },
+  {
+    "kommune": "VOLDA",
+    "station_id": "SN58950",
+    "latitude": 61.972,
+    "longitude": 6.517
+  },
+  {
+    "kommune": "ULLENSAKER",
+    "station_id": "SN4715",
+    "latitude": 60.1481,
+    "longitude": 11.1827
+  },
+  {
+    "kommune": "TRONDHEIM",
+    "station_id": "SN68173",
+    "latitude": 63.4153,
+    "longitude": 10.4072
+  },
+  {
+    "kommune": "LIERNE",
+    "station_id": "SN73466",
+    "latitude": 64.4595,
+    "longitude": 13.5978
+  },
+  {
+    "kommune": "TRONDHEIM",
+    "station_id": "SN67150",
+    "latitude": 63.3281,
+    "longitude": 10.2733
+  },
+  {
+    "kommune": "NARVIK",
+    "station_id": "SN84905",
+    "latitude": 68.436,
+    "longitude": 18.1035
+  },
+  {
+    "kommune": "SOGNDAL",
+    "station_id": "SN55720",
+    "latitude": 61.2168,
+    "longitude": 7.0183
+  },
+  {
+    "kommune": "SULDAL",
+    "station_id": "SN46820",
+    "latitude": 59.56117,
+    "longitude": 6.26917
+  },
+  {
+    "kommune": "HOLMESTRAND",
+    "station_id": "SN26992",
+    "latitude": 59.6269639,
+    "longitude": 10.2291486
+  },
+  {
+    "kommune": "LIER",
+    "station_id": "SN19958",
+    "latitude": 59.8953,
+    "longitude": 10.2937
+  },
+  {
+    "kommune": "ALSTAHAUG",
+    "station_id": "SN76750",
+    "latitude": 65.9635,
+    "longitude": 12.4785
+  },
+  {
+    "kommune": "KARLS\u00d8Y",
+    "station_id": "SN90800",
+    "latitude": 70.2452,
+    "longitude": 19.4997
+  },
+  {
+    "kommune": "FEDJE",
+    "station_id": "SN52535",
+    "latitude": 60.7525,
+    "longitude": 4.715
+  },
+  {
+    "kommune": "SORTLAND",
+    "station_id": "SN86520",
+    "latitude": 68.6481059,
+    "longitude": 15.2832298
+  },
+  {
+    "kommune": "SULDAL",
+    "station_id": "SN46380",
+    "latitude": 59.6814,
+    "longitude": 6.9777
+  },
+  {
+    "kommune": "BYKLE",
+    "station_id": "SN40405",
+    "latitude": 59.35017,
+    "longitude": 7.3405
+  },
+  {
+    "kommune": "BYGLAND",
+    "station_id": "SN39750",
+    "latitude": 58.6863,
+    "longitude": 7.803
+  },
+  {
+    "kommune": "BARENTSHAVET",
+    "station_id": "SN76956",
+    "latitude": 71.3112,
+    "longitude": 22.25
+  },
+  {
+    "kommune": "OPPDAL",
+    "station_id": "SN63705",
+    "latitude": 62.6027,
+    "longitude": 9.666
+  },
+  {
+    "kommune": "MASFJORDEN",
+    "station_id": "SN52750",
+    "latitude": 60.8462,
+    "longitude": 5.2108
+  },
+  {
+    "kommune": "T\u00d8NSBERG",
+    "station_id": "SN27315",
+    "latitude": 59.3808,
+    "longitude": 10.2397
+  },
+  {
+    "kommune": "LIER",
+    "station_id": "SN19940",
+    "latitude": 59.7908,
+    "longitude": 10.2598
+  },
+  {
+    "kommune": "MER\u00c5KER",
+    "station_id": "SN69420",
+    "latitude": 63.2855,
+    "longitude": 11.9045
+  },
+  {
+    "kommune": "ULLENSVANG",
+    "station_id": "SN33990",
+    "latitude": 59.84983,
+    "longitude": 7.08733
+  },
+  {
+    "kommune": "PORSGRUNN",
+    "station_id": "SN30249",
+    "latitude": 59.0875,
+    "longitude": 9.802
+  },
+  {
+    "kommune": "HALDEN",
+    "station_id": "SN1135",
+    "latitude": 58.99,
+    "longitude": 11.54083
+  },
+  {
+    "kommune": "HUSTADVIKA",
+    "station_id": "SN62700",
+    "latitude": 62.9087,
+    "longitude": 7.2436
+  },
+  {
+    "kommune": "KARLS\u00d8Y",
+    "station_id": "SN90755",
+    "latitude": 70.079,
+    "longitude": 19.9963
+  },
+  {
+    "kommune": "BALSFJORD",
+    "station_id": "SN90100",
+    "latitude": 69.414,
+    "longitude": 18.6773
+  },
+  {
+    "kommune": "HOLMESTRAND",
+    "station_id": "SN27055",
+    "latitude": 59.58317,
+    "longitude": 10.1755
+  },
+  {
+    "kommune": "TROMS\u00d8",
+    "station_id": "SN90450",
+    "latitude": 69.6537,
+    "longitude": 18.9368
+  },
+  {
+    "kommune": "GJERSTAD",
+    "station_id": "SN35210",
+    "latitude": 58.87,
+    "longitude": 9.0263
+  },
+  {
+    "kommune": "RAUMA",
+    "station_id": "SN61408",
+    "latitude": 62.48883,
+    "longitude": 7.76117
+  },
+  {
+    "kommune": "SENJA",
+    "station_id": "SN88440",
+    "latitude": 69.2858,
+    "longitude": 17.149
+  },
+  {
+    "kommune": "LUND",
+    "station_id": "SN43007",
+    "latitude": 58.4727,
+    "longitude": 6.4062
+  },
+  {
+    "kommune": "TRONDHEIM",
+    "station_id": "SN68110",
+    "latitude": 63.4182,
+    "longitude": 10.2642
+  },
+  {
+    "kommune": "HOLMESTRAND",
+    "station_id": "SN27073",
+    "latitude": 59.4979054,
+    "longitude": 10.242283
+  },
+  {
+    "kommune": "VINJE",
+    "station_id": "SN31550",
+    "latitude": 59.8295,
+    "longitude": 8.3265
+  },
+  {
+    "kommune": "SKJERV\u00d8Y",
+    "station_id": "SN91715",
+    "latitude": 70.00333,
+    "longitude": 20.8985
+  },
+  {
+    "kommune": "T\u00d8NSBERG",
+    "station_id": "SN27270",
+    "latitude": 59.2782,
+    "longitude": 10.4312
+  },
+  {
+    "kommune": "ULLENSVANG",
+    "station_id": "SN46425",
+    "latitude": 59.8228,
+    "longitude": 6.7383
+  },
+  {
+    "kommune": "GRANE",
+    "station_id": "SN77405",
+    "latitude": 65.20217,
+    "longitude": 13.37935
+  },
+  {
+    "kommune": "SOLA",
+    "station_id": "SN44550",
+    "latitude": 58.8725,
+    "longitude": 5.6645
+  },
+  {
+    "kommune": "VESTV\u00c5G\u00d8Y",
+    "station_id": "SN85560",
+    "latitude": 68.1557873,
+    "longitude": 13.61214
+  },
+  {
+    "kommune": "HEIM",
+    "station_id": "SN65230",
+    "latitude": 63.2613,
+    "longitude": 9.0115
+  },
+  {
+    "kommune": "KARM\u00d8Y",
+    "station_id": "SN47262",
+    "latitude": 59.39415,
+    "longitude": 5.264
+  },
+  {
+    "kommune": "SOGNDAL",
+    "station_id": "SN55705",
+    "latitude": 61.20167,
+    "longitude": 7.20983
+  },
+  {
+    "kommune": "B\u00d8MLO",
+    "station_id": "SN48330",
+    "latitude": 59.907,
+    "longitude": 5.0668
+  },
+  {
+    "kommune": "VINDAFJORD",
+    "station_id": "SN46930",
+    "latitude": 59.4927,
+    "longitude": 5.7208
+  },
+  {
+    "kommune": "VALLE",
+    "station_id": "SN40300",
+    "latitude": 59.27133,
+    "longitude": 7.41
+  },
+  {
+    "kommune": "TRONDHEIM",
+    "station_id": "SN69010",
+    "latitude": 63.3188,
+    "longitude": 10.648
+  },
+  {
+    "kommune": "K\u00c5FJORD",
+    "station_id": "SN91251",
+    "latitude": 69.4722,
+    "longitude": 20.5268
+  },
+  {
+    "kommune": "T\u00d8NSBERG",
+    "station_id": "SN27318",
+    "latitude": 59.363,
+    "longitude": 10.3672
+  },
+  {
+    "kommune": "GISKE",
+    "station_id": "SN60980",
+    "latitude": 62.50817,
+    "longitude": 6.07617
+  },
+  {
+    "kommune": "KONGSVINGER",
+    "station_id": "SN5660",
+    "latitude": 60.2537,
+    "longitude": 12.0913
+  },
+  {
+    "kommune": "OSLO",
+    "station_id": "SN18310",
+    "latitude": 59.9147,
+    "longitude": 10.7747
+  },
+  {
+    "kommune": "EIDFJORD",
+    "station_id": "SN49631",
+    "latitude": 60.4647338,
+    "longitude": 7.0659746
+  },
+  {
+    "kommune": "KVINNHERAD",
+    "station_id": "SN47890",
+    "latitude": 59.8578,
+    "longitude": 6.017
+  },
+  {
+    "kommune": "VESTNES",
+    "station_id": "SN61070",
+    "latitude": 62.5325,
+    "longitude": 6.949
+  },
+  {
+    "kommune": "KARLS\u00d8Y",
+    "station_id": "SN90650",
+    "latitude": 70.0083,
+    "longitude": 19.573
+  },
+  {
+    "kommune": "ULLENSVANG",
+    "station_id": "SN46410",
+    "latitude": 59.75283,
+    "longitude": 6.78983
+  },
+  {
+    "kommune": "MOLDE",
+    "station_id": "SN62290",
+    "latitude": 62.7413,
+    "longitude": 7.2275
+  },
+  {
+    "kommune": "S\u00d8RFOLD",
+    "station_id": "SN82970",
+    "latitude": 67.74633,
+    "longitude": 15.91417
+  },
+  {
+    "kommune": "FROLAND",
+    "station_id": "SN38730",
+    "latitude": 58.6007,
+    "longitude": 8.4167
+  },
+  {
+    "kommune": "RENDALEN",
+    "station_id": "SN8800",
+    "latitude": 61.8645,
+    "longitude": 10.90967
+  },
+  {
+    "kommune": "H\u00d8YANGER",
+    "station_id": "SN56010",
+    "latitude": 61.22,
+    "longitude": 6.0702
+  },
+  {
+    "kommune": "TOLGA",
+    "station_id": "SN770",
+    "latitude": 62.204,
+    "longitude": 11.4525
+  },
+  {
+    "kommune": "LIER",
+    "station_id": "SN19925",
+    "latitude": 59.8207,
+    "longitude": 10.3292
+  },
+  {
+    "kommune": "RINGSAKER",
+    "station_id": "SN12550",
+    "latitude": 60.7733,
+    "longitude": 10.8055
+  },
+  {
+    "kommune": "KARLS\u00d8Y",
+    "station_id": "SN90740",
+    "latitude": 69.8544,
+    "longitude": 19.6316
+  },
+  {
+    "kommune": "INDRE FOSEN",
+    "station_id": "SN71280",
+    "latitude": 63.6856,
+    "longitude": 10.6075
+  },
+  {
+    "kommune": "HOL",
+    "station_id": "SN25640",
+    "latitude": 60.532,
+    "longitude": 8.1483
+  },
+  {
+    "kommune": "LILLESTR\u00d8M",
+    "station_id": "SN18265",
+    "latitude": 59.962,
+    "longitude": 10.975
+  },
+  {
+    "kommune": "\u00c5MLI",
+    "station_id": "SN37070",
+    "latitude": 58.90317,
+    "longitude": 8.562
+  },
+  {
+    "kommune": "S\u00d8MNA",
+    "station_id": "SN76250",
+    "latitude": 65.2965004,
+    "longitude": 12.1643952
+  },
+  {
+    "kommune": "VESTV\u00c5G\u00d8Y",
+    "station_id": "SN85545",
+    "latitude": 68.15,
+    "longitude": 13.6
+  },
+  {
+    "kommune": "STOR-ELVDAL",
+    "station_id": "SN8450",
+    "latitude": 61.791,
+    "longitude": 10.501
+  },
+  {
+    "kommune": "DRAMMEN",
+    "station_id": "SN26950",
+    "latitude": 59.6027,
+    "longitude": 10.4047
+  },
+  {
+    "kommune": "NOTODDEN",
+    "station_id": "SN30530",
+    "latitude": 59.5688,
+    "longitude": 9.2643
+  },
+  {
+    "kommune": "MELHUS",
+    "station_id": "SN67153",
+    "latitude": 63.3237,
+    "longitude": 10.2438
+  },
+  {
+    "kommune": "SN\u00c5SA",
+    "station_id": "SN70930",
+    "latitude": 64.2489819,
+    "longitude": 12.4379696
+  },
+  {
+    "kommune": "KRISTIANSUND",
+    "station_id": "SN64300",
+    "latitude": 63.1257,
+    "longitude": 7.7027
+  },
+  {
+    "kommune": "HUSTADVIKA",
+    "station_id": "SN62900",
+    "latitude": 62.8909,
+    "longitude": 7.3896
+  },
+  {
+    "kommune": "TRONDHEIM",
+    "station_id": "SN68050",
+    "latitude": 63.4428,
+    "longitude": 10.4428
+  },
+  {
+    "kommune": "ORKLAND",
+    "station_id": "SN66175",
+    "latitude": 63.23067,
+    "longitude": 9.76283
+  },
+  {
+    "kommune": "RAKKESTAD",
+    "station_id": "SN1380",
+    "latitude": 59.376,
+    "longitude": 11.30267
+  },
+  {
+    "kommune": "ULLENSVANG",
+    "station_id": "SN49245",
+    "latitude": 59.9333,
+    "longitude": 6.5887
+  },
+  {
+    "kommune": "VAKSDAL",
+    "station_id": "SN52170",
+    "latitude": 60.8028,
+    "longitude": 6.1468
+  },
+  {
+    "kommune": "MEL\u00d8Y",
+    "station_id": "SN80700",
+    "latitude": 66.8102,
+    "longitude": 13.9793
+  },
+  {
+    "kommune": "RINGEBU",
+    "station_id": "SN13160",
+    "latitude": 61.46474255,
+    "longitude": 10.12662056
+  },
+  {
+    "kommune": "BERGEN",
+    "station_id": "SN50770",
+    "latitude": 60.46117,
+    "longitude": 5.38883
+  },
+  {
+    "kommune": "LOPPA",
+    "station_id": "SN92875",
+    "latitude": 70.2333,
+    "longitude": 22.3579
+  },
+  {
+    "kommune": "NORSKEHAVET",
+    "station_id": "SN77040",
+    "latitude": 67.0672,
+    "longitude": 7.0947
+  },
+  {
+    "kommune": "RANA",
+    "station_id": "SN79220",
+    "latitude": 66.2348,
+    "longitude": 13.904
+  },
+  {
+    "kommune": "KAUTOKEINO",
+    "station_id": "SN93611",
+    "latitude": 69.2187,
+    "longitude": 23.4403
+  },
+  {
+    "kommune": "L\u00d8RENSKOG",
+    "station_id": "SN4090",
+    "latitude": 59.914,
+    "longitude": 10.9425
+  },
+  {
+    "kommune": "ARENDAL",
+    "station_id": "SN36200",
+    "latitude": 58.3988,
+    "longitude": 8.7893
+  },
+  {
+    "kommune": "TINN",
+    "station_id": "SN31400",
+    "latitude": 59.8655,
+    "longitude": 8.6978
+  },
+  {
+    "kommune": "INDRE \u00d8STFOLD",
+    "station_id": "SN3731",
+    "latitude": 59.5928,
+    "longitude": 11.0917
+  },
+  {
+    "kommune": "NARVIK",
+    "station_id": "SN84630",
+    "latitude": 68.421,
+    "longitude": 17.4802
+  },
+  {
+    "kommune": "R\u00c5DE",
+    "station_id": "SN17090",
+    "latitude": 59.35033,
+    "longitude": 10.897
+  },
+  {
+    "kommune": "GLOPPEN",
+    "station_id": "SN58100",
+    "latitude": 61.8293,
+    "longitude": 6.1043
+  },
+  {
+    "kommune": "B\u00d8",
+    "station_id": "SN86810",
+    "latitude": 68.781,
+    "longitude": 14.48983
+  },
+  {
+    "kommune": "\u00c5S",
+    "station_id": "SN76914",
+    "latitude": 59.660088,
+    "longitude": 10.7821181
+  },
+  {
+    "kommune": "\u00d8YGARDEN",
+    "station_id": "SN52475",
+    "latitude": 60.5313,
+    "longitude": 4.8933
+  },
+  {
+    "kommune": "NES",
+    "station_id": "SN4960",
+    "latitude": 60.16883,
+    "longitude": 11.47917
+  },
+  {
+    "kommune": "LOM",
+    "station_id": "SN15430",
+    "latitude": 61.7195,
+    "longitude": 8.2423
+  },
+  {
+    "kommune": "ARENDAL",
+    "station_id": "SN36110",
+    "latitude": 58.4613,
+    "longitude": 8.7228
+  },
+  {
+    "kommune": "VINJE",
+    "station_id": "SN31660",
+    "latitude": 60.018,
+    "longitude": 7.913
+  },
+  {
+    "kommune": "BERGEN",
+    "station_id": "SN50815",
+    "latitude": 60.4768,
+    "longitude": 5.348
+  },
+  {
+    "kommune": "DRAMMEN",
+    "station_id": "SN26932",
+    "latitude": 59.721,
+    "longitude": 10.2168
+  },
+  {
+    "kommune": "T\u00d8NSBERG",
+    "station_id": "SN27282",
+    "latitude": 59.2632,
+    "longitude": 10.3603
+  },
+  {
+    "kommune": "VIK",
+    "station_id": "SN53130",
+    "latitude": 61.0688,
+    "longitude": 6.9345
+  },
+  {
+    "kommune": "NESSEBY",
+    "station_id": "SN98976",
+    "latitude": 70.306,
+    "longitude": 29.1003
+  },
+  {
+    "kommune": "BIRKENES",
+    "station_id": "SN38380",
+    "latitude": 58.5234,
+    "longitude": 8.0392
+  },
+  {
+    "kommune": "VANG",
+    "station_id": "SN23720",
+    "latitude": 61.124,
+    "longitude": 8.569
+  },
+  {
+    "kommune": "OSLO",
+    "station_id": "SN18920",
+    "latitude": 59.9573,
+    "longitude": 10.671
+  },
+  {
+    "kommune": "HAMAR",
+    "station_id": "SN12290",
+    "latitude": 60.80056,
+    "longitude": 11.0948
+  },
+  {
+    "kommune": "LILLESTR\u00d8M",
+    "station_id": "SN4260",
+    "latitude": 59.9775,
+    "longitude": 10.9777
+  },
+  {
+    "kommune": "HARAM",
+    "station_id": "SN61025",
+    "latitude": 62.59467,
+    "longitude": 6.25367
+  },
+  {
+    "kommune": "VOSS",
+    "station_id": "SN51470",
+    "latitude": 60.6455,
+    "longitude": 6.222
+  },
+  {
+    "kommune": "BOD\u00d8",
+    "station_id": "SN82450",
+    "latitude": 67.34,
+    "longitude": 13.57
+  },
+  {
+    "kommune": "SEL",
+    "station_id": "SN16040",
+    "latitude": 61.7782,
+    "longitude": 9.5413
+  },
+  {
+    "kommune": "ALTA",
+    "station_id": "SN94230",
+    "latitude": 70.4107,
+    "longitude": 22.8177
+  },
+  {
+    "kommune": "STANGE",
+    "station_id": "SN12030",
+    "latitude": 60.5545,
+    "longitude": 11.2502
+  },
+  {
+    "kommune": "VEFSN",
+    "station_id": "SN78170",
+    "latitude": 66.053,
+    "longitude": 13.58217
+  },
+  {
+    "kommune": "RENNEBU",
+    "station_id": "SN66740",
+    "latitude": 62.7509,
+    "longitude": 9.9839
+  },
+  {
+    "kommune": "RAUMA",
+    "station_id": "SN61420",
+    "latitude": 62.4458,
+    "longitude": 7.8355
+  },
+  {
+    "kommune": "VAKSDAL",
+    "station_id": "SN51210",
+    "latitude": 60.6123,
+    "longitude": 5.8335
+  },
+  {
+    "kommune": "BJERKREIM",
+    "station_id": "SN43530",
+    "latitude": 58.56033,
+    "longitude": 6.07617
+  },
+  {
+    "kommune": "FREDRIKSTAD",
+    "station_id": "SN17000",
+    "latitude": 59.15154567,
+    "longitude": 10.82829919
+  },
+  {
+    "kommune": "HALDEN",
+    "station_id": "SN2980",
+    "latitude": 59.1105,
+    "longitude": 11.27533
+  },
+  {
+    "kommune": "GJERSTAD",
+    "station_id": "SN35090",
+    "latitude": 58.8037,
+    "longitude": 9.098
+  },
+  {
+    "kommune": "LYNGEN",
+    "station_id": "SN91200",
+    "latitude": 69.931,
+    "longitude": 20.1968
+  },
+  {
+    "kommune": "SANDNES",
+    "station_id": "SN45740",
+    "latitude": 59.16295,
+    "longitude": 6.6175
+  },
+  {
+    "kommune": "MOSS",
+    "station_id": "SN17380",
+    "latitude": 59.398,
+    "longitude": 10.7543
+  },
+  {
+    "kommune": "DRAMMEN",
+    "station_id": "SN26594",
+    "latitude": 59.7327,
+    "longitude": 10.1973
+  },
+  {
+    "kommune": "STRYN",
+    "station_id": "SN58390",
+    "latitude": 61.838,
+    "longitude": 6.6
+  },
+  {
+    "kommune": "\u00d8VRE EIKER",
+    "station_id": "SN26630",
+    "latitude": 59.7323,
+    "longitude": 9.8728
+  },
+  {
+    "kommune": "KARLS\u00d8Y",
+    "station_id": "SN90940",
+    "latitude": 70.01,
+    "longitude": 19.67
+  },
+  {
+    "kommune": "BERGEN",
+    "station_id": "SN50710",
+    "latitude": 60.4365,
+    "longitude": 5.3217
+  },
+  {
+    "kommune": "H\u00c5",
+    "station_id": "SN44080",
+    "latitude": 58.6592,
+    "longitude": 5.5553
+  },
+  {
+    "kommune": "SURNADAL",
+    "station_id": "SN64760",
+    "latitude": 62.9853,
+    "longitude": 8.6895
+  },
+  {
+    "kommune": "VADS\u00d8",
+    "station_id": "SN98790",
+    "latitude": 70.0653,
+    "longitude": 29.8352
+  },
+  {
+    "kommune": "HAMAR",
+    "station_id": "SN12320",
+    "latitude": 60.818,
+    "longitude": 11.0697
+  },
+  {
+    "kommune": "SANDNES",
+    "station_id": "SN45300",
+    "latitude": 59.0278,
+    "longitude": 6.7019
+  },
+  {
+    "kommune": "AURLAND",
+    "station_id": "SN53680",
+    "latitude": 60.8625,
+    "longitude": 7.1603
+  },
+  {
+    "kommune": "OSLO",
+    "station_id": "SN18690",
+    "latitude": 59.91117,
+    "longitude": 10.70433
+  },
+  {
+    "kommune": "FL\u00c5",
+    "station_id": "SN24710",
+    "latitude": 60.383,
+    "longitude": 9.605
+  },
+  {
+    "kommune": "K\u00c5FJORD",
+    "station_id": "SN91505",
+    "latitude": 69.585,
+    "longitude": 20.39883
+  },
+  {
+    "kommune": "M\u00c5S\u00d8Y",
+    "station_id": "SN94430",
+    "latitude": 70.93517,
+    "longitude": 24.67133
+  },
+  {
+    "kommune": "FREDRIKSTAD",
+    "station_id": "SN17030",
+    "latitude": 59.2648,
+    "longitude": 10.75
+  },
+  {
+    "kommune": "STRANDA",
+    "station_id": "SN60247",
+    "latitude": 62.028,
+    "longitude": 6.72883
+  },
+  {
+    "kommune": "SAUDA",
+    "station_id": "SN46610",
+    "latitude": 59.6479,
+    "longitude": 6.3499
+  },
+  {
+    "kommune": "RINGSAKER",
+    "station_id": "SN12580",
+    "latitude": 60.91533,
+    "longitude": 10.7955
+  },
+  {
+    "kommune": "TINN",
+    "station_id": "SN31080",
+    "latitude": 60.1284309,
+    "longitude": 8.7011124
+  },
+  {
+    "kommune": "GRATANGEN",
+    "station_id": "SN87970",
+    "latitude": 68.62067,
+    "longitude": 17.65133
+  },
+  {
+    "kommune": "BOD\u00d8",
+    "station_id": "SN81340",
+    "latitude": 67.20367,
+    "longitude": 14.81867
+  },
+  {
+    "kommune": "HARAM",
+    "station_id": "SN61010",
+    "latitude": 62.540597,
+    "longitude": 6.479502
+  },
+  {
+    "kommune": "HOL",
+    "station_id": "SN25580",
+    "latitude": 60.5825,
+    "longitude": 8.32133
+  },
+  {
+    "kommune": "TRONDHEIM",
+    "station_id": "SN68053",
+    "latitude": 63.4427521,
+    "longitude": 10.453122
+  },
+  {
+    "kommune": "OSLO",
+    "station_id": "SN18645",
+    "latitude": 59.9142,
+    "longitude": 10.7202
+  },
+  {
+    "kommune": "DRAMMEN",
+    "station_id": "SN26872",
+    "latitude": 59.7523,
+    "longitude": 10.1705
+  },
+  {
+    "kommune": "SM\u00d8LA",
+    "station_id": "SN65370",
+    "latitude": 63.4197,
+    "longitude": 8.063
+  },
+  {
+    "kommune": "VIK",
+    "station_id": "SN53070",
+    "latitude": 61.0728,
+    "longitude": 6.5813
+  },
+  {
+    "kommune": "KARLS\u00d8Y",
+    "station_id": "SN90680",
+    "latitude": 70.066,
+    "longitude": 19.3473
+  },
+  {
+    "kommune": "LUR\u00d8Y",
+    "station_id": "SN80102",
+    "latitude": 66.3705,
+    "longitude": 12.611
+  },
+  {
+    "kommune": "KARM\u00d8Y",
+    "station_id": "SN47220",
+    "latitude": 59.1895,
+    "longitude": 5.18367
+  },
+  {
+    "kommune": "OSLO",
+    "station_id": "SN18205",
+    "latitude": 59.9287,
+    "longitude": 10.7902
+  },
+  {
+    "kommune": "LILLESTR\u00d8M",
+    "station_id": "SN4200",
+    "latitude": 59.9708,
+    "longitude": 11.0383
+  },
+  {
+    "kommune": "\u00c5LESUND",
+    "station_id": "SN60965",
+    "latitude": 62.470596,
+    "longitude": 6.187761
+  },
+  {
+    "kommune": "LEVANGER",
+    "station_id": "SN69865",
+    "latitude": 63.7395,
+    "longitude": 11.28
+  },
+  {
+    "kommune": "STRANDA",
+    "station_id": "SN60310",
+    "latitude": 62.13617,
+    "longitude": 7.18483
+  },
+  {
+    "kommune": "FARSUND",
+    "station_id": "SN42160",
+    "latitude": 58.109,
+    "longitude": 6.5675
+  },
+  {
+    "kommune": "KRAGER\u00d8",
+    "station_id": "SN34130",
+    "latitude": 58.8565,
+    "longitude": 9.5745
+  },
+  {
+    "kommune": "F\u00c6RDER",
+    "station_id": "SN27500",
+    "latitude": 59.0272,
+    "longitude": 10.5242
+  },
+  {
+    "kommune": "TRONDHEIM",
+    "station_id": "SN68860",
+    "latitude": 63.4107,
+    "longitude": 10.4538
+  },
+  {
+    "kommune": "ASKER",
+    "station_id": "SN19820",
+    "latitude": 59.6272,
+    "longitude": 10.5645
+  },
+  {
+    "kommune": "MEL\u00d8Y",
+    "station_id": "SN80730",
+    "latitude": 66.8815,
+    "longitude": 13.6675
+  },
+  {
+    "kommune": "FJORD",
+    "station_id": "SN60400",
+    "latitude": 62.2473791,
+    "longitude": 7.2385587
+  },
+  {
+    "kommune": "KARLS\u00d8Y",
+    "station_id": "SN90635",
+    "latitude": 69.95,
+    "longitude": 19.59
+  },
+  {
+    "kommune": "BALSFJORD",
+    "station_id": "SN89980",
+    "latitude": 69.0935,
+    "longitude": 19.6278
+  },
+  {
+    "kommune": "LESJA",
+    "station_id": "SN61620",
+    "latitude": 62.2702,
+    "longitude": 8.164
+  },
+  {
+    "kommune": "SANDEFJORD",
+    "station_id": "SN27590",
+    "latitude": 59.129,
+    "longitude": 10.2195
+  },
+  {
+    "kommune": "T\u00d8NSBERG",
+    "station_id": "SN27285",
+    "latitude": 59.33085,
+    "longitude": 10.379
+  },
+  {
+    "kommune": "HATTFJELLDAL",
+    "station_id": "SN77850",
+    "latitude": 65.3675,
+    "longitude": 14.2458
+  },
+  {
+    "kommune": "TRYSIL",
+    "station_id": "SN100",
+    "latitude": 61.1349,
+    "longitude": 12.5039
+  },
+  {
+    "kommune": "\u00c5LESUND",
+    "station_id": "SN60947",
+    "latitude": 62.47017,
+    "longitude": 6.20383
+  },
+  {
+    "kommune": "\u00c5LESUND",
+    "station_id": "SN60920",
+    "latitude": 62.474122,
+    "longitude": 6.34067
+  },
+  {
+    "kommune": "ULLENSVANG",
+    "station_id": "SN49490",
+    "latitude": 60.3185,
+    "longitude": 6.6538
+  },
+  {
+    "kommune": "GRANE",
+    "station_id": "SN77285",
+    "latitude": 65.55085,
+    "longitude": 13.39634
+  },
+  {
+    "kommune": "V\u00c5GAN",
+    "station_id": "SN85440",
+    "latitude": 68.3267,
+    "longitude": 14.6522
+  },
+  {
+    "kommune": "MOLDE",
+    "station_id": "SN61880",
+    "latitude": 62.77267,
+    "longitude": 7.88933
+  },
+  {
+    "kommune": "STRYN",
+    "station_id": "SN58480",
+    "latitude": 61.6940513,
+    "longitude": 6.8059333
+  },
+  {
+    "kommune": "BERGEN",
+    "station_id": "SN50450",
+    "latitude": 60.2728,
+    "longitude": 5.3305
+  },
+  {
+    "kommune": "\u00c5SERAL",
+    "station_id": "SN41550",
+    "latitude": 58.7878,
+    "longitude": 7.3501
+  },
+  {
+    "kommune": "BOD\u00d8",
+    "station_id": "SN82560",
+    "latitude": 67.5437,
+    "longitude": 14.8722
+  },
+  {
+    "kommune": "MOLDE",
+    "station_id": "SN62230",
+    "latitude": 62.7770207,
+    "longitude": 7.4546191
+  },
+  {
+    "kommune": "FROLAND",
+    "station_id": "SN36490",
+    "latitude": 58.5967,
+    "longitude": 8.717
+  },
+  {
+    "kommune": "ENGERDAL",
+    "station_id": "SN405",
+    "latitude": 61.6755,
+    "longitude": 11.99871
+  },
+  {
+    "kommune": "BERGEN",
+    "station_id": "SN50540",
+    "latitude": 60.383,
+    "longitude": 5.3327
+  },
+  {
+    "kommune": "LYNGEN",
+    "station_id": "SN91245",
+    "latitude": 69.5735,
+    "longitude": 20.212
+  },
+  {
+    "kommune": "ALVER",
+    "station_id": "SN52415",
+    "latitude": 60.7037,
+    "longitude": 5.2273
+  },
+  {
+    "kommune": "VEFSN",
+    "station_id": "SN77240",
+    "latitude": 65.7795,
+    "longitude": 13.2088
+  },
+  {
+    "kommune": "SKIEN",
+    "station_id": "SN30380",
+    "latitude": 59.4558,
+    "longitude": 9.5337
+  },
+  {
+    "kommune": "OSLO",
+    "station_id": "SN18950",
+    "latitude": 59.9847986,
+    "longitude": 10.6692319
+  },
+  {
+    "kommune": "LUNNER",
+    "station_id": "SN20520",
+    "latitude": 60.295,
+    "longitude": 10.5753
+  },
+  {
+    "kommune": "HITRA",
+    "station_id": "SN65451",
+    "latitude": 63.5187,
+    "longitude": 9.1125
+  },
+  {
+    "kommune": "BREMANGER",
+    "station_id": "SN57789",
+    "latitude": 61.66733,
+    "longitude": 5.19483
+  },
+  {
+    "kommune": "SANDNES",
+    "station_id": "SN44780",
+    "latitude": 58.86417,
+    "longitude": 5.96217
+  },
+  {
+    "kommune": "EIGERSUND",
+    "station_id": "SN43380",
+    "latitude": 58.4622,
+    "longitude": 6.0055
+  },
+  {
+    "kommune": "LOPPA",
+    "station_id": "SN92860",
+    "latitude": 70.1728,
+    "longitude": 22.3413
+  },
+  {
+    "kommune": "NARVIK",
+    "station_id": "SN83960",
+    "latitude": 68.2565,
+    "longitude": 16.3953
+  },
+  {
+    "kommune": "\u00c5L",
+    "station_id": "SN25320",
+    "latitude": 60.6391,
+    "longitude": 8.5609
+  },
+  {
+    "kommune": "ENEBAKK",
+    "station_id": "SN17640",
+    "latitude": 59.73967,
+    "longitude": 11.00833
+  },
+  {
+    "kommune": "VEFSN",
+    "station_id": "SN77150",
+    "latitude": 65.835,
+    "longitude": 13.076
+  },
+  {
+    "kommune": "ETNE",
+    "station_id": "SN47600",
+    "latitude": 59.66332,
+    "longitude": 6.063064
+  },
+  {
+    "kommune": "SOGNDAL",
+    "station_id": "SN55728",
+    "latitude": 61.3243258,
+    "longitude": 6.9261694
+  },
+  {
+    "kommune": "SUNNFJORD",
+    "station_id": "SN56850",
+    "latitude": 61.3262,
+    "longitude": 6.1983
+  },
+  {
+    "kommune": "SKIEN",
+    "station_id": "SN30320",
+    "latitude": 59.1992,
+    "longitude": 9.5895
+  },
+  {
+    "kommune": "ALVER",
+    "station_id": "SN52400",
+    "latitude": 60.6268,
+    "longitude": 5.3742
+  },
+  {
+    "kommune": "RINGEBU",
+    "station_id": "SN13390",
+    "latitude": 61.5465,
+    "longitude": 10.0747
+  },
+  {
+    "kommune": "FREDRIKSTAD",
+    "station_id": "SN3019",
+    "latitude": 59.2105,
+    "longitude": 10.945
+  },
+  {
+    "kommune": "SENJA",
+    "station_id": "SN88628",
+    "latitude": 69.49883,
+    "longitude": 17.511
+  },
+  {
+    "kommune": "GULEN",
+    "station_id": "SN52570",
+    "latitude": 60.854799,
+    "longitude": 4.931659
+  },
+  {
+    "kommune": "STORD",
+    "station_id": "SN48120",
+    "latitude": 59.7933,
+    "longitude": 5.3407
+  },
+  {
+    "kommune": "RENNEBU",
+    "station_id": "SN66620",
+    "latitude": 62.864,
+    "longitude": 9.8354
+  },
+  {
+    "kommune": "STAD",
+    "station_id": "SN58770",
+    "latitude": 61.9032,
+    "longitude": 6.026
+  },
+  {
+    "kommune": "ASKER",
+    "station_id": "SN19760",
+    "latitude": 59.82,
+    "longitude": 10.3812
+  },
+  {
+    "kommune": "VEFSN",
+    "station_id": "SN78050",
+    "latitude": 65.9563,
+    "longitude": 13.4205
+  },
+  {
+    "kommune": "SKIEN",
+    "station_id": "SN30410",
+    "latitude": 59.213,
+    "longitude": 9.5572
+  },
+  {
+    "kommune": "B\u00c6RUM",
+    "station_id": "SN19428",
+    "latitude": 59.8925,
+    "longitude": 10.5777
+  },
+  {
+    "kommune": "EIDSKOG",
+    "station_id": "SN40",
+    "latitude": 59.89317,
+    "longitude": 11.82
+  },
+  {
+    "kommune": "FLESBERG",
+    "station_id": "SN28750",
+    "latitude": 59.8685,
+    "longitude": 9.3995
+  },
+  {
+    "kommune": "SKIEN",
+    "station_id": "SN30275",
+    "latitude": 59.1988,
+    "longitude": 9.635
+  },
+  {
+    "kommune": "RANA",
+    "station_id": "SN79764",
+    "latitude": 66.4993,
+    "longitude": 14.954
+  },
+  {
+    "kommune": "DOVRE",
+    "station_id": "SN16620",
+    "latitude": 62.18067,
+    "longitude": 9.47517
+  },
+  {
+    "kommune": "STJ\u00d8RDAL",
+    "station_id": "SN69150",
+    "latitude": 63.488132,
+    "longitude": 10.8796051
+  },
+  {
+    "kommune": "SUNNDAL",
+    "station_id": "SN64700",
+    "latitude": 62.722,
+    "longitude": 8.7753
+  },
+  {
+    "kommune": "SKJ\u00c5K",
+    "station_id": "SN15660",
+    "latitude": 61.9013,
+    "longitude": 8.1706
+  },
+  {
+    "kommune": "V\u00c5GAN",
+    "station_id": "SN85380",
+    "latitude": 68.1535,
+    "longitude": 14.6485
+  },
+  {
+    "kommune": "DOVRE",
+    "station_id": "SN9380",
+    "latitude": 62.2958,
+    "longitude": 9.352
+  },
+  {
+    "kommune": "TRONDHEIM",
+    "station_id": "SN68863",
+    "latitude": 63.4107,
+    "longitude": 10.4535
+  },
+  {
+    "kommune": "VIK",
+    "station_id": "SN53010",
+    "latitude": 60.96883,
+    "longitude": 6.5009
+  },
+  {
+    "kommune": "V\u00c5GAN",
+    "station_id": "SN85470",
+    "latitude": 68.2417,
+    "longitude": 14.4793
+  },
+  {
+    "kommune": "BERGEN",
+    "station_id": "SN50480",
+    "latitude": 60.2913,
+    "longitude": 5.2777
+  },
+  {
+    "kommune": "STORFJORD",
+    "station_id": "SN91490",
+    "latitude": 69.1185,
+    "longitude": 20.7455
+  },
+  {
+    "kommune": "ULLENSVANG",
+    "station_id": "SN49080",
+    "latitude": 60.2795,
+    "longitude": 6.3857
+  },
+  {
+    "kommune": "DOVRE",
+    "station_id": "SN16611",
+    "latitude": 62.1125,
+    "longitude": 9.28625
+  },
+  {
+    "kommune": "OSLO",
+    "station_id": "SN18235",
+    "latitude": 59.942,
+    "longitude": 10.8972
+  },
+  {
+    "kommune": "MARKER",
+    "station_id": "SN1960",
+    "latitude": 59.51,
+    "longitude": 11.61067
+  },
+  {
+    "kommune": "EVJE OG HORNNES",
+    "station_id": "SN39570",
+    "latitude": 58.57733,
+    "longitude": 7.91
+  },
+  {
+    "kommune": "GLOPPEN",
+    "station_id": "SN58070",
+    "latitude": 61.7873,
+    "longitude": 6.1835
+  },
+  {
+    "kommune": "NESSEBY",
+    "station_id": "SN99080",
+    "latitude": 70.0603,
+    "longitude": 29.0307
+  },
+  {
+    "kommune": "VOSS",
+    "station_id": "SN51440",
+    "latitude": 60.647,
+    "longitude": 6.1105
+  },
+  {
+    "kommune": "KVAM",
+    "station_id": "SN50040",
+    "latitude": 60.44367,
+    "longitude": 6.4865
+  },
+  {
+    "kommune": "NARVIK",
+    "station_id": "SN84770",
+    "latitude": 68.4683,
+    "longitude": 17.482
+  },
+  {
+    "kommune": "BREMANGER",
+    "station_id": "SN57810",
+    "latitude": 61.7707,
+    "longitude": 5.2983
+  },
+  {
+    "kommune": "SM\u00d8LA",
+    "station_id": "SN65310",
+    "latitude": 63.5176,
+    "longitude": 7.9482
+  },
+  {
+    "kommune": "ALTA",
+    "station_id": "SN94020",
+    "latitude": 70.0418,
+    "longitude": 23.5394
+  },
+  {
+    "kommune": "GOL",
+    "station_id": "SN25000",
+    "latitude": 60.838527,
+    "longitude": 8.85129
+  },
+  {
+    "kommune": "HARSTAD",
+    "station_id": "SN87740",
+    "latitude": 68.70617,
+    "longitude": 16.52117
+  },
+  {
+    "kommune": "MODALEN",
+    "station_id": "SN52310",
+    "latitude": 60.859,
+    "longitude": 5.9758
+  },
+  {
+    "kommune": "KARM\u00d8Y",
+    "station_id": "SN47232",
+    "latitude": 59.2643,
+    "longitude": 5.1927
+  },
+  {
+    "kommune": "BYKLE",
+    "station_id": "SN40880",
+    "latitude": 59.5765946,
+    "longitude": 7.3896454
+  },
+  {
+    "kommune": "LILLESTR\u00d8M",
+    "station_id": "SN4140",
+    "latitude": 59.95455,
+    "longitude": 11.04008
+  },
+  {
+    "kommune": "B\u00c6RUM",
+    "station_id": "SN19527",
+    "latitude": 59.96,
+    "longitude": 10.5315
+  },
+  {
+    "kommune": "ULVIK",
+    "station_id": "SN53530",
+    "latitude": 60.6563,
+    "longitude": 7.2755
+  },
+  {
+    "kommune": "TRONDHEIM",
+    "station_id": "SN68262",
+    "latitude": 63.3064,
+    "longitude": 10.4657
+  },
+  {
+    "kommune": "RANA",
+    "station_id": "SN79791",
+    "latitude": 66.55483,
+    "longitude": 15.3235
+  },
+  {
+    "kommune": "HAREID",
+    "station_id": "SN59586",
+    "latitude": 62.34683,
+    "longitude": 5.91433
+  },
+  {
+    "kommune": "FR\u00d8YA",
+    "station_id": "SN65920",
+    "latitude": 63.8692,
+    "longitude": 8.6615
+  },
+  {
+    "kommune": "LILLESTR\u00d8M",
+    "station_id": "SN18280",
+    "latitude": 59.9865,
+    "longitude": 10.92867
+  },
+  {
+    "kommune": "STRAND",
+    "station_id": "SN45590",
+    "latitude": 59.0658907,
+    "longitude": 5.9457228
+  },
+  {
+    "kommune": "VOLDA",
+    "station_id": "SN59667",
+    "latitude": 62.1497,
+    "longitude": 6.1122
+  },
+  {
+    "kommune": "R\u00d8ROS",
+    "station_id": "SN10600",
+    "latitude": 62.674007,
+    "longitude": 11.4550109
+  },
+  {
+    "kommune": "VOSS",
+    "station_id": "SN51610",
+    "latitude": 60.64383,
+    "longitude": 6.4355
+  },
+  {
+    "kommune": "R\u00d8D\u00d8Y",
+    "station_id": "SN80320",
+    "latitude": 66.4896,
+    "longitude": 13.2281
+  },
+  {
+    "kommune": "NORDRE LAND",
+    "station_id": "SN21680",
+    "latitude": 60.9345,
+    "longitude": 10.0358
+  },
+  {
+    "kommune": "SULA",
+    "station_id": "SN60860",
+    "latitude": 62.4135,
+    "longitude": 6.32717
+  },
+  {
+    "kommune": "SKIEN",
+    "station_id": "SN30293",
+    "latitude": 59.1975,
+    "longitude": 9.6087
+  },
+  {
+    "kommune": "PORSANGER",
+    "station_id": "SN95590",
+    "latitude": 70.3133,
+    "longitude": 25.5703
+  },
+  {
+    "kommune": "LINDESNES",
+    "station_id": "SN41795",
+    "latitude": 58.111,
+    "longitude": 7.20917
+  },
+  {
+    "kommune": "MIDT-TELEMARK",
+    "station_id": "SN32240",
+    "latitude": 59.4175,
+    "longitude": 9.0287
+  },
+  {
+    "kommune": "LIERNE",
+    "station_id": "SN73250",
+    "latitude": 64.2432,
+    "longitude": 13.765
+  },
+  {
+    "kommune": "MOLDE",
+    "station_id": "SN61820",
+    "latitude": 62.663,
+    "longitude": 8.105
+  },
+  {
+    "kommune": "NORD-AURDAL",
+    "station_id": "SN22990",
+    "latitude": 60.9532,
+    "longitude": 9.3343
+  },
+  {
+    "kommune": "BAMBLE",
+    "station_id": "SN34115",
+    "latitude": 58.9675,
+    "longitude": 9.4837
+  },
+  {
+    "kommune": "HAMMERFEST",
+    "station_id": "SN94280",
+    "latitude": 70.6807,
+    "longitude": 23.6772
+  },
+  {
+    "kommune": "B\u00c6RUM",
+    "station_id": "SN19455",
+    "latitude": 59.8892,
+    "longitude": 10.5243
+  },
+  {
+    "kommune": "S\u00d8R-AURDAL",
+    "station_id": "SN22730",
+    "latitude": 60.6197,
+    "longitude": 9.7238
+  },
+  {
+    "kommune": "PORSGRUNN",
+    "station_id": "SN30248",
+    "latitude": 59.0537,
+    "longitude": 9.7013
+  },
+  {
+    "kommune": "HORTEN",
+    "station_id": "SN27162",
+    "latitude": 59.3563,
+    "longitude": 10.46
+  },
+  {
+    "kommune": "LOM",
+    "station_id": "SN15050",
+    "latitude": 61.84117,
+    "longitude": 8.5845
+  },
+  {
+    "kommune": "KONGSVINGER",
+    "station_id": "SN5495",
+    "latitude": 60.102,
+    "longitude": 12.063
+  },
+  {
+    "kommune": "LOPPA",
+    "station_id": "SN92650",
+    "latitude": 70.2368,
+    "longitude": 22.0705
+  },
+  {
+    "kommune": "HEMSEDAL",
+    "station_id": "SN25110",
+    "latitude": 60.8548588,
+    "longitude": 8.5929429
+  },
+  {
+    "kommune": "ULLENSAKER",
+    "station_id": "SN4780",
+    "latitude": 60.2065,
+    "longitude": 11.0802
+  },
+  {
+    "kommune": "TRONDHEIM",
+    "station_id": "SN68238",
+    "latitude": 63.34835,
+    "longitude": 10.3706
+  },
+  {
+    "kommune": "\u00c5LESUND",
+    "station_id": "SN60890",
+    "latitude": 62.4654,
+    "longitude": 6.4013
+  },
+  {
+    "kommune": "HASVIK",
+    "station_id": "SN93000",
+    "latitude": 70.607,
+    "longitude": 22.4428
+  },
+  {
+    "kommune": "GLOPPEN",
+    "station_id": "SN57660",
+    "latitude": 61.6407,
+    "longitude": 5.8157
+  },
+  {
+    "kommune": "GULEN",
+    "station_id": "SN52860",
+    "latitude": 61.0272,
+    "longitude": 5.3813
+  },
+  {
+    "kommune": "R\u00d8ROS",
+    "station_id": "SN10800",
+    "latitude": 62.6793,
+    "longitude": 11.8153
+  },
+  {
+    "kommune": "\u00c5LESUND",
+    "station_id": "SN60935",
+    "latitude": 62.463428,
+    "longitude": 6.253464
+  },
+  {
+    "kommune": "FREDRIKSTAD",
+    "station_id": "SN3120",
+    "latitude": 59.2597,
+    "longitude": 11.0207
+  },
+  {
+    "kommune": "HOL",
+    "station_id": "SN25541",
+    "latitude": 60.68108,
+    "longitude": 8.00375
+  },
+  {
+    "kommune": "RAUMA",
+    "station_id": "SN61410",
+    "latitude": 62.4555,
+    "longitude": 7.7703
+  },
+  {
+    "kommune": "BOD\u00d8",
+    "station_id": "SN81310",
+    "latitude": 67.19783,
+    "longitude": 14.6315
+  },
+  {
+    "kommune": "ASKER",
+    "station_id": "SN19718",
+    "latitude": 59.8303,
+    "longitude": 10.439
+  },
+  {
+    "kommune": "LYNGDAL",
+    "station_id": "SN41825",
+    "latitude": 58.134,
+    "longitude": 7.0452
+  },
+  {
+    "kommune": "\u00c5RDAL",
+    "station_id": "SN54780",
+    "latitude": 61.310226,
+    "longitude": 7.8177126
+  },
+  {
+    "kommune": "TROMS\u00d8",
+    "station_id": "SN90560",
+    "latitude": 69.6988,
+    "longitude": 18.8772
+  },
+  {
+    "kommune": "ASKER",
+    "station_id": "SN19790",
+    "latitude": 59.7597,
+    "longitude": 10.4523
+  },
+  {
+    "kommune": "KVINNHERAD",
+    "station_id": "SN48500",
+    "latitude": 59.9913349,
+    "longitude": 6.0263667
+  },
+  {
+    "kommune": "HOLT\u00c5LEN",
+    "station_id": "SN67780",
+    "latitude": 62.8523,
+    "longitude": 11.2058
+  },
+  {
+    "kommune": "B\u00c6RUM",
+    "station_id": "SN19458",
+    "latitude": 59.9248,
+    "longitude": 10.5878
+  },
+  {
+    "kommune": "STANGE",
+    "station_id": "SN12110",
+    "latitude": 60.7155,
+    "longitude": 11.1903
+  },
+  {
+    "kommune": "KARM\u00d8Y",
+    "station_id": "SN47172",
+    "latitude": 59.3838,
+    "longitude": 5.3173
+  },
+  {
+    "kommune": "EIDFJORD",
+    "station_id": "SN49720",
+    "latitude": 60.439,
+    "longitude": 7.156
+  },
+  {
+    "kommune": "ULLENSAKER",
+    "station_id": "SN4735",
+    "latitude": 60.1705,
+    "longitude": 11.1105
+  },
+  {
+    "kommune": "KAUTOKEINO",
+    "station_id": "SN93700",
+    "latitude": 68.9964,
+    "longitude": 23.0349
+  },
+  {
+    "kommune": "GILDESK\u00c5L",
+    "station_id": "SN80870",
+    "latitude": 67.08367,
+    "longitude": 14.2075
+  },
+  {
+    "kommune": "ELVERUM",
+    "station_id": "SN6700",
+    "latitude": 60.95733,
+    "longitude": 11.49017
+  },
+  {
+    "kommune": "ULLENSAKER",
+    "station_id": "SN4807",
+    "latitude": 60.0948,
+    "longitude": 11.2144
+  },
+  {
+    "kommune": "ALTA",
+    "station_id": "SN94050",
+    "latitude": 70.1282,
+    "longitude": 23.6168
+  },
+  {
+    "kommune": "KRISTIANSAND",
+    "station_id": "SN39160",
+    "latitude": 58.1717,
+    "longitude": 8.019
+  },
+  {
+    "kommune": "SANDEFJORD",
+    "station_id": "SN27730",
+    "latitude": 59.18667,
+    "longitude": 10.20717
+  },
+  {
+    "kommune": "SENJA",
+    "station_id": "SN88640",
+    "latitude": 69.5457,
+    "longitude": 17.6715
+  },
+  {
+    "kommune": "ALVER",
+    "station_id": "SN52555",
+    "latitude": 60.79283,
+    "longitude": 5.02183
+  },
+  {
+    "kommune": "LILLEHAMMER",
+    "station_id": "SN12666",
+    "latitude": 61.108,
+    "longitude": 10.442
+  },
+  {
+    "kommune": "STORD",
+    "station_id": "SN48069",
+    "latitude": 59.73717,
+    "longitude": 5.3795
+  },
+  {
+    "kommune": "HOLMESTRAND",
+    "station_id": "SN27057",
+    "latitude": 59.5650719,
+    "longitude": 10.2638442
+  },
+  {
+    "kommune": "ROLLAG",
+    "station_id": "SN28923",
+    "latitude": 60.03933,
+    "longitude": 9.16667
+  },
+  {
+    "kommune": "RINGEBU",
+    "station_id": "SN13420",
+    "latitude": 61.6513,
+    "longitude": 10.1082
+  },
+  {
+    "kommune": "SANDEFJORD",
+    "station_id": "SN27470",
+    "latitude": 59.1845,
+    "longitude": 10.2553
+  },
+  {
+    "kommune": "ASKVOLL",
+    "station_id": "SN57050",
+    "latitude": 61.34486,
+    "longitude": 5.0651
+  },
+  {
+    "kommune": "LEKA",
+    "station_id": "SN75550",
+    "latitude": 65.2023,
+    "longitude": 10.9965
+  },
+  {
+    "kommune": "TRONDHEIM",
+    "station_id": "SN68175",
+    "latitude": 63.4078,
+    "longitude": 10.4388
+  },
+  {
+    "kommune": "MOLDE",
+    "station_id": "SN62200",
+    "latitude": 62.8275,
+    "longitude": 7.60483
+  },
+  {
+    "kommune": "\u00c5LESUND",
+    "station_id": "SN60800",
+    "latitude": 62.4775,
+    "longitude": 6.8167
+  },
+  {
+    "kommune": "BOD\u00d8",
+    "station_id": "SN82225",
+    "latitude": 67.2745,
+    "longitude": 14.4922
+  },
+  {
+    "kommune": "TROMS\u00d8",
+    "station_id": "SN90721",
+    "latitude": 69.9997,
+    "longitude": 18.7053
+  },
+  {
+    "kommune": "ULLENSAKER",
+    "station_id": "SN4385",
+    "latitude": 60.0618,
+    "longitude": 11.1515
+  },
+  {
+    "kommune": "SUNNDAL",
+    "station_id": "SN63420",
+    "latitude": 62.6785,
+    "longitude": 8.5473
+  },
+  {
+    "kommune": "KARLS\u00d8Y",
+    "station_id": "SN90730",
+    "latitude": 69.83,
+    "longitude": 19.52
+  },
+  {
+    "kommune": "SOKNDAL",
+    "station_id": "SN43090",
+    "latitude": 58.325,
+    "longitude": 6.3582
+  },
+  {
+    "kommune": "DOVRE",
+    "station_id": "SN16560",
+    "latitude": 62.07165,
+    "longitude": 9.1147
+  },
+  {
+    "kommune": "RENDALEN",
+    "station_id": "SN7660",
+    "latitude": 61.696,
+    "longitude": 11.2042
+  },
+  {
+    "kommune": "B\u00c6RUM",
+    "station_id": "SN19530",
+    "latitude": 59.9967,
+    "longitude": 10.4601
+  },
+  {
+    "kommune": "SOGNDAL",
+    "station_id": "SN55740",
+    "latitude": 61.3648,
+    "longitude": 6.9077
+  },
+  {
+    "kommune": "\u00d8YGARDEN",
+    "station_id": "SN52510",
+    "latitude": 60.7318,
+    "longitude": 4.661
+  },
+  {
+    "kommune": "ENGERDAL",
+    "station_id": "SN725",
+    "latitude": 62.08183,
+    "longitude": 12.132
+  },
+  {
+    "kommune": "ALVDAL",
+    "station_id": "SN8880",
+    "latitude": 62.1093,
+    "longitude": 10.6268
+  },
+  {
+    "kommune": "HAMMERFEST",
+    "station_id": "SN94238",
+    "latitude": 70.6322,
+    "longitude": 23.6475
+  },
+  {
+    "kommune": "SKIEN",
+    "station_id": "SN30305",
+    "latitude": 59.2485,
+    "longitude": 9.66367
+  },
+  {
+    "kommune": "\u00c5SNES",
+    "station_id": "SN6440",
+    "latitude": 60.6925,
+    "longitude": 12.369
+  },
+  {
+    "kommune": "SKJERV\u00d8Y",
+    "station_id": "SN91690",
+    "latitude": 69.99,
+    "longitude": 20.71
+  },
+  {
+    "kommune": "SVEIO",
+    "station_id": "SN47450",
+    "latitude": 59.6532,
+    "longitude": 5.4335
+  },
+  {
+    "kommune": "HORTEN",
+    "station_id": "SN27120",
+    "latitude": 59.4283,
+    "longitude": 10.3847
+  },
+  {
+    "kommune": "KVAM",
+    "station_id": "SN50070",
+    "latitude": 60.3632,
+    "longitude": 6.2805
+  },
+  {
+    "kommune": "\u00c5S",
+    "station_id": "SN17870",
+    "latitude": 59.6704,
+    "longitude": 10.8104
+  },
+  {
+    "kommune": "EIGERSUND",
+    "station_id": "SN43350",
+    "latitude": 58.43517,
+    "longitude": 5.87183
+  },
+  {
+    "kommune": "S\u00d8R-VARANGER",
+    "station_id": "SN99460",
+    "latitude": 69.4552,
+    "longitude": 30.041
+  },
+  {
+    "kommune": "STORFJORD",
+    "station_id": "SN91430",
+    "latitude": 69.2235,
+    "longitude": 20.5795
+  },
+  {
+    "kommune": "OPPDAL",
+    "station_id": "SN63725",
+    "latitude": 62.60067,
+    "longitude": 9.7215
+  },
+  {
+    "kommune": "NORDREISA",
+    "station_id": "SN91780",
+    "latitude": 69.6928,
+    "longitude": 21.0845
+  },
+  {
+    "kommune": "RINGERIKE",
+    "station_id": "SN24240",
+    "latitude": 60.25883,
+    "longitude": 9.84533
+  },
+  {
+    "kommune": "TYNSET",
+    "station_id": "SN9580",
+    "latitude": 62.2695,
+    "longitude": 10.732
+  },
+  {
+    "kommune": "SUNNFJORD",
+    "station_id": "SN56790",
+    "latitude": 61.32283,
+    "longitude": 5.77733
+  },
+  {
+    "kommune": "STRANDA",
+    "station_id": "SN60190",
+    "latitude": 62.3065,
+    "longitude": 6.849
+  },
+  {
+    "kommune": "STAVANGER",
+    "station_id": "SN44660",
+    "latitude": 58.9987,
+    "longitude": 5.7193
+  },
+  {
+    "kommune": "RENDALEN",
+    "station_id": "SN7920",
+    "latitude": 62.1083,
+    "longitude": 11.0355
+  },
+  {
+    "kommune": "S\u00d8R-VARANGER",
+    "station_id": "SN99370",
+    "latitude": 69.7287,
+    "longitude": 29.9057
+  },
+  {
+    "kommune": "HOLMESTRAND",
+    "station_id": "SN27075",
+    "latitude": 59.511,
+    "longitude": 10.2078
+  },
+  {
+    "kommune": "GOL",
+    "station_id": "SN25200",
+    "latitude": 60.689502,
+    "longitude": 8.895581
+  },
+  {
+    "kommune": "NARVIK",
+    "station_id": "SN84710",
+    "latitude": 68.45,
+    "longitude": 17.4667
+  },
+  {
+    "kommune": "SKIEN",
+    "station_id": "SN30350",
+    "latitude": 59.2695,
+    "longitude": 9.5667
+  },
+  {
+    "kommune": "SKJERV\u00d8Y",
+    "station_id": "SN91726",
+    "latitude": 70.0618,
+    "longitude": 20.56
+  },
+  {
+    "kommune": "R\u00d8D\u00d8Y",
+    "station_id": "SN80610",
+    "latitude": 66.7628,
+    "longitude": 12.486
+  },
+  {
+    "kommune": "NESSEBY",
+    "station_id": "SN99110",
+    "latitude": 70.0244,
+    "longitude": 29.2922
+  },
+  {
+    "kommune": "SOLA",
+    "station_id": "SN44552",
+    "latitude": 58.9319,
+    "longitude": 5.6012
+  },
+  {
+    "kommune": "TROMS\u00d8",
+    "station_id": "SN91080",
+    "latitude": 69.5,
+    "longitude": 19.713
+  },
+  {
+    "kommune": "NAMSOS",
+    "station_id": "SN72580",
+    "latitude": 64.4708,
+    "longitude": 11.5705
+  },
+  {
+    "kommune": "NARVIK",
+    "station_id": "SN84701",
+    "latitude": 68.4372,
+    "longitude": 17.4212
+  },
+  {
+    "kommune": "MOSS",
+    "station_id": "SN17251",
+    "latitude": 59.4425,
+    "longitude": 10.6835
+  },
+  {
+    "kommune": "LARVIK",
+    "station_id": "SN30242",
+    "latitude": 58.99283,
+    "longitude": 9.92317
+  },
+  {
+    "kommune": "GRANE",
+    "station_id": "SN77425",
+    "latitude": 65.1662,
+    "longitude": 13.3667
+  },
+  {
+    "kommune": "K\u00c5FJORD",
+    "station_id": "SN91502",
+    "latitude": 69.5543,
+    "longitude": 20.4108
+  },
+  {
+    "kommune": "VOSS",
+    "station_id": "SN51990",
+    "latitude": 60.8655,
+    "longitude": 6.4733
+  },
+  {
+    "kommune": "SENJA",
+    "station_id": "SN88200",
+    "latitude": 69.2348,
+    "longitude": 17.9013
+  },
+  {
+    "kommune": "SKJ\u00c5K",
+    "station_id": "SN15905",
+    "latitude": 62.0151279,
+    "longitude": 7.6209823
+  },
+  {
+    "kommune": "FOLLDAL",
+    "station_id": "SN8970",
+    "latitude": 62.2317,
+    "longitude": 10.3418
+  },
+  {
+    "kommune": "NESODDEN",
+    "station_id": "SN17780",
+    "latitude": 59.8095,
+    "longitude": 10.6308
+  },
+  {
+    "kommune": "LILLESTR\u00d8M",
+    "station_id": "SN4825",
+    "latitude": 59.942,
+    "longitude": 11.3015
+  },
+  {
+    "kommune": "SUNNFJORD",
+    "station_id": "SN56960",
+    "latitude": 61.4202,
+    "longitude": 6.3758
+  },
+  {
+    "kommune": "STRAND",
+    "station_id": "SN45530",
+    "latitude": 59.0512,
+    "longitude": 6.1212
+  },
+  {
+    "kommune": "LARVIK",
+    "station_id": "SN30000",
+    "latitude": 59.0572,
+    "longitude": 10.0667
+  },
+  {
+    "kommune": "\u00d8STRE TOTEN",
+    "station_id": "SN11500",
+    "latitude": 60.7002,
+    "longitude": 10.8695
+  },
+  {
+    "kommune": "FLEKKEFJORD",
+    "station_id": "SN42650",
+    "latitude": 58.2839873,
+    "longitude": 6.6498
+  },
+  {
+    "kommune": "GRONG",
+    "station_id": "SN73630",
+    "latitude": 64.6237,
+    "longitude": 12.6053
+  },
+  {
+    "kommune": "RANA",
+    "station_id": "SN80000",
+    "latitude": 66.27883,
+    "longitude": 13.9015
+  },
+  {
+    "kommune": "SKIEN",
+    "station_id": "SN30278",
+    "latitude": 59.1465,
+    "longitude": 9.6177
+  },
+  {
+    "kommune": "LEVANGER",
+    "station_id": "SN69730",
+    "latitude": 63.68963,
+    "longitude": 11.19145
+  },
+  {
+    "kommune": "EIDSVOLL",
+    "station_id": "SN11440",
+    "latitude": 60.58783,
+    "longitude": 11.147
+  },
+  {
+    "kommune": "KRISTIANSUND",
+    "station_id": "SN64320",
+    "latitude": 63.1258,
+    "longitude": 7.7303
+  },
+  {
+    "kommune": "STORD",
+    "station_id": "SN48072",
+    "latitude": 59.74967,
+    "longitude": 5.40383
+  },
+  {
+    "kommune": "NESSEBY",
+    "station_id": "SN98978",
+    "latitude": 70.3357,
+    "longitude": 28.9648
+  },
+  {
+    "kommune": "GRIMSTAD",
+    "station_id": "SN38140",
+    "latitude": 58.34,
+    "longitude": 8.5225
+  },
+  {
+    "kommune": "SAMNANGER",
+    "station_id": "SN50351",
+    "latitude": 60.464,
+    "longitude": 5.8938
+  },
+  {
+    "kommune": "SUNNFJORD",
+    "station_id": "SN58165",
+    "latitude": 61.6093,
+    "longitude": 6.5288
+  },
+  {
+    "kommune": "NESODDEN",
+    "station_id": "SN17810",
+    "latitude": 59.8553,
+    "longitude": 10.6622
+  },
+  {
+    "kommune": "LOM",
+    "station_id": "SN15262",
+    "latitude": 61.674,
+    "longitude": 8.3685
+  },
+  {
+    "kommune": "SAMNANGER",
+    "station_id": "SN50360",
+    "latitude": 60.39817,
+    "longitude": 5.65017
+  },
+  {
+    "kommune": "FL\u00c5",
+    "station_id": "SN26450",
+    "latitude": 60.36667,
+    "longitude": 9.186
+  },
+  {
+    "kommune": "VESTBY",
+    "station_id": "SN17550",
+    "latitude": 59.51767,
+    "longitude": 10.72517
+  },
+  {
+    "kommune": "V\u00c5GAN",
+    "station_id": "SN86310",
+    "latitude": 68.327,
+    "longitude": 14.1777
+  },
+  {
+    "kommune": "MER\u00c5KER",
+    "station_id": "SN69380",
+    "latitude": 63.41129,
+    "longitude": 11.7279
+  },
+  {
+    "kommune": "BERGEN",
+    "station_id": "SN50539",
+    "latitude": 60.3837,
+    "longitude": 5.332
+  },
+  {
+    "kommune": "VENNESLA",
+    "station_id": "SN39450",
+    "latitude": 58.3085,
+    "longitude": 7.8125
+  },
+  {
+    "kommune": "\u00c5LESUND",
+    "station_id": "SN60875",
+    "latitude": 62.4848,
+    "longitude": 6.4797
+  },
+  {
+    "kommune": "SKJ\u00c5K",
+    "station_id": "SN15890",
+    "latitude": 62.0162,
+    "longitude": 7.6637
+  },
+  {
+    "kommune": "FREDRIKSTAD",
+    "station_id": "SN3060",
+    "latitude": 59.2435203,
+    "longitude": 10.8996461
+  },
+  {
+    "kommune": "NITTEDAL",
+    "station_id": "SN4460",
+    "latitude": 60.1173,
+    "longitude": 10.829
+  },
+  {
+    "kommune": "HEMSEDAL",
+    "station_id": "SN25140",
+    "latitude": 60.8808729,
+    "longitude": 8.3454396
+  },
+  {
+    "kommune": "ORKLAND",
+    "station_id": "SN66150",
+    "latitude": 63.3153,
+    "longitude": 9.8495
+  },
+  {
+    "kommune": "HEMNES",
+    "station_id": "SN78370",
+    "latitude": 66.1415,
+    "longitude": 13.8067
+  },
+  {
+    "kommune": "VESTNES",
+    "station_id": "SN61090",
+    "latitude": 62.5247,
+    "longitude": 7.1307
+  },
+  {
+    "kommune": "TROMS\u00d8",
+    "station_id": "SN91020",
+    "latitude": 69.6367,
+    "longitude": 19.5103
+  },
+  {
+    "kommune": "ALTA",
+    "station_id": "SN93200",
+    "latitude": 69.9218,
+    "longitude": 23.0896
+  },
+  {
+    "kommune": "ALTA",
+    "station_id": "SN92895",
+    "latitude": 70.03983,
+    "longitude": 22.25733
+  },
+  {
+    "kommune": "TINN",
+    "station_id": "SN31250",
+    "latitude": 59.9958,
+    "longitude": 8.3755
+  },
+  {
+    "kommune": "NORSKEHAVET",
+    "station_id": "SN20932",
+    "latitude": 68.2252,
+    "longitude": 15.4733
+  },
+  {
+    "kommune": "STRYN",
+    "station_id": "SN58560",
+    "latitude": 61.9037,
+    "longitude": 6.7183
+  },
+  {
+    "kommune": "GJ\u00d8VIK",
+    "station_id": "SN11790",
+    "latitude": 60.791,
+    "longitude": 10.39983
+  },
+  {
+    "kommune": "OSLO",
+    "station_id": "SN18420",
+    "latitude": 59.946,
+    "longitude": 10.7903
+  },
+  {
+    "kommune": "KRISTIANSAND",
+    "station_id": "SN39100",
+    "latitude": 58.0732,
+    "longitude": 8.0532
+  },
+  {
+    "kommune": "KARLS\u00d8Y",
+    "station_id": "SN90760",
+    "latitude": 70.10426,
+    "longitude": 20.11451
+  },
+  {
+    "kommune": "L\u00d8RENSKOG",
+    "station_id": "SN4110",
+    "latitude": 59.946,
+    "longitude": 10.9762
+  },
+  {
+    "kommune": "SOGNDAL",
+    "station_id": "SN55770",
+    "latitude": 61.1792,
+    "longitude": 6.8608
+  },
+  {
+    "kommune": "VEGA",
+    "station_id": "SN76450",
+    "latitude": 65.7017,
+    "longitude": 11.8562
+  },
+  {
+    "kommune": "TYDAL",
+    "station_id": "SN68420",
+    "latitude": 63.0556,
+    "longitude": 11.5669
+  },
+  {
+    "kommune": "NOTODDEN",
+    "station_id": "SN30810",
+    "latitude": 59.723778,
+    "longitude": 9.02453
+  },
+  {
+    "kommune": "LUR\u00d8Y",
+    "station_id": "SN80200",
+    "latitude": 66.3892,
+    "longitude": 13.1848
+  },
+  {
+    "kommune": "STRYN",
+    "station_id": "SN58533",
+    "latitude": 61.8723,
+    "longitude": 6.786
+  },
+  {
+    "kommune": "TOKKE",
+    "station_id": "SN33430",
+    "latitude": 59.5315,
+    "longitude": 8.1075
+  },
+  {
+    "kommune": "L\u00c6RDAL",
+    "station_id": "SN54110",
+    "latitude": 61.1033,
+    "longitude": 7.5025
+  },
+  {
+    "kommune": "BEIARN",
+    "station_id": "SN81420",
+    "latitude": 67.00417,
+    "longitude": 14.89817
+  },
+  {
+    "kommune": "B\u00c6RUM",
+    "station_id": "SN19461",
+    "latitude": 59.9682,
+    "longitude": 10.5472
+  },
+  {
+    "kommune": "KV\u00c6FJORD",
+    "station_id": "SN87315",
+    "latitude": 68.61783,
+    "longitude": 15.75933
+  },
+  {
+    "kommune": "OPPDAL",
+    "station_id": "SN66760",
+    "latitude": 62.6597,
+    "longitude": 9.8203
+  },
+  {
+    "kommune": "N\u00c6R\u00d8YSUND",
+    "station_id": "SN75140",
+    "latitude": 64.8274,
+    "longitude": 11.6124
+  },
+  {
+    "kommune": "ULLENSVANG",
+    "station_id": "SN46430",
+    "latitude": 59.8315,
+    "longitude": 6.733
+  },
+  {
+    "kommune": "BYGLAND",
+    "station_id": "SN39800",
+    "latitude": 58.74667,
+    "longitude": 7.84817
+  },
+  {
+    "kommune": "B\u00c6RUM",
+    "station_id": "SN19470",
+    "latitude": 59.9603,
+    "longitude": 10.5357
+  },
+  {
+    "kommune": "ETNE",
+    "station_id": "SN47498",
+    "latitude": 59.6625,
+    "longitude": 5.9538
+  },
+  {
+    "kommune": "BERLEV\u00c5G",
+    "station_id": "SN98090",
+    "latitude": 70.8731483,
+    "longitude": 29.0423967
+  },
+  {
+    "kommune": "SOGNDAL",
+    "station_id": "SN55725",
+    "latitude": 61.25017,
+    "longitude": 7.0245
+  },
+  {
+    "kommune": "TYNSET",
+    "station_id": "SN66850",
+    "latitude": 62.5962,
+    "longitude": 10.271
+  },
+  {
+    "kommune": "FEDJE",
+    "station_id": "SN52540",
+    "latitude": 60.78,
+    "longitude": 4.6978
+  },
+  {
+    "kommune": "TROMS\u00d8",
+    "station_id": "SN90491",
+    "latitude": 69.7333,
+    "longitude": 18.7875
+  },
+  {
+    "kommune": "GRUE",
+    "station_id": "SN5680",
+    "latitude": 60.37183,
+    "longitude": 12.0435
+  },
+  {
+    "kommune": "RAUMA",
+    "station_id": "SN61790",
+    "latitude": 62.571,
+    "longitude": 7.783
+  },
+  {
+    "kommune": "KAUTOKEINO",
+    "station_id": "SN93900",
+    "latitude": 68.7559654,
+    "longitude": 23.5395347
+  },
+  {
+    "kommune": "STRYN",
+    "station_id": "SN58910",
+    "latitude": 61.912,
+    "longitude": 6.5835
+  },
+  {
+    "kommune": "VINDAFJORD",
+    "station_id": "SN47480",
+    "latitude": 59.5698,
+    "longitude": 5.7025
+  },
+  {
+    "kommune": "STANGE",
+    "station_id": "SN12050",
+    "latitude": 60.6215,
+    "longitude": 11.29967
+  },
+  {
+    "kommune": "BOD\u00d8",
+    "station_id": "SN82210",
+    "latitude": 67.28783,
+    "longitude": 14.59317
+  },
+  {
+    "kommune": "VINJE",
+    "station_id": "SN33950",
+    "latitude": 59.8118,
+    "longitude": 7.2143
+  },
+  {
+    "kommune": "STORFJORD",
+    "station_id": "SN91460",
+    "latitude": 69.18183,
+    "longitude": 20.75033
+  },
+  {
+    "kommune": "T\u00d8NSBERG",
+    "station_id": "SN27320",
+    "latitude": 59.37405,
+    "longitude": 10.3771
+  },
+  {
+    "kommune": "LIER",
+    "station_id": "SN19945",
+    "latitude": 59.8628,
+    "longitude": 10.2177
+  },
+  {
+    "kommune": "DRAMMEN",
+    "station_id": "SN27015",
+    "latitude": 59.7192,
+    "longitude": 10.1458
+  },
+  {
+    "kommune": "SIRDAL",
+    "station_id": "SN42940",
+    "latitude": 58.923,
+    "longitude": 6.9097
+  },
+  {
+    "kommune": "NORD-ODAL",
+    "station_id": "SN5330",
+    "latitude": 60.35817,
+    "longitude": 11.58983
+  },
+  {
+    "kommune": "NORDREISA",
+    "station_id": "SN91675",
+    "latitude": 69.7537,
+    "longitude": 20.506
+  },
+  {
+    "kommune": "\u00c5MOT",
+    "station_id": "SN7950",
+    "latitude": 61.1847,
+    "longitude": 11.3747
+  },
+  {
+    "kommune": "HALDEN",
+    "station_id": "SN1230",
+    "latitude": 59.1223,
+    "longitude": 11.388
+  },
+  {
+    "kommune": "LEVANGER",
+    "station_id": "SN69640",
+    "latitude": 63.6622,
+    "longitude": 11.1028
+  },
+  {
+    "kommune": "SUNNFJORD",
+    "station_id": "SN57340",
+    "latitude": 61.4573,
+    "longitude": 6.096
+  },
+  {
+    "kommune": "KARLS\u00d8Y",
+    "station_id": "SN90670",
+    "latitude": 69.9983,
+    "longitude": 19.3884
+  },
+  {
+    "kommune": "SKJERV\u00d8Y",
+    "station_id": "SN91729",
+    "latitude": 70.075,
+    "longitude": 20.431
+  },
+  {
+    "kommune": "TYNSET",
+    "station_id": "SN9870",
+    "latitude": 62.4343,
+    "longitude": 10.428
+  },
+  {
+    "kommune": "DRAMMEN",
+    "station_id": "SN26970",
+    "latitude": 59.6625,
+    "longitude": 10.38017
+  },
+  {
+    "kommune": "FLAKSTAD",
+    "station_id": "SN85640",
+    "latitude": 68.0185,
+    "longitude": 13.18033
+  },
+  {
+    "kommune": "GRANE",
+    "station_id": "SN77350",
+    "latitude": 65.3125,
+    "longitude": 13.14267
+  },
+  {
+    "kommune": "VOLDA",
+    "station_id": "SN69661",
+    "latitude": 62.0385,
+    "longitude": 6.4187
+  },
+  {
+    "kommune": "MIDT-TELEMARK",
+    "station_id": "SN32060",
+    "latitude": 59.3822,
+    "longitude": 9.2128
+  },
+  {
+    "kommune": "MOLDE",
+    "station_id": "SN62295",
+    "latitude": 62.756,
+    "longitude": 7.2088
+  },
+  {
+    "kommune": "DRANGEDAL",
+    "station_id": "SN34680",
+    "latitude": 59.10617,
+    "longitude": 8.887
+  },
+  {
+    "kommune": "BERGEN",
+    "station_id": "SN50865",
+    "latitude": 60.3828,
+    "longitude": 5.542
+  },
+  {
+    "kommune": "LUND",
+    "station_id": "SN43490",
+    "latitude": 58.5337,
+    "longitude": 6.3257
+  },
+  {
+    "kommune": "MODUM",
+    "station_id": "SN19930",
+    "latitude": 59.86835,
+    "longitude": 10.0563
+  },
+  {
+    "kommune": "NARVIK",
+    "station_id": "SN84070",
+    "latitude": 68.33,
+    "longitude": 16.7883
+  },
+  {
+    "kommune": "SENJA",
+    "station_id": "SN88690",
+    "latitude": 69.6005,
+    "longitude": 17.83117
+  },
+  {
+    "kommune": "KRISTIANSUND",
+    "station_id": "SN64242",
+    "latitude": 63.08567,
+    "longitude": 7.79783
+  },
+  {
+    "kommune": "EIDFJORD",
+    "station_id": "SN49860",
+    "latitude": 60.36933,
+    "longitude": 7.4945
+  },
+  {
+    "kommune": "ASK\u00d8Y",
+    "station_id": "SN52471",
+    "latitude": 60.61617,
+    "longitude": 4.90383
+  },
+  {
+    "kommune": "S\u00d8R-VARANGER",
+    "station_id": "SN99340",
+    "latitude": 69.7013414,
+    "longitude": 29.2320971
+  },
+  {
+    "kommune": "BOD\u00d8",
+    "station_id": "SN82410",
+    "latitude": 67.4048,
+    "longitude": 13.8958
+  },
+  {
+    "kommune": "\u00c5MOT",
+    "station_id": "SN6840",
+    "latitude": 61.1215,
+    "longitude": 11.36333
+  },
+  {
+    "kommune": "NORSKEHAVET",
+    "station_id": "SN76928",
+    "latitude": 65.32285,
+    "longitude": 7.3156
+  },
+  {
+    "kommune": "STEIGEN",
+    "station_id": "SN83280",
+    "latitude": 67.90283,
+    "longitude": 15.18267
+  },
+  {
+    "kommune": "STEINKJER",
+    "station_id": "SN70980",
+    "latitude": 64.1492,
+    "longitude": 11.7635
+  },
+  {
+    "kommune": "GJEMNES",
+    "station_id": "SN62950",
+    "latitude": 62.97117,
+    "longitude": 7.77933
+  },
+  {
+    "kommune": "TRYSIL",
+    "station_id": "SN210",
+    "latitude": 61.3188,
+    "longitude": 12.1887
+  },
+  {
+    "kommune": "AURE",
+    "station_id": "SN65130",
+    "latitude": 63.2058,
+    "longitude": 8.0403
+  },
+  {
+    "kommune": "SENJA",
+    "station_id": "SN88430",
+    "latitude": 69.29717,
+    "longitude": 17.2905
+  },
+  {
+    "kommune": "H\u00d8YANGER",
+    "station_id": "SN56320",
+    "latitude": 61.1124,
+    "longitude": 5.5413
+  },
+  {
+    "kommune": "ORKLAND",
+    "station_id": "SN66530",
+    "latitude": 63.026787,
+    "longitude": 9.716463
+  },
+  {
+    "kommune": "BALSFJORD",
+    "station_id": "SN90305",
+    "latitude": 69.43383,
+    "longitude": 19.26083
+  },
+  {
+    "kommune": "TIME",
+    "station_id": "SN44190",
+    "latitude": 58.7345,
+    "longitude": 5.7262
+  },
+  {
+    "kommune": "ELVERUM",
+    "station_id": "SN6580",
+    "latitude": 60.7525,
+    "longitude": 11.7625
+  },
+  {
+    "kommune": "VINJE",
+    "station_id": "SN33890",
+    "latitude": 59.7662,
+    "longitude": 7.3653
+  },
+  {
+    "kommune": "SURNADAL",
+    "station_id": "SN64870",
+    "latitude": 63.0493,
+    "longitude": 9.0878
+  },
+  {
+    "kommune": "LINDESNES",
+    "station_id": "SN41005",
+    "latitude": 58.086,
+    "longitude": 7.62017
+  },
+  {
+    "kommune": "TRYSIL",
+    "station_id": "SN120",
+    "latitude": 61.21767,
+    "longitude": 12.69817
+  },
+  {
+    "kommune": "RINGERIKE",
+    "station_id": "SN22200",
+    "latitude": 60.2733,
+    "longitude": 10.1863
+  },
+  {
+    "kommune": "VARD\u00d8",
+    "station_id": "SN98640",
+    "latitude": 70.2467,
+    "longitude": 30.368
+  },
+  {
+    "kommune": "NESBYEN",
+    "station_id": "SN24820",
+    "latitude": 60.5325,
+    "longitude": 9.15483
+  },
+  {
+    "kommune": "ALTA",
+    "station_id": "SN93140",
+    "latitude": 69.9775,
+    "longitude": 23.3582
+  },
+  {
+    "kommune": "OS",
+    "station_id": "SN10070",
+    "latitude": 62.50033,
+    "longitude": 11.17233
+  },
+  {
+    "kommune": "HAMMERFEST",
+    "station_id": "SN94235",
+    "latitude": 70.54583,
+    "longitude": 23.73033
+  },
+  {
+    "kommune": "GRAN",
+    "station_id": "SN20540",
+    "latitude": 60.3558,
+    "longitude": 10.5592
+  },
+  {
+    "kommune": "NORSKEHAVET",
+    "station_id": "SN76964",
+    "latitude": 64.271,
+    "longitude": 7.2015
+  },
+  {
+    "kommune": "AURSKOG-H\u00d8LAND",
+    "station_id": "SN2830",
+    "latitude": 59.72667,
+    "longitude": 11.41783
+  },
+  {
+    "kommune": "RANDABERG",
+    "station_id": "SN44567",
+    "latitude": 58.9908,
+    "longitude": 5.6545
+  },
+  {
+    "kommune": "OSLO",
+    "station_id": "SN18405",
+    "latitude": 59.9398,
+    "longitude": 10.7727
+  },
+  {
+    "kommune": "SKJ\u00c5K",
+    "station_id": "SN15480",
+    "latitude": 61.8777,
+    "longitude": 8.4672
+  },
+  {
+    "kommune": "HADSEL",
+    "station_id": "SN86600",
+    "latitude": 68.5801001,
+    "longitude": 15.0289351
+  },
+  {
+    "kommune": "FREDRIKSTAD",
+    "station_id": "SN17005",
+    "latitude": 59.1735,
+    "longitude": 10.8487
+  },
+  {
+    "kommune": "ULLENSVANG",
+    "station_id": "SN46460",
+    "latitude": 59.8222,
+    "longitude": 6.818
+  },
+  {
+    "kommune": "TRONDHEIM",
+    "station_id": "SN67140",
+    "latitude": 63.3403,
+    "longitude": 10.2973
+  },
+  {
+    "kommune": "KINN",
+    "station_id": "SN59110",
+    "latitude": 62.034,
+    "longitude": 4.9865
+  },
+  {
+    "kommune": "ALVER",
+    "station_id": "SN52390",
+    "latitude": 60.626,
+    "longitude": 5.4722
+  },
+  {
+    "kommune": "RINGERIKE",
+    "station_id": "SN20280",
+    "latitude": 60.14033,
+    "longitude": 10.26617
+  },
+  {
+    "kommune": "S\u00d8R-VARANGER",
+    "station_id": "SN99600",
+    "latitude": 69.8043,
+    "longitude": 28.9937
+  },
+  {
+    "kommune": "RINGSAKER",
+    "station_id": "SN12600",
+    "latitude": 60.95295,
+    "longitude": 10.67905
+  },
+  {
+    "kommune": "SANDNES",
+    "station_id": "SN44800",
+    "latitude": 58.8185,
+    "longitude": 5.9202
+  },
+  {
+    "kommune": "V\u00c5LER",
+    "station_id": "SN17400",
+    "latitude": 59.4765,
+    "longitude": 10.79
+  },
+  {
+    "kommune": "\u00d8VRE EIKER",
+    "station_id": "SN26650",
+    "latitude": 59.6878,
+    "longitude": 9.8507
+  },
+  {
+    "kommune": "OSLO",
+    "station_id": "SN18970",
+    "latitude": 59.9185,
+    "longitude": 10.6348
+  },
+  {
+    "kommune": "FR\u00d8YA",
+    "station_id": "SN71850",
+    "latitude": 64.1727,
+    "longitude": 9.4052
+  },
+  {
+    "kommune": "AURLAND",
+    "station_id": "SN53700",
+    "latitude": 60.9027,
+    "longitude": 7.201
+  },
+  {
+    "kommune": "OSLO",
+    "station_id": "SN18701",
+    "latitude": 59.9423,
+    "longitude": 10.7202
+  },
+  {
+    "kommune": "NAMSOS",
+    "station_id": "SN72200",
+    "latitude": 64.33983,
+    "longitude": 11.28133
+  },
+  {
+    "kommune": "BERGEN",
+    "station_id": "SN50506",
+    "latitude": 60.353,
+    "longitude": 5.33833
+  },
+  {
+    "kommune": "FROLAND",
+    "station_id": "SN38735",
+    "latitude": 58.60417,
+    "longitude": 8.40417
+  },
+  {
+    "kommune": "OSLO",
+    "station_id": "SN18450",
+    "latitude": 59.9719,
+    "longitude": 10.7894
+  },
+  {
+    "kommune": "R\u00c5DE",
+    "station_id": "SN17050",
+    "latitude": 59.3188,
+    "longitude": 10.8145
+  },
+  {
+    "kommune": "KINN",
+    "station_id": "SN57630",
+    "latitude": 61.56467,
+    "longitude": 5.66583
+  },
+  {
+    "kommune": "ASKER",
+    "station_id": "SN19670",
+    "latitude": 59.86635,
+    "longitude": 10.4966
+  },
+  {
+    "kommune": "\u00c5FJORD",
+    "station_id": "SN71805",
+    "latitude": 64.09717,
+    "longitude": 10.52483
+  },
+  {
+    "kommune": "NORD-AURDAL",
+    "station_id": "SN23420",
+    "latitude": 60.9785,
+    "longitude": 9.224
+  },
+  {
+    "kommune": "NES",
+    "station_id": "SN4920",
+    "latitude": 60.1268,
+    "longitude": 11.3933
+  },
+  {
+    "kommune": "N\u00c6R\u00d8YSUND",
+    "station_id": "SN75080",
+    "latitude": 64.9702,
+    "longitude": 12.1607
+  },
+  {
+    "kommune": "NORDKAPP",
+    "station_id": "SN94800",
+    "latitude": 70.7731,
+    "longitude": 25.6161
+  },
+  {
+    "kommune": "H\u00d8YANGER",
+    "station_id": "SN55970",
+    "latitude": 61.1645,
+    "longitude": 6.20867
+  },
+  {
+    "kommune": "KRISTIANSAND",
+    "station_id": "SN39040",
+    "latitude": 58.2,
+    "longitude": 8.0767
+  },
+  {
+    "kommune": "AURSKOG-H\u00d8LAND",
+    "station_id": "SN2480",
+    "latitude": 59.84383,
+    "longitude": 11.71783
+  },
+  {
+    "kommune": "AND\u00d8Y",
+    "station_id": "SN87120",
+    "latitude": 69.2413,
+    "longitude": 16.003
+  },
+  {
+    "kommune": "KARM\u00d8Y",
+    "station_id": "SN47225",
+    "latitude": 59.203132,
+    "longitude": 5.171293
+  },
+  {
+    "kommune": "TRYSIL",
+    "station_id": "SN60",
+    "latitude": 61.5581,
+    "longitude": 12.499
+  },
+  {
+    "kommune": "LEIRFJORD",
+    "station_id": "SN78250",
+    "latitude": 66.0668,
+    "longitude": 12.9098
+  },
+  {
+    "kommune": "LIERNE",
+    "station_id": "SN73800",
+    "latitude": 64.6837,
+    "longitude": 13.6506
+  },
+  {
+    "kommune": "SALTDAL",
+    "station_id": "SN81650",
+    "latitude": 66.9368,
+    "longitude": 15.3155
+  },
+  {
+    "kommune": "LILLEHAMMER",
+    "station_id": "SN12648",
+    "latitude": 61.1145,
+    "longitude": 10.4675
+  },
+  {
+    "kommune": "NAMSOS",
+    "station_id": "SN75020",
+    "latitude": 64.5228,
+    "longitude": 11.28055
+  },
+  {
+    "kommune": "ORKLAND",
+    "station_id": "SN66120",
+    "latitude": 63.30933,
+    "longitude": 9.5685
+  },
+  {
+    "kommune": "FOLLDAL",
+    "station_id": "SN9050",
+    "latitude": 62.063,
+    "longitude": 9.9907
+  },
+  {
+    "kommune": "V\u00c6R\u00d8Y",
+    "station_id": "SN85840",
+    "latitude": 67.6527,
+    "longitude": 12.7228
+  },
+  {
+    "kommune": "RENNEBU",
+    "station_id": "SN67340",
+    "latitude": 62.86133,
+    "longitude": 10.02133
+  },
+  {
+    "kommune": "SELJORD",
+    "station_id": "SN32350",
+    "latitude": 59.6467898,
+    "longitude": 8.3752026
+  },
+  {
+    "kommune": "NES",
+    "station_id": "SN4950",
+    "latitude": 60.14683,
+    "longitude": 11.494
+  },
+  {
+    "kommune": "NISSEDAL",
+    "station_id": "SN37150",
+    "latitude": 59.0523,
+    "longitude": 8.6537
+  },
+  {
+    "kommune": "VESTNES",
+    "station_id": "SN61060",
+    "latitude": 62.6512,
+    "longitude": 6.7552
+  },
+  {
+    "kommune": "FYRESDAL",
+    "station_id": "SN37500",
+    "latitude": 59.3242,
+    "longitude": 8.1517
+  },
+  {
+    "kommune": "MODUM",
+    "station_id": "SN26500",
+    "latitude": 59.9202,
+    "longitude": 9.9728
+  },
+  {
+    "kommune": "TYSV\u00c6R",
+    "station_id": "SN47055",
+    "latitude": 59.2955,
+    "longitude": 5.489
+  },
+  {
+    "kommune": "\u00c5SNES",
+    "station_id": "SN6170",
+    "latitude": 60.624,
+    "longitude": 11.9425
+  },
+  {
+    "kommune": "KVINNHERAD",
+    "station_id": "SN50150",
+    "latitude": 60.045,
+    "longitude": 5.9032
+  },
+  {
+    "kommune": "RAKKESTAD",
+    "station_id": "SN3290",
+    "latitude": 59.3882,
+    "longitude": 11.3905
+  },
+  {
+    "kommune": "\u00c5LESUND",
+    "station_id": "SN60925",
+    "latitude": 62.461916,
+    "longitude": 6.309532
+  },
+  {
+    "kommune": "S\u00d8R-AURDAL",
+    "station_id": "SN22840",
+    "latitude": 60.8346,
+    "longitude": 9.4905
+  },
+  {
+    "kommune": "T\u00d8NSBERG",
+    "station_id": "SN27272",
+    "latitude": 59.2937,
+    "longitude": 10.4275
+  },
+  {
+    "kommune": "RINGERIKE",
+    "station_id": "SN20301",
+    "latitude": 60.1665,
+    "longitude": 10.2478
+  },
+  {
+    "kommune": "DRAMMEN",
+    "station_id": "SN26590",
+    "latitude": 59.7445,
+    "longitude": 10.2312
+  },
+  {
+    "kommune": "L\u00c6RDAL",
+    "station_id": "SN54645",
+    "latitude": 61.16767,
+    "longitude": 8.04133
+  },
+  {
+    "kommune": "AURLAND",
+    "station_id": "SN53990",
+    "latitude": 60.74183,
+    "longitude": 7.57483
+  },
+  {
+    "kommune": "NAMSSKOGAN",
+    "station_id": "SN74670",
+    "latitude": 65.0627,
+    "longitude": 13.3025
+  },
+  {
+    "kommune": "KARM\u00d8Y",
+    "station_id": "SN47270",
+    "latitude": 59.3113,
+    "longitude": 5.3135
+  },
+  {
+    "kommune": "PORSANGER",
+    "station_id": "SN95350",
+    "latitude": 70.06,
+    "longitude": 24.9793
+  },
+  {
+    "kommune": "L\u00d8TEN",
+    "station_id": "SN12280",
+    "latitude": 60.8165,
+    "longitude": 11.28533
+  },
+  {
+    "kommune": "OSLO",
+    "station_id": "SN18228",
+    "latitude": 59.94384,
+    "longitude": 10.83463
+  },
+  {
+    "kommune": "KVINESDAL",
+    "station_id": "SN41860",
+    "latitude": 58.2431584,
+    "longitude": 6.9821926
+  },
+  {
+    "kommune": "VOSS",
+    "station_id": "SN51460",
+    "latitude": 60.63767,
+    "longitude": 6.20483
+  },
+  {
+    "kommune": "SALTDAL",
+    "station_id": "SN82000",
+    "latitude": 67.1658,
+    "longitude": 15.4857
+  },
+  {
+    "kommune": "L\u00c6RDAL",
+    "station_id": "SN54600",
+    "latitude": 61.1098838,
+    "longitude": 8.0368593
+  },
+  {
+    "kommune": "SOGNDAL",
+    "station_id": "SN55820",
+    "latitude": 61.4233,
+    "longitude": 6.7642
+  },
+  {
+    "kommune": "GAMVIK",
+    "station_id": "SN96400",
+    "latitude": 71.0888,
+    "longitude": 28.217
+  },
+  {
+    "kommune": "GULEN",
+    "station_id": "SN52940",
+    "latitude": 60.941,
+    "longitude": 5.49883
+  },
+  {
+    "kommune": "RINGEBU",
+    "station_id": "SN13150",
+    "latitude": 61.4582,
+    "longitude": 10.1872
+  },
+  {
+    "kommune": "V\u00c5G\u00c5",
+    "station_id": "SN14550",
+    "latitude": 61.9225,
+    "longitude": 9.0084
+  },
+  {
+    "kommune": "S\u00d8MNA",
+    "station_id": "SN76240",
+    "latitude": 65.2193,
+    "longitude": 11.9928
+  },
+  {
+    "kommune": "OPPDAL",
+    "station_id": "SN63940",
+    "latitude": 62.2767,
+    "longitude": 9.5877
+  },
+  {
+    "kommune": "ASKER",
+    "station_id": "SN19825",
+    "latitude": 59.5513,
+    "longitude": 10.5813
+  },
+  {
+    "kommune": "LEVANGER",
+    "station_id": "SN69960",
+    "latitude": 63.7199,
+    "longitude": 11.5436
+  },
+  {
+    "kommune": "BALSFJORD",
+    "station_id": "SN89985",
+    "latitude": 69.1025,
+    "longitude": 19.5442
+  },
+  {
+    "kommune": "FROSTA",
+    "station_id": "SN69655",
+    "latitude": 63.5652,
+    "longitude": 10.6932
+  },
+  {
+    "kommune": "BERGEN",
+    "station_id": "SN50500",
+    "latitude": 60.2892,
+    "longitude": 5.2265
+  },
+  {
+    "kommune": "T\u00d8NSBERG",
+    "station_id": "SN27281",
+    "latitude": 59.3173,
+    "longitude": 10.3957
+  },
+  {
+    "kommune": "KARASJOK",
+    "station_id": "SN97710",
+    "latitude": 69.3003,
+    "longitude": 25.346
+  },
+  {
+    "kommune": "BERGEN",
+    "station_id": "SN50850",
+    "latitude": 60.357,
+    "longitude": 5.4515
+  },
+  {
+    "kommune": "STOR-ELVDAL",
+    "station_id": "SN8135",
+    "latitude": 61.41867,
+    "longitude": 11.083
+  },
+  {
+    "kommune": "BR\u00d8NN\u00d8Y",
+    "station_id": "SN76330",
+    "latitude": 65.46072,
+    "longitude": 12.21959
+  },
+  {
+    "kommune": "K\u00c5FJORD",
+    "station_id": "SN91528",
+    "latitude": 69.4805,
+    "longitude": 20.57
+  },
+  {
+    "kommune": "EVENES",
+    "station_id": "SN84925",
+    "latitude": 68.5368463,
+    "longitude": 17.2150822
+  },
+  {
+    "kommune": "LILLEHAMMER",
+    "station_id": "SN12980",
+    "latitude": 61.1478,
+    "longitude": 10.4548
+  },
+  {
+    "kommune": "FJORD",
+    "station_id": "SN60620",
+    "latitude": 62.3290022,
+    "longitude": 7.5139775
+  },
+  {
+    "kommune": "MER\u00c5KER",
+    "station_id": "SN69520",
+    "latitude": 63.34067,
+    "longitude": 12.0385
+  },
+  {
+    "kommune": "\u00d8YSTRE SLIDRE",
+    "station_id": "SN13760",
+    "latitude": 61.38917,
+    "longitude": 8.81033
+  },
+  {
+    "kommune": "INDRE \u00d8STFOLD",
+    "station_id": "SN3730",
+    "latitude": 59.59233,
+    "longitude": 11.095
+  },
+  {
+    "kommune": "HOL",
+    "station_id": "SN25630",
+    "latitude": 60.5299,
+    "longitude": 8.1951
+  },
+  {
+    "kommune": "SEL",
+    "station_id": "SN14200",
+    "latitude": 61.72459,
+    "longitude": 9.15424
+  },
+  {
+    "kommune": "BREMANGER",
+    "station_id": "SN57830",
+    "latitude": 61.8325,
+    "longitude": 5.45867
+  },
+  {
+    "kommune": "ALTA",
+    "station_id": "SN93170",
+    "latitude": 69.9553,
+    "longitude": 23.3715
+  },
+  {
+    "kommune": "M\u00c5LSELV",
+    "station_id": "SN89940",
+    "latitude": 68.78167,
+    "longitude": 19.70167
+  },
+  {
+    "kommune": "NORSKEHAVET",
+    "station_id": "SN76958",
+    "latitude": 65.1103,
+    "longitude": 6.7912
+  },
+  {
+    "kommune": "GJEMNES",
+    "station_id": "SN62980",
+    "latitude": 62.93,
+    "longitude": 7.925
+  },
+  {
+    "kommune": "TROMS\u00d8",
+    "station_id": "SN90290",
+    "latitude": 69.6995,
+    "longitude": 18.1709
+  },
+  {
+    "kommune": "RAUMA",
+    "station_id": "SN61580",
+    "latitude": 62.2943,
+    "longitude": 8.1255
+  },
+  {
+    "kommune": "EIGERSUND",
+    "station_id": "SN43520",
+    "latitude": 58.6265,
+    "longitude": 6.48667
+  },
+  {
+    "kommune": "S\u00d8R-VARANGER",
+    "station_id": "SN99540",
+    "latitude": 69.14757,
+    "longitude": 29.2427215
+  },
+  {
+    "kommune": "ALTA",
+    "station_id": "SN92910",
+    "latitude": 70.0518,
+    "longitude": 22.3243
+  },
+  {
+    "kommune": "GAMVIK",
+    "station_id": "SN96310",
+    "latitude": 71.033,
+    "longitude": 27.8298
+  },
+  {
+    "kommune": "LUSTER",
+    "station_id": "SN55300",
+    "latitude": 61.4962,
+    "longitude": 7.606
+  },
+  {
+    "kommune": "NARVIK",
+    "station_id": "SN84880",
+    "latitude": 68.3995,
+    "longitude": 17.966
+  },
+  {
+    "kommune": "VESTV\u00c5G\u00d8Y",
+    "station_id": "SN85535",
+    "latitude": 68.143858,
+    "longitude": 13.632097
+  },
+  {
+    "kommune": "SUNNFJORD",
+    "station_id": "SN57480",
+    "latitude": 61.5349,
+    "longitude": 6.0586
+  },
+  {
+    "kommune": "K\u00c5FJORD",
+    "station_id": "SN91510",
+    "latitude": 69.5208,
+    "longitude": 20.5398
+  },
+  {
+    "kommune": "DOVRE",
+    "station_id": "SN9310",
+    "latitude": 62.2207,
+    "longitude": 9.5423
+  },
+  {
+    "kommune": "BJ\u00d8RNAFJORDEN",
+    "station_id": "SN50231",
+    "latitude": 60.2500911,
+    "longitude": 5.7436545
+  },
+  {
+    "kommune": "FJALER",
+    "station_id": "SN56520",
+    "latitude": 61.232,
+    "longitude": 5.4342
+  },
+  {
+    "kommune": "SENJA",
+    "station_id": "SN88630",
+    "latitude": 69.5097,
+    "longitude": 17.6275
+  },
+  {
+    "kommune": "EIDSVOLL",
+    "station_id": "SN11060",
+    "latitude": 60.37117,
+    "longitude": 11.35883
+  },
+  {
+    "kommune": "EIDFJORD",
+    "station_id": "SN49800",
+    "latitude": 60.4080734,
+    "longitude": 7.2803489
+  },
+  {
+    "kommune": "FREDRIKSTAD",
+    "station_id": "SN3030",
+    "latitude": 59.2307,
+    "longitude": 10.9632
+  },
+  {
+    "kommune": "SKIEN",
+    "station_id": "SN30340",
+    "latitude": 59.2317,
+    "longitude": 9.5908
+  },
+  {
+    "kommune": "SARPSBORG",
+    "station_id": "SN3003",
+    "latitude": 59.2046108,
+    "longitude": 11.1780095
+  },
+  {
+    "kommune": "FYRESDAL",
+    "station_id": "SN37760",
+    "latitude": 59.182606,
+    "longitude": 8.086932
+  },
+  {
+    "kommune": "EVENES",
+    "station_id": "SN84970",
+    "latitude": 68.4912,
+    "longitude": 16.6833
+  },
+  {
+    "kommune": "F\u00c6RDER",
+    "station_id": "SN27460",
+    "latitude": 59.2173,
+    "longitude": 10.4103
+  },
+  {
+    "kommune": "ALVDAL",
+    "station_id": "SN9400",
+    "latitude": 62.179,
+    "longitude": 10.6165
+  },
+  {
+    "kommune": "TOLGA",
+    "station_id": "SN10055",
+    "latitude": 62.4068454,
+    "longitude": 10.9957948
+  },
+  {
+    "kommune": "SOGNDAL",
+    "station_id": "SN55928",
+    "latitude": 61.2028,
+    "longitude": 6.5285
+  },
+  {
+    "kommune": "VOLDA",
+    "station_id": "SN59660",
+    "latitude": 62.1468,
+    "longitude": 6.0673
+  },
+  {
+    "kommune": "INDRE \u00d8STFOLD",
+    "station_id": "SN3990",
+    "latitude": 59.75817,
+    "longitude": 11.29233
+  },
+  {
+    "kommune": "VANG",
+    "station_id": "SN23800",
+    "latitude": 61.1973,
+    "longitude": 8.3807
+  },
+  {
+    "kommune": "TR\u00c6NA",
+    "station_id": "SN80340",
+    "latitude": 66.4994,
+    "longitude": 12.0928
+  },
+  {
+    "kommune": "KR\u00d8DSHERAD",
+    "station_id": "SN24670",
+    "latitude": 60.26833,
+    "longitude": 9.69183
+  },
+  {
+    "kommune": "SYKKYLVEN",
+    "station_id": "SN60010",
+    "latitude": 62.3858,
+    "longitude": 6.5758
+  },
+  {
+    "kommune": "SUNNFJORD",
+    "station_id": "SN56780",
+    "latitude": 61.3435,
+    "longitude": 5.7265
+  },
+  {
+    "kommune": "GJESDAL",
+    "station_id": "SN44480",
+    "latitude": 58.6855,
+    "longitude": 5.9817
+  },
+  {
+    "kommune": "SANDNES",
+    "station_id": "SN45350",
+    "latitude": 59.0552,
+    "longitude": 6.6467
+  },
+  {
+    "kommune": "OSLO",
+    "station_id": "SN18390",
+    "latitude": 59.9418,
+    "longitude": 10.7483
+  },
+  {
+    "kommune": "BERGEN",
+    "station_id": "SN50527",
+    "latitude": 60.3685,
+    "longitude": 5.2655
+  },
+  {
+    "kommune": "KARM\u00d8Y",
+    "station_id": "SN47264",
+    "latitude": 59.388,
+    "longitude": 5.2777
+  },
+  {
+    "kommune": "TRYSIL",
+    "station_id": "SN90",
+    "latitude": 61.1185,
+    "longitude": 12.06467
+  },
+  {
+    "kommune": "DRAMMEN",
+    "station_id": "SN26934",
+    "latitude": 59.7112,
+    "longitude": 10.2688
+  },
+  {
+    "kommune": "NARVIK",
+    "station_id": "SN84910",
+    "latitude": 68.516,
+    "longitude": 17.8725
+  },
+  {
+    "kommune": "F\u00c6RDER",
+    "station_id": "SN27400",
+    "latitude": 59.23662,
+    "longitude": 10.45604
+  },
+  {
+    "kommune": "SKIEN",
+    "station_id": "SN30325",
+    "latitude": 59.2017,
+    "longitude": 9.5432
+  },
+  {
+    "kommune": "TROMS\u00d8",
+    "station_id": "SN90490",
+    "latitude": 69.6767,
+    "longitude": 18.9133
+  },
+  {
+    "kommune": "SOGNDAL",
+    "station_id": "SN55850",
+    "latitude": 61.48,
+    "longitude": 6.7442
+  },
+  {
+    "kommune": "ALSTAHAUG",
+    "station_id": "SN76530",
+    "latitude": 65.8295,
+    "longitude": 12.4255
+  },
+  {
+    "kommune": "ETNE",
+    "station_id": "SN47820",
+    "latitude": 59.859334,
+    "longitude": 6.2785106
+  },
+  {
+    "kommune": "HALDEN",
+    "station_id": "SN1400",
+    "latitude": 59.1477,
+    "longitude": 11.5583
+  },
+  {
+    "kommune": "HJELMELAND",
+    "station_id": "SN45685",
+    "latitude": 59.1865,
+    "longitude": 6.1465
+  },
+  {
+    "kommune": "GRANE",
+    "station_id": "SN77490",
+    "latitude": 65.3143,
+    "longitude": 13.4483
+  },
+  {
+    "kommune": "KONGSBERG",
+    "station_id": "SN28450",
+    "latitude": 59.6112,
+    "longitude": 9.4545
+  },
+  {
+    "kommune": "B\u00d8",
+    "station_id": "SN86740",
+    "latitude": 68.6072,
+    "longitude": 14.4347
+  },
+  {
+    "kommune": "GLOPPEN",
+    "station_id": "SN58030",
+    "latitude": 61.75033,
+    "longitude": 5.94667
+  },
+  {
+    "kommune": "FREDRIKSTAD",
+    "station_id": "SN3015",
+    "latitude": 59.1895,
+    "longitude": 11.032
+  },
+  {
+    "kommune": "VINJE",
+    "station_id": "SN33250",
+    "latitude": 59.7057,
+    "longitude": 8.0317
+  },
+  {
+    "kommune": "HASVIK",
+    "station_id": "SN92760",
+    "latitude": 70.4838,
+    "longitude": 22.1618
+  },
+  {
+    "kommune": "UTSIRA",
+    "station_id": "SN47300",
+    "latitude": 59.3065,
+    "longitude": 4.8723
+  },
+  {
+    "kommune": "KINN",
+    "station_id": "SN57770",
+    "latitude": 61.5717,
+    "longitude": 4.6817
+  },
+  {
+    "kommune": "NORSKEHAVET",
+    "station_id": "SN76925",
+    "latitude": 64.352,
+    "longitude": 7.77915
+  },
+  {
+    "kommune": "BJ\u00d8RNAFJORDEN",
+    "station_id": "SN50395",
+    "latitude": 60.1912,
+    "longitude": 5.4442
+  },
+  {
+    "kommune": "L\u00d8DINGEN",
+    "station_id": "SN85080",
+    "latitude": 68.516989,
+    "longitude": 15.8768608
+  },
+  {
+    "kommune": "HATTFJELLDAL",
+    "station_id": "SN78800",
+    "latitude": 65.8255,
+    "longitude": 14.1942
+  },
+  {
+    "kommune": "GJESDAL",
+    "station_id": "SN43810",
+    "latitude": 58.7645,
+    "longitude": 6.3675
+  },
+  {
+    "kommune": "MOSS",
+    "station_id": "SN17280",
+    "latitude": 59.4352,
+    "longitude": 10.578
+  },
+  {
+    "kommune": "FOLLDAL",
+    "station_id": "SN9250",
+    "latitude": 62.18383,
+    "longitude": 9.71817
+  },
+  {
+    "kommune": "SORTLAND",
+    "station_id": "SN87000",
+    "latitude": 68.7183,
+    "longitude": 15.3112
+  },
+  {
+    "kommune": "ULLENSVANG",
+    "station_id": "SN49085",
+    "latitude": 60.2263,
+    "longitude": 6.4347
+  },
+  {
+    "kommune": "TYDAL",
+    "station_id": "SN11000",
+    "latitude": 62.8715,
+    "longitude": 11.80767
+  },
+  {
+    "kommune": "KONGSVINGER",
+    "station_id": "SN2970",
+    "latitude": 60.2525,
+    "longitude": 12.4562
+  },
+  {
+    "kommune": "VERDAL",
+    "station_id": "SN70510",
+    "latitude": 63.7853613,
+    "longitude": 12.3806657
+  },
+  {
+    "kommune": "ULLENSVANG",
+    "station_id": "SN31680",
+    "latitude": 60.0825,
+    "longitude": 7.4247
+  },
+  {
+    "kommune": "TJELDSUND",
+    "station_id": "SN87763",
+    "latitude": 68.6269,
+    "longitude": 16.5921
+  },
+  {
+    "kommune": "SKIEN",
+    "station_id": "SN30280",
+    "latitude": 59.1255,
+    "longitude": 9.50767
+  },
+  {
+    "kommune": "ALVER",
+    "station_id": "SN52360",
+    "latitude": 60.7915,
+    "longitude": 5.62383
+  },
+  {
+    "kommune": "KONGSVINGER",
+    "station_id": "SN5590",
+    "latitude": 60.1903,
+    "longitude": 12.0067
+  },
+  {
+    "kommune": "AURLAND",
+    "station_id": "SN53230",
+    "latitude": 60.8935,
+    "longitude": 7.0557
+  },
+  {
+    "kommune": "LILLESTR\u00d8M",
+    "station_id": "SN4190",
+    "latitude": 59.96816,
+    "longitude": 11.02747
+  },
+  {
+    "kommune": "AND\u00d8Y",
+    "station_id": "SN87117",
+    "latitude": 69.271,
+    "longitude": 16.04017
+  },
+  {
+    "kommune": "\u00c5LESUND",
+    "station_id": "SN60955",
+    "latitude": 62.471493,
+    "longitude": 6.132859
+  },
+  {
+    "kommune": "OSLO",
+    "station_id": "SN18240",
+    "latitude": 59.93783,
+    "longitude": 10.8905
+  },
+  {
+    "kommune": "V\u00c5GAN",
+    "station_id": "SN85448",
+    "latitude": 68.2458,
+    "longitude": 14.6712
+  },
+  {
+    "kommune": "KV\u00c6NANGEN",
+    "station_id": "SN92500",
+    "latitude": 70.1227,
+    "longitude": 21.7223
+  },
+  {
+    "kommune": "GOL",
+    "station_id": "SN24960",
+    "latitude": 60.7188,
+    "longitude": 8.9478
+  },
+  {
+    "kommune": "NORDKAPP",
+    "station_id": "SN94680",
+    "latitude": 71.0105,
+    "longitude": 25.9782
+  },
+  {
+    "kommune": "KRISTIANSAND",
+    "station_id": "SN39010",
+    "latitude": 58.1302,
+    "longitude": 8.0947
+  },
+  {
+    "kommune": "KVINNHERAD",
+    "station_id": "SN47910",
+    "latitude": 59.9153256,
+    "longitude": 6.1824628
+  },
+  {
+    "kommune": "R\u00d8ROS",
+    "station_id": "SN10300",
+    "latitude": 62.4698,
+    "longitude": 11.7752
+  },
+  {
+    "kommune": "SIRDAL",
+    "station_id": "SN44985",
+    "latitude": 58.89333,
+    "longitude": 6.6665
+  },
+  {
+    "kommune": "HJELMELAND",
+    "station_id": "SN45640",
+    "latitude": 59.1209282,
+    "longitude": 6.2220795
+  },
+  {
+    "kommune": "N\u00c6R\u00d8YSUND",
+    "station_id": "SN75220",
+    "latitude": 64.835,
+    "longitude": 11.1408
+  },
+  {
+    "kommune": "ULLENSVANG",
+    "station_id": "SN46510",
+    "latitude": 59.8402,
+    "longitude": 6.9825
+  },
+  {
+    "kommune": "DRAMMEN",
+    "station_id": "SN26898",
+    "latitude": 59.7538,
+    "longitude": 10.1382
+  },
+  {
+    "kommune": "TJELDSUND",
+    "station_id": "SN87772",
+    "latitude": 68.5863,
+    "longitude": 16.3608
+  },
+  {
+    "kommune": "T\u00d8NSBERG",
+    "station_id": "SN27212",
+    "latitude": 59.4173,
+    "longitude": 10.2087
+  },
+  {
+    "kommune": "LILLESTR\u00d8M",
+    "station_id": "SN4827",
+    "latitude": 59.95417,
+    "longitude": 11.203
+  },
+  {
+    "kommune": "STRYN",
+    "station_id": "SN58703",
+    "latitude": 61.96317,
+    "longitude": 7.25433
+  },
+  {
+    "kommune": "GOL",
+    "station_id": "SN23300",
+    "latitude": 60.8175,
+    "longitude": 9.1185
+  },
+  {
+    "kommune": "\u00c5MOT",
+    "station_id": "SN7420",
+    "latitude": 61.37635,
+    "longitude": 11.49939
+  },
+  {
+    "kommune": "NARVIK",
+    "station_id": "SN84210",
+    "latitude": 68.1905,
+    "longitude": 17.7905
+  },
+  {
+    "kommune": "KRISTIANSAND",
+    "station_id": "SN39970",
+    "latitude": 58.111,
+    "longitude": 7.8298
+  },
+  {
+    "kommune": "MIDTRE GAULDAL",
+    "station_id": "SN67280",
+    "latitude": 62.9535,
+    "longitude": 10.1788
+  },
+  {
+    "kommune": "KINN",
+    "station_id": "SN59250",
+    "latitude": 61.9985,
+    "longitude": 5.0878
+  },
+  {
+    "kommune": "M\u00c5LSELV",
+    "station_id": "SN89360",
+    "latitude": 69.0422,
+    "longitude": 18.4572
+  },
+  {
+    "kommune": "FJORD",
+    "station_id": "SN60650",
+    "latitude": 62.288,
+    "longitude": 7.2173
+  },
+  {
+    "kommune": "ULLENSVANG",
+    "station_id": "SN49220",
+    "latitude": 60.0447,
+    "longitude": 6.5395
+  },
+  {
+    "kommune": "SELJORD",
+    "station_id": "SN32290",
+    "latitude": 59.4895,
+    "longitude": 8.64433
+  },
+  {
+    "kommune": "H\u00d8YANGER",
+    "station_id": "SN52970",
+    "latitude": 61.0657,
+    "longitude": 5.9063
+  },
+  {
+    "kommune": "KINN",
+    "station_id": "SN58990",
+    "latitude": 61.93467,
+    "longitude": 5.395
+  },
+  {
+    "kommune": "DRAMMEN",
+    "station_id": "SN26790",
+    "latitude": 59.7498,
+    "longitude": 10.0275
+  },
+  {
+    "kommune": "OSLO",
+    "station_id": "SN17980",
+    "latitude": 59.8427,
+    "longitude": 10.8237
+  },
+  {
+    "kommune": "AURE",
+    "station_id": "SN65145",
+    "latitude": 63.2692,
+    "longitude": 8.5403
+  },
+  {
+    "kommune": "BYKLE",
+    "station_id": "SN40840",
+    "latitude": 59.5271,
+    "longitude": 7.37127
+  },
+  {
+    "kommune": "DRAMMEN",
+    "station_id": "SN26862",
+    "latitude": 59.744,
+    "longitude": 10.2118
+  },
+  {
+    "kommune": "ENGERDAL",
+    "station_id": "SN700",
+    "latitude": 61.887,
+    "longitude": 12.0462
+  },
+  {
+    "kommune": "BOD\u00d8",
+    "station_id": "SN82290",
+    "latitude": 67.2726458,
+    "longitude": 14.3826294
+  },
+  {
+    "kommune": "RINGERIKE",
+    "station_id": "SN24350",
+    "latitude": 60.05183,
+    "longitude": 10.049
+  },
+  {
+    "kommune": "BERGEN",
+    "station_id": "SN50503",
+    "latitude": 60.35,
+    "longitude": 5.3967
+  },
+  {
+    "kommune": "OSLO",
+    "station_id": "SN18500",
+    "latitude": 60.0514243,
+    "longitude": 10.6878682
+  },
+  {
+    "kommune": "ALSTAHAUG",
+    "station_id": "SN76790",
+    "latitude": 66.0197,
+    "longitude": 12.6022
+  },
+  {
+    "kommune": "OSLO",
+    "station_id": "SN18195",
+    "latitude": 59.9033,
+    "longitude": 10.8212
+  },
+  {
+    "kommune": "VEFSN",
+    "station_id": "SN77230",
+    "latitude": 65.7842,
+    "longitude": 13.218
+  },
+  {
+    "kommune": "OPPDAL",
+    "station_id": "SN63880",
+    "latitude": 62.4272,
+    "longitude": 9.6227
+  },
+  {
+    "kommune": "SENJA",
+    "station_id": "SN89010",
+    "latitude": 69.2897,
+    "longitude": 18.1288
+  },
+  {
+    "kommune": "\u00c5LESUND",
+    "station_id": "SN62480",
+    "latitude": 62.8585,
+    "longitude": 6.5378
+  },
+  {
+    "kommune": "NAMSSKOGAN",
+    "station_id": "SN74350",
+    "latitude": 64.7422,
+    "longitude": 12.846
+  },
+  {
+    "kommune": "STJ\u00d8RDAL",
+    "station_id": "SN69550",
+    "latitude": 63.4871,
+    "longitude": 11.3536
+  },
+  {
+    "kommune": "S\u00d8R-AURDAL",
+    "station_id": "SN22690",
+    "latitude": 60.632,
+    "longitude": 9.89533
+  },
+  {
+    "kommune": "NARVIK",
+    "station_id": "SN88023",
+    "latitude": 68.8691,
+    "longitude": 17.4772
+  },
+  {
+    "kommune": "HAMAR\u00d8Y",
+    "station_id": "SN83600",
+    "latitude": 68.1083,
+    "longitude": 15.8873
+  },
+  {
+    "kommune": "STORD",
+    "station_id": "SN48170",
+    "latitude": 59.91267,
+    "longitude": 5.488
+  },
+  {
+    "kommune": "LEBESBY",
+    "station_id": "SN96250",
+    "latitude": 70.72783,
+    "longitude": 27.497
+  },
+  {
+    "kommune": "ASKER",
+    "station_id": "SN19810",
+    "latitude": 59.6919,
+    "longitude": 10.5198
+  },
+  {
+    "kommune": "GAMVIK",
+    "station_id": "SN96600",
+    "latitude": 70.8,
+    "longitude": 28.0995
+  },
+  {
+    "kommune": "R\u00d8ROS",
+    "station_id": "SN67890",
+    "latitude": 62.74033,
+    "longitude": 11.3245
+  },
+  {
+    "kommune": "ULVIK",
+    "station_id": "SN25830",
+    "latitude": 60.5938,
+    "longitude": 7.527
+  },
+  {
+    "kommune": "KARM\u00d8Y",
+    "station_id": "SN47192",
+    "latitude": 59.1467,
+    "longitude": 5.2602
+  },
+  {
+    "kommune": "VINJE",
+    "station_id": "SN33555",
+    "latitude": 59.62033,
+    "longitude": 7.83317
+  },
+  {
+    "kommune": "RANA",
+    "station_id": "SN79700",
+    "latitude": 66.3962,
+    "longitude": 14.53
+  },
+  {
+    "kommune": "HEMSEDAL",
+    "station_id": "SN25115",
+    "latitude": 60.8397,
+    "longitude": 8.4968
+  },
+  {
+    "kommune": "NANNESTAD",
+    "station_id": "SN4785",
+    "latitude": 60.2105,
+    "longitude": 11.0782
+  },
+  {
+    "kommune": "MELHUS",
+    "station_id": "SN68270",
+    "latitude": 63.2315,
+    "longitude": 10.4369
+  },
+  {
+    "kommune": "OPPDAL",
+    "station_id": "SN63820",
+    "latitude": 62.4473,
+    "longitude": 9.5827
+  },
+  {
+    "kommune": "KV\u00c6NANGEN",
+    "station_id": "SN92350",
+    "latitude": 69.8362,
+    "longitude": 21.8958
+  },
+  {
+    "kommune": "OSLO",
+    "station_id": "SN18180",
+    "latitude": 59.907,
+    "longitude": 10.847
+  },
+  {
+    "kommune": "KRISTIANSAND",
+    "station_id": "SN39201",
+    "latitude": 58.1095,
+    "longitude": 7.9383
+  },
+  {
+    "kommune": "HJARTDAL",
+    "station_id": "SN31853",
+    "latitude": 59.5993,
+    "longitude": 8.7152
+  },
+  {
+    "kommune": "F\u00c6RDER",
+    "station_id": "SN27403",
+    "latitude": 59.2084,
+    "longitude": 10.45442
+  },
+  {
+    "kommune": "\u00c5RDAL",
+    "station_id": "SN54740",
+    "latitude": 61.18833,
+    "longitude": 7.62183
+  },
+  {
+    "kommune": "GJ\u00d8VIK",
+    "station_id": "SN11900",
+    "latitude": 60.9518,
+    "longitude": 10.5954
+  },
+  {
+    "kommune": "KRISTIANSAND",
+    "station_id": "SN39210",
+    "latitude": 58.1427,
+    "longitude": 7.9733
+  },
+  {
+    "kommune": "MOLDE",
+    "station_id": "SN62160",
+    "latitude": 62.805,
+    "longitude": 7.7002
+  },
+  {
+    "kommune": "BOD\u00d8",
+    "station_id": "SN81315",
+    "latitude": 67.23133,
+    "longitude": 14.6125
+  },
+  {
+    "kommune": "S\u00d8RFOLD",
+    "station_id": "SN82840",
+    "latitude": 67.5258,
+    "longitude": 15.4953
+  },
+  {
+    "kommune": "LINDESNES",
+    "station_id": "SN41175",
+    "latitude": 58.2772,
+    "longitude": 7.4388
+  },
+  {
+    "kommune": "SKAUN",
+    "station_id": "SN67005",
+    "latitude": 63.3297,
+    "longitude": 9.9983
+  },
+  {
+    "kommune": "B\u00c6RUM",
+    "station_id": "SN19490",
+    "latitude": 59.9058,
+    "longitude": 10.5122
+  },
+  {
+    "kommune": "\u00c5LESUND",
+    "station_id": "SN60850",
+    "latitude": 62.4317,
+    "longitude": 6.4325
+  },
+  {
+    "kommune": "SOGNDAL",
+    "station_id": "SN55709",
+    "latitude": 61.2296003,
+    "longitude": 7.1245731
+  },
+  {
+    "kommune": "NORD-AURDAL",
+    "station_id": "SN22890",
+    "latitude": 60.86433,
+    "longitude": 9.545
+  },
+  {
+    "kommune": "DOVRE",
+    "station_id": "SN16610",
+    "latitude": 62.1133,
+    "longitude": 9.2862
+  },
+  {
+    "kommune": "GJERSTAD",
+    "station_id": "SN35110",
+    "latitude": 58.851,
+    "longitude": 9.11967
+  },
+  {
+    "kommune": "VEVELSTAD",
+    "station_id": "SN76470",
+    "latitude": 65.6412242,
+    "longitude": 12.3750784
+  },
+  {
+    "kommune": "MOLDE",
+    "station_id": "SN61810",
+    "latitude": 62.65783,
+    "longitude": 8.0425
+  },
+  {
+    "kommune": "S\u00d8R-VARANGER",
+    "station_id": "SN99420",
+    "latitude": 69.6873,
+    "longitude": 30.005
+  },
+  {
+    "kommune": "\u00c5SERAL",
+    "station_id": "SN41480",
+    "latitude": 58.6172,
+    "longitude": 7.4128
+  },
+  {
+    "kommune": "HORTEN",
+    "station_id": "SN27161",
+    "latitude": 59.3845,
+    "longitude": 10.3985
+  },
+  {
+    "kommune": "NORDREISA",
+    "station_id": "SN91740",
+    "latitude": 69.7902,
+    "longitude": 20.9524
+  },
+  {
+    "kommune": "NORE OG UVDAL",
+    "station_id": "SN29350",
+    "latitude": 60.255,
+    "longitude": 8.7057
+  },
+  {
+    "kommune": "LILLESAND",
+    "station_id": "SN38250",
+    "latitude": 58.1995,
+    "longitude": 8.1865
+  },
+  {
+    "kommune": "NESSEBY",
+    "station_id": "SN96890",
+    "latitude": 69.9363,
+    "longitude": 28.3773
+  },
+  {
+    "kommune": "KVAM",
+    "station_id": "SN50120",
+    "latitude": 60.2747,
+    "longitude": 6.0392
+  },
+  {
+    "kommune": "TINN",
+    "station_id": "SN31970",
+    "latitude": 59.8497,
+    "longitude": 8.6562
+  },
+  {
+    "kommune": "FJORD",
+    "station_id": "SN60500",
+    "latitude": 62.2305,
+    "longitude": 7.4218
+  },
+  {
+    "kommune": "GRANE",
+    "station_id": "SN77403",
+    "latitude": 65.217,
+    "longitude": 13.36867
+  },
+  {
+    "kommune": "STORFJORD",
+    "station_id": "SN91480",
+    "latitude": 69.1467,
+    "longitude": 20.7468
+  },
+  {
+    "kommune": "KVAM",
+    "station_id": "SN50102",
+    "latitude": 60.36433,
+    "longitude": 6.17483
+  },
+  {
+    "kommune": "STAVANGER",
+    "station_id": "SN44620",
+    "latitude": 58.9875,
+    "longitude": 5.6847
+  },
+  {
+    "kommune": "ASKVOLL",
+    "station_id": "SN56490",
+    "latitude": 61.3043,
+    "longitude": 4.7407
+  },
+  {
+    "kommune": "GAUSDAL",
+    "station_id": "SN13030",
+    "latitude": 61.22651,
+    "longitude": 10.26141
+  },
+  {
+    "kommune": "ENGERDAL",
+    "station_id": "SN730",
+    "latitude": 62.0758,
+    "longitude": 12.1722
+  },
+  {
+    "kommune": "STRANDA",
+    "station_id": "SN60240",
+    "latitude": 62.191,
+    "longitude": 6.9933
+  },
+  {
+    "kommune": "STOR-ELVDAL",
+    "station_id": "SN8230",
+    "latitude": 61.57467,
+    "longitude": 11.0045
+  },
+  {
+    "kommune": "AREMARK",
+    "station_id": "SN1600",
+    "latitude": 59.25433,
+    "longitude": 11.68433
+  },
+  {
+    "kommune": "M\u00c5LSELV",
+    "station_id": "SN89820",
+    "latitude": 69.0222,
+    "longitude": 19.3537
+  },
+  {
+    "kommune": "VANG",
+    "station_id": "SN54731",
+    "latitude": 61.17833,
+    "longitude": 8.15267
+  },
+  {
+    "kommune": "HUSTADVIKA",
+    "station_id": "SN62860",
+    "latitude": 63.01517,
+    "longitude": 7.34
+  },
+  {
+    "kommune": "MARKER",
+    "station_id": "SN1950",
+    "latitude": 59.4827303,
+    "longitude": 11.6511833
+  },
+  {
+    "kommune": "SKJERV\u00d8Y",
+    "station_id": "SN91695",
+    "latitude": 69.93667,
+    "longitude": 20.914
+  },
+  {
+    "kommune": "SANDNES",
+    "station_id": "SN44710",
+    "latitude": 58.8842,
+    "longitude": 5.7183
+  },
+  {
+    "kommune": "LUNNER",
+    "station_id": "SN4543",
+    "latitude": 60.157,
+    "longitude": 10.72167
+  },
+  {
+    "kommune": "\u00c5S",
+    "station_id": "SN17875",
+    "latitude": 59.685,
+    "longitude": 10.83117
+  },
+  {
+    "kommune": "S\u00d8R-VARANGER",
+    "station_id": "SN99160",
+    "latitude": 69.91,
+    "longitude": 29.68
+  },
+  {
+    "kommune": "VINJE",
+    "station_id": "SN31620",
+    "latitude": 59.8397,
+    "longitude": 8.1785
+  },
+  {
+    "kommune": "NARVIK",
+    "station_id": "SN84500",
+    "latitude": 68.432,
+    "longitude": 17.662
+  },
+  {
+    "kommune": "LYNGEN",
+    "station_id": "SN91130",
+    "latitude": 69.5588,
+    "longitude": 20.094
+  },
+  {
+    "kommune": "SOGNDAL",
+    "station_id": "SN55700",
+    "latitude": 61.158,
+    "longitude": 7.1413
+  },
+  {
+    "kommune": "GLOPPEN",
+    "station_id": "SN58320",
+    "latitude": 61.708,
+    "longitude": 6.6092
+  },
+  {
+    "kommune": "ORKLAND",
+    "station_id": "SN66045",
+    "latitude": 63.42633,
+    "longitude": 9.94817
+  },
+  {
+    "kommune": "AURSKOG-H\u00d8LAND",
+    "station_id": "SN2650",
+    "latitude": 59.9118,
+    "longitude": 11.5802
+  },
+  {
+    "kommune": "S\u00d8R-VARANGER",
+    "station_id": "SN99680",
+    "latitude": 69.79,
+    "longitude": 30.4
+  },
+  {
+    "kommune": "STRYN",
+    "station_id": "SN58670",
+    "latitude": 61.90783,
+    "longitude": 7.05883
+  },
+  {
+    "kommune": "OSLO",
+    "station_id": "SN18162",
+    "latitude": 59.9047,
+    "longitude": 10.7863
+  },
+  {
+    "kommune": "VANG",
+    "station_id": "SN23680",
+    "latitude": 61.1535,
+    "longitude": 8.6782
+  },
+  {
+    "kommune": "INDRE \u00d8STFOLD",
+    "station_id": "SN3780",
+    "latitude": 59.636,
+    "longitude": 11.0468
+  },
+  {
+    "kommune": "INDRE FOSEN",
+    "station_id": "SN71320",
+    "latitude": 63.5857104,
+    "longitude": 9.9700663
+  },
+  {
+    "kommune": "LYNGEN",
+    "station_id": "SN91220",
+    "latitude": 69.66,
+    "longitude": 20.31
+  },
+  {
+    "kommune": "NORE OG UVDAL",
+    "station_id": "SN29700",
+    "latitude": 60.37383,
+    "longitude": 8.4885
+  },
+  {
+    "kommune": "FROLAND",
+    "station_id": "SN36330",
+    "latitude": 58.5158,
+    "longitude": 8.7028
+  },
+  {
+    "kommune": "SKJERV\u00d8Y",
+    "station_id": "SN91731",
+    "latitude": 70.19564,
+    "longitude": 20.53258
+  },
+  {
+    "kommune": "OSLO",
+    "station_id": "SN18270",
+    "latitude": 59.9683,
+    "longitude": 10.9185
+  },
+  {
+    "kommune": "MEL\u00d8Y",
+    "station_id": "SN80615",
+    "latitude": 66.6432,
+    "longitude": 13.9298
+  },
+  {
+    "kommune": "GJESDAL",
+    "station_id": "SN44970",
+    "latitude": 58.80767,
+    "longitude": 6.243
+  },
+  {
+    "kommune": "FLEKKEFJORD",
+    "station_id": "SN42700",
+    "latitude": 58.37017,
+    "longitude": 6.6315
+  },
+  {
+    "kommune": "AURSKOG-H\u00d8LAND",
+    "station_id": "SN2560",
+    "latitude": 59.83883,
+    "longitude": 11.3625
+  },
+  {
+    "kommune": "PORSGRUNN",
+    "station_id": "SN30247",
+    "latitude": 59.1099744,
+    "longitude": 9.7357238
+  },
+  {
+    "kommune": "NANNESTAD",
+    "station_id": "SN4740",
+    "latitude": 60.1742,
+    "longitude": 11.051
+  },
+  {
+    "kommune": "KAUTOKEINO",
+    "station_id": "SN93301",
+    "latitude": 69.5797,
+    "longitude": 23.5345
+  },
+  {
+    "kommune": "\u00d8VRE EIKER",
+    "station_id": "SN26820",
+    "latitude": 59.7613,
+    "longitude": 9.8922
+  },
+  {
+    "kommune": "PORSGRUNN",
+    "station_id": "SN30256",
+    "latitude": 59.110498,
+    "longitude": 9.641412
+  },
+  {
+    "kommune": "NESNA",
+    "station_id": "SN80050",
+    "latitude": 66.28617,
+    "longitude": 13.28817
+  },
+  {
+    "kommune": "ULLENSAKER",
+    "station_id": "SN11110",
+    "latitude": 60.2413,
+    "longitude": 11.1587
+  },
+  {
+    "kommune": "KRISTIANSAND",
+    "station_id": "SN39165",
+    "latitude": 58.1555,
+    "longitude": 7.9993
+  },
+  {
+    "kommune": "KARM\u00d8Y",
+    "station_id": "SN47240",
+    "latitude": 59.2695,
+    "longitude": 5.2623
+  },
+  {
+    "kommune": "LARVIK",
+    "station_id": "SN27780",
+    "latitude": 59.045747,
+    "longitude": 10.1250557
+  },
+  {
+    "kommune": "KINN",
+    "station_id": "SN57710",
+    "latitude": 61.5832,
+    "longitude": 5.0278
+  },
+  {
+    "kommune": "OSLO",
+    "station_id": "SN18225",
+    "latitude": 59.9467,
+    "longitude": 10.8293
+  },
+  {
+    "kommune": "GLOPPEN",
+    "station_id": "SN58060",
+    "latitude": 61.7392,
+    "longitude": 6.3913
+  },
+  {
+    "kommune": "NOTODDEN",
+    "station_id": "SN30875",
+    "latitude": 59.8104756,
+    "longitude": 8.9865101
+  },
+  {
+    "kommune": "HARSTAD",
+    "station_id": "SN87640",
+    "latitude": 68.8029,
+    "longitude": 16.5362
+  },
+  {
+    "kommune": "RANA",
+    "station_id": "SN79610",
+    "latitude": 66.362617,
+    "longitude": 14.346245
+  },
+  {
+    "kommune": "FROLAND",
+    "station_id": "SN38600",
+    "latitude": 58.6322074,
+    "longitude": 8.2872126
+  },
+  {
+    "kommune": "SOLA",
+    "station_id": "SN44548",
+    "latitude": 58.8792,
+    "longitude": 5.6495
+  },
+  {
+    "kommune": "DRAMMEN",
+    "station_id": "SN26802",
+    "latitude": 59.7328,
+    "longitude": 10.0258
+  },
+  {
+    "kommune": "VOSS",
+    "station_id": "SN51250",
+    "latitude": 60.6887,
+    "longitude": 5.9647
+  },
+  {
+    "kommune": "MEL\u00d8Y",
+    "station_id": "SN80705",
+    "latitude": 66.8275,
+    "longitude": 13.948
+  },
+  {
+    "kommune": "SAUDA",
+    "station_id": "SN46800",
+    "latitude": 59.62483,
+    "longitude": 6.292
+  },
+  {
+    "kommune": "SOLUND",
+    "station_id": "SN56400",
+    "latitude": 61.007,
+    "longitude": 4.6693
+  },
+  {
+    "kommune": "OSLO",
+    "station_id": "SN18440",
+    "latitude": 59.95995,
+    "longitude": 10.77564
+  },
+  {
+    "kommune": "MELHUS",
+    "station_id": "SN67175",
+    "latitude": 63.2583,
+    "longitude": 10.2832
+  },
+  {
+    "kommune": "NOME",
+    "station_id": "SN32490",
+    "latitude": 59.2788,
+    "longitude": 9.2813
+  },
+  {
+    "kommune": "\u00c5LESUND",
+    "station_id": "SN60853",
+    "latitude": 62.428332,
+    "longitude": 6.421059
+  },
+  {
+    "kommune": "ULLENSAKER",
+    "station_id": "SN4815",
+    "latitude": 60.1905,
+    "longitude": 11.2626
+  },
+  {
+    "kommune": "ULLENSVANG",
+    "station_id": "SN49970",
+    "latitude": 60.4612,
+    "longitude": 6.7507
+  },
+  {
+    "kommune": "BALSFJORD",
+    "station_id": "SN90110",
+    "latitude": 69.4229,
+    "longitude": 18.6208
+  },
+  {
+    "kommune": "ROLLAG",
+    "station_id": "SN28922",
+    "latitude": 60.0435,
+    "longitude": 9.1468
+  },
+  {
+    "kommune": "HJELMELAND",
+    "station_id": "SN45870",
+    "latitude": 59.16,
+    "longitude": 6.0365
+  },
+  {
+    "kommune": "TINN",
+    "station_id": "SN31210",
+    "latitude": 60.1,
+    "longitude": 8.2667
+  },
+  {
+    "kommune": "VINJE",
+    "station_id": "SN31560",
+    "latitude": 59.79783,
+    "longitude": 8.258
+  },
+  {
+    "kommune": "ULLENSAKER",
+    "station_id": "SN4725",
+    "latitude": 60.1677,
+    "longitude": 11.1165
+  },
+  {
+    "kommune": "N\u00c6R\u00d8YSUND",
+    "station_id": "SN75190",
+    "latitude": 64.84867,
+    "longitude": 11.23217
+  },
+  {
+    "kommune": "TOKKE",
+    "station_id": "SN37580",
+    "latitude": 59.3445,
+    "longitude": 7.71
+  },
+  {
+    "kommune": "SKIEN",
+    "station_id": "SN32780",
+    "latitude": 59.1444,
+    "longitude": 9.2668
+  },
+  {
+    "kommune": "\u00c5MLI",
+    "station_id": "SN38800",
+    "latitude": 58.7938,
+    "longitude": 8.2295
+  },
+  {
+    "kommune": "SM\u00d8LA",
+    "station_id": "SN65330",
+    "latitude": 63.28516,
+    "longitude": 8.1385
+  },
+  {
+    "kommune": "\u00c5LESUND",
+    "station_id": "SN60880",
+    "latitude": 62.48367,
+    "longitude": 6.47233
+  },
+  {
+    "kommune": "EIDFJORD",
+    "station_id": "SN29900",
+    "latitude": 60.3778,
+    "longitude": 7.5693
+  },
+  {
+    "kommune": "MALVIK",
+    "station_id": "SN69035",
+    "latitude": 63.4262,
+    "longitude": 10.664
+  },
+  {
+    "kommune": "KRISTIANSAND",
+    "station_id": "SN39150",
+    "latitude": 58.1502,
+    "longitude": 8.052
+  },
+  {
+    "kommune": "NESSEBY",
+    "station_id": "SN98974",
+    "latitude": 70.227,
+    "longitude": 28.9563
+  },
+  {
+    "kommune": "INDRE \u00d8STFOLD",
+    "station_id": "SN3720",
+    "latitude": 59.5873,
+    "longitude": 11.0962
+  },
+  {
+    "kommune": "HOLE",
+    "station_id": "SN19663",
+    "latitude": 59.964,
+    "longitude": 10.3435
+  },
+  {
+    "kommune": "\u00d8VRE EIKER",
+    "station_id": "SN26670",
+    "latitude": 59.62515,
+    "longitude": 9.9534
+  },
+  {
+    "kommune": "HAUGESUND",
+    "station_id": "SN47350",
+    "latitude": 59.4382,
+    "longitude": 5.078
+  },
+  {
+    "kommune": "KINN",
+    "station_id": "SN59220",
+    "latitude": 61.9361,
+    "longitude": 5.0073
+  },
+  {
+    "kommune": "OSLO",
+    "station_id": "SN18210",
+    "latitude": 59.923,
+    "longitude": 10.804
+  },
+  {
+    "kommune": "TINN",
+    "station_id": "SN30860",
+    "latitude": 59.8861,
+    "longitude": 9.058
+  },
+  {
+    "kommune": "F\u00c6RDER",
+    "station_id": "SN27433",
+    "latitude": 59.1745,
+    "longitude": 10.3655
+  },
+  {
+    "kommune": "LILLEHAMMER",
+    "station_id": "SN12710",
+    "latitude": 61.1431,
+    "longitude": 10.5143
+  },
+  {
+    "kommune": "SALTDAL",
+    "station_id": "SN81775",
+    "latitude": 66.7435,
+    "longitude": 15.4628
+  },
+  {
+    "kommune": "\u00c5RDAL",
+    "station_id": "SN54815",
+    "latitude": 61.27467,
+    "longitude": 8.1385
+  },
+  {
+    "kommune": "NISSEDAL",
+    "station_id": "SN37230",
+    "latitude": 59.0255578,
+    "longitude": 8.5186627
+  },
+  {
+    "kommune": "FR\u00d8YA",
+    "station_id": "SN65940",
+    "latitude": 63.8429,
+    "longitude": 8.4543
+  },
+  {
+    "kommune": "TYNSET",
+    "station_id": "SN66810",
+    "latitude": 62.66917,
+    "longitude": 10.15233
+  },
+  {
+    "kommune": "HEMSEDAL",
+    "station_id": "SN25100",
+    "latitude": 60.8703,
+    "longitude": 8.5285
+  },
+  {
+    "kommune": "NORDRE LAND",
+    "station_id": "SN21700",
+    "latitude": 61.01017,
+    "longitude": 10.14533
+  },
+  {
+    "kommune": "EIDSVOLL",
+    "station_id": "SN11463",
+    "latitude": 60.3977,
+    "longitude": 11.2303
+  },
+  {
+    "kommune": "STRANDA",
+    "station_id": "SN60225",
+    "latitude": 62.2915,
+    "longitude": 6.79283
+  },
+  {
+    "kommune": "F\u00c6RDER",
+    "station_id": "SN27406",
+    "latitude": 59.169,
+    "longitude": 10.4238
+  },
+  {
+    "kommune": "SOGNDAL",
+    "station_id": "SN55775",
+    "latitude": 61.183013,
+    "longitude": 6.8534041
+  },
+  {
+    "kommune": "SULDAL",
+    "station_id": "SN46220",
+    "latitude": 59.4128,
+    "longitude": 6.4697
+  },
+  {
+    "kommune": "OSLO",
+    "station_id": "SN18165",
+    "latitude": 59.8963,
+    "longitude": 10.8013
+  },
+  {
+    "kommune": "TYNSET",
+    "station_id": "SN66900",
+    "latitude": 62.47633,
+    "longitude": 10.3925
+  },
+  {
+    "kommune": "F\u00c6RDER",
+    "station_id": "SN27415",
+    "latitude": 59.125,
+    "longitude": 10.38483
+  },
+  {
+    "kommune": "TRONDHEIM",
+    "station_id": "SN68120",
+    "latitude": 63.3628,
+    "longitude": 10.3597
+  },
+  {
+    "kommune": "\u00d8VRE EIKER",
+    "station_id": "SN26060",
+    "latitude": 59.8387,
+    "longitude": 9.8948
+  },
+  {
+    "kommune": "\u00c5RDAL",
+    "station_id": "SN54770",
+    "latitude": 61.27217,
+    "longitude": 7.766
+  },
+  {
+    "kommune": "SUNNFJORD",
+    "station_id": "SN57390",
+    "latitude": 61.5722,
+    "longitude": 6.4873
+  },
+  {
+    "kommune": "ASKER",
+    "station_id": "SN19780",
+    "latitude": 59.8005,
+    "longitude": 10.4895
+  },
+  {
+    "kommune": "S\u00d8RREISA",
+    "station_id": "SN89213",
+    "latitude": 69.0717,
+    "longitude": 17.963
+  },
+  {
+    "kommune": "VOLDA",
+    "station_id": "SN58960",
+    "latitude": 62.0033,
+    "longitude": 6.6502
+  },
+  {
+    "kommune": "SANDEFJORD",
+    "station_id": "SN27630",
+    "latitude": 59.0857,
+    "longitude": 10.2147
+  },
+  {
+    "kommune": "V\u00c5G\u00c5",
+    "station_id": "SN14711",
+    "latitude": 61.8130083,
+    "longitude": 9.0110373
+  },
+  {
+    "kommune": "ENGERDAL",
+    "station_id": "SN670",
+    "latitude": 61.8405,
+    "longitude": 11.99283
+  },
+  {
+    "kommune": "VERDAL",
+    "station_id": "SN70390",
+    "latitude": 63.656,
+    "longitude": 12.21433
+  },
+  {
+    "kommune": "\u00c5LESUND",
+    "station_id": "SN60835",
+    "latitude": 62.4913,
+    "longitude": 6.72544
+  },
+  {
+    "kommune": "KLEPP",
+    "station_id": "SN44300",
+    "latitude": 58.7605,
+    "longitude": 5.6508
+  },
+  {
+    "kommune": "L\u00d8TEN",
+    "station_id": "SN6690",
+    "latitude": 60.85667,
+    "longitude": 11.40033
+  },
+  {
+    "kommune": "LUSTER",
+    "station_id": "SN55425",
+    "latitude": 61.5972,
+    "longitude": 7.3892
+  },
+  {
+    "kommune": "HOLMESTRAND",
+    "station_id": "SN27065",
+    "latitude": 59.531,
+    "longitude": 10.26433
+  },
+  {
+    "kommune": "GAUSDAL",
+    "station_id": "SN13060",
+    "latitude": 61.2732,
+    "longitude": 10.1732
+  },
+  {
+    "kommune": "INDRE \u00d8STFOLD",
+    "station_id": "SN3810",
+    "latitude": 59.5872,
+    "longitude": 11.1662
+  },
+  {
+    "kommune": "\u00c5LESUND",
+    "station_id": "SN62450",
+    "latitude": 62.8042,
+    "longitude": 6.50905
+  },
+  {
+    "kommune": "L\u00c6RDAL",
+    "station_id": "SN54420",
+    "latitude": 61.0068997,
+    "longitude": 8.0873537
+  },
+  {
+    "kommune": "SENJA",
+    "station_id": "SN88450",
+    "latitude": 69.2805,
+    "longitude": 17.0715
+  },
+  {
+    "kommune": "OSLO",
+    "station_id": "SN18703",
+    "latitude": 59.94256,
+    "longitude": 10.7194
+  },
+  {
+    "kommune": "N\u00c6R\u00d8YSUND",
+    "station_id": "SN75100",
+    "latitude": 64.8382,
+    "longitude": 11.9547
+  },
+  {
+    "kommune": "VINJE",
+    "station_id": "SN46390",
+    "latitude": 59.6778,
+    "longitude": 7.1468
+  },
+  {
+    "kommune": "B\u00c6RUM",
+    "station_id": "SN19430",
+    "latitude": 59.89233,
+    "longitude": 10.54033
+  },
+  {
+    "kommune": "SKJERV\u00d8Y",
+    "station_id": "SN91725",
+    "latitude": 70.0332,
+    "longitude": 20.9625
+  },
+  {
+    "kommune": "ARENDAL",
+    "station_id": "SN36055",
+    "latitude": 58.4603,
+    "longitude": 8.7653
+  },
+  {
+    "kommune": "ULLENSVANG",
+    "station_id": "SN49351",
+    "latitude": 60.1188,
+    "longitude": 6.5547
+  },
+  {
+    "kommune": "LEBESBY",
+    "station_id": "SN96220",
+    "latitude": 70.58117,
+    "longitude": 26.998
+  },
+  {
+    "kommune": "VIK",
+    "station_id": "SN53101",
+    "latitude": 61.1724,
+    "longitude": 6.6452
+  },
+  {
+    "kommune": "BOD\u00d8",
+    "station_id": "SN82215",
+    "latitude": 67.2844,
+    "longitude": 14.529
+  },
+  {
+    "kommune": "SOGNDAL",
+    "station_id": "SN55712",
+    "latitude": 61.232351,
+    "longitude": 7.105278
+  },
+  {
+    "kommune": "NORDREISA",
+    "station_id": "SN91770",
+    "latitude": 69.7537,
+    "longitude": 21.0957
+  },
+  {
+    "kommune": "B\u00c5TSFJORD",
+    "station_id": "SN98400",
+    "latitude": 70.7057,
+    "longitude": 30.07
+  },
+  {
+    "kommune": "RINGERIKE",
+    "station_id": "SN24230",
+    "latitude": 60.2225,
+    "longitude": 9.84083
+  },
+  {
+    "kommune": "ULLENSVANG",
+    "station_id": "SN49360",
+    "latitude": 60.1173,
+    "longitude": 6.5742
+  },
+  {
+    "kommune": "TROMS\u00d8",
+    "station_id": "SN90720",
+    "latitude": 69.9903,
+    "longitude": 18.6938
+  },
+  {
+    "kommune": "VOSS",
+    "station_id": "SN51980",
+    "latitude": 60.8603,
+    "longitude": 6.4675
+  },
+  {
+    "kommune": "STAVANGER",
+    "station_id": "SN44605",
+    "latitude": 59.1222,
+    "longitude": 5.68
+  },
+  {
+    "kommune": "TROMS\u00d8",
+    "station_id": "SN90451",
+    "latitude": 69.6537,
+    "longitude": 18.9365
+  },
+  {
+    "kommune": "SOGNDAL",
+    "station_id": "SN55730",
+    "latitude": 61.3348,
+    "longitude": 6.9335
+  },
+  {
+    "kommune": "KVAM",
+    "station_id": "SN50311",
+    "latitude": 60.38767,
+    "longitude": 5.96683
+  },
+  {
+    "kommune": "VARD\u00d8",
+    "station_id": "SN98642",
+    "latitude": 70.2932,
+    "longitude": 30.1908
+  },
+  {
+    "kommune": "GLOPPEN",
+    "station_id": "SN58350",
+    "latitude": 61.76683,
+    "longitude": 6.50433
+  },
+  {
+    "kommune": "STEINKJER",
+    "station_id": "SN71000",
+    "latitude": 64.0217,
+    "longitude": 11.4493
+  },
+  {
+    "kommune": "HOL",
+    "station_id": "SN25540",
+    "latitude": 60.6792467,
+    "longitude": 8.0059127
+  },
+  {
+    "kommune": "ARENDAL",
+    "station_id": "SN36010",
+    "latitude": 58.57383,
+    "longitude": 8.84133
+  },
+  {
+    "kommune": "NORSKEHAVET",
+    "station_id": "SN20946",
+    "latitude": 65.0643,
+    "longitude": 6.7273
+  },
+  {
+    "kommune": "SARPSBORG",
+    "station_id": "SN3200",
+    "latitude": 59.3072,
+    "longitude": 11.1338
+  },
+  {
+    "kommune": "STORFJORD",
+    "station_id": "SN91420",
+    "latitude": 69.2852,
+    "longitude": 20.4657
+  },
+  {
+    "kommune": "SOLA",
+    "station_id": "SN44560",
+    "latitude": 58.8843,
+    "longitude": 5.637
+  },
+  {
+    "kommune": "DRAMMEN",
+    "station_id": "SN26975",
+    "latitude": 59.591,
+    "longitude": 10.4053
+  },
+  {
+    "kommune": "T\u00d8NSBERG",
+    "station_id": "SN27316",
+    "latitude": 59.371,
+    "longitude": 10.2692
+  },
+  {
+    "kommune": "SOGNDAL",
+    "station_id": "SN55715",
+    "latitude": 61.184276,
+    "longitude": 7.2243989
+  },
+  {
+    "kommune": "TROMS\u00d8",
+    "station_id": "SN90400",
+    "latitude": 69.6538,
+    "longitude": 18.9095
+  },
+  {
+    "kommune": "MOSKENES",
+    "station_id": "SN85645",
+    "latitude": 67.9627,
+    "longitude": 13.1543
+  },
+  {
+    "kommune": "VALLE",
+    "station_id": "SN40005",
+    "latitude": 59.02833,
+    "longitude": 7.548
+  },
+  {
+    "kommune": "HAMAR",
+    "station_id": "SN12291",
+    "latitude": 60.80483,
+    "longitude": 11.11133
+  },
+  {
+    "kommune": "FAUSKE",
+    "station_id": "SN82110",
+    "latitude": 67.2764164,
+    "longitude": 15.1018235
+  },
+  {
+    "kommune": "ULVIK",
+    "station_id": "SN49910",
+    "latitude": 60.5637,
+    "longitude": 6.9325
+  },
+  {
+    "kommune": "STEINKJER",
+    "station_id": "SN70680",
+    "latitude": 63.9425,
+    "longitude": 11.4255
+  },
+  {
+    "kommune": "HJARTDAL",
+    "station_id": "SN31850",
+    "latitude": 59.6047213,
+    "longitude": 8.7124579
+  },
+  {
+    "kommune": "SOGNDAL",
+    "station_id": "SN55930",
+    "latitude": 61.2038,
+    "longitude": 6.5315
+  },
+  {
+    "kommune": "MOLDE",
+    "station_id": "SN63000",
+    "latitude": 62.79967,
+    "longitude": 8.166
+  },
+  {
+    "kommune": "LEKA",
+    "station_id": "SN75650",
+    "latitude": 65.08737,
+    "longitude": 11.73793
+  },
+  {
+    "kommune": "\u00d8YSTRE SLIDRE",
+    "station_id": "SN23560",
+    "latitude": 61.2433,
+    "longitude": 8.8557
+  },
+  {
+    "kommune": "T\u00d8NSBERG",
+    "station_id": "SN27301",
+    "latitude": 59.3562,
+    "longitude": 10.2501
+  },
+  {
+    "kommune": "\u00d8RLAND",
+    "station_id": "SN71550",
+    "latitude": 63.7044,
+    "longitude": 9.6104
+  },
+  {
+    "kommune": "FAUSKE",
+    "station_id": "SN82020",
+    "latitude": 67.223,
+    "longitude": 15.4125
+  },
+  {
+    "kommune": "VOSS",
+    "station_id": "SN51597",
+    "latitude": 60.61467,
+    "longitude": 6.53317
+  },
+  {
+    "kommune": "\u00c5MLI",
+    "station_id": "SN36560",
+    "latitude": 58.6581,
+    "longitude": 8.63
+  },
+  {
+    "kommune": "KARASJOK",
+    "station_id": "SN97470",
+    "latitude": 69.37717,
+    "longitude": 24.20183
+  },
+  {
+    "kommune": "ULVIK",
+    "station_id": "SN49955",
+    "latitude": 60.51567,
+    "longitude": 6.91467
+  },
+  {
+    "kommune": "EIDFJORD",
+    "station_id": "SN49865",
+    "latitude": 60.39933,
+    "longitude": 7.61483
+  },
+  {
+    "kommune": "EIDSVOLL",
+    "station_id": "SN11125",
+    "latitude": 60.2852,
+    "longitude": 11.1358
+  },
+  {
+    "kommune": "DOVRE",
+    "station_id": "SN9384",
+    "latitude": 62.2969,
+    "longitude": 9.3382
+  },
+  {
+    "kommune": "INDRE FOSEN",
+    "station_id": "SN71290",
+    "latitude": 63.5531,
+    "longitude": 10.2234
+  },
+  {
+    "kommune": "VEFSN",
+    "station_id": "SN78360",
+    "latitude": 66.1317,
+    "longitude": 13.5867
+  },
+  {
+    "kommune": "DOVRE",
+    "station_id": "SN16400",
+    "latitude": 62.0172,
+    "longitude": 9.2143
+  },
+  {
+    "kommune": "NORSKEHAVET",
+    "station_id": "SN76933",
+    "latitude": 63.49,
+    "longitude": 5.015
+  },
+  {
+    "kommune": "SIRDAL",
+    "station_id": "SN42930",
+    "latitude": 58.9112,
+    "longitude": 6.8112
+  },
+  {
+    "kommune": "DRANGEDAL",
+    "station_id": "SN34900",
+    "latitude": 59.2647,
+    "longitude": 8.7687
+  },
+  {
+    "kommune": "TINN",
+    "station_id": "SN31500",
+    "latitude": 59.8247,
+    "longitude": 8.3477
+  },
+  {
+    "kommune": "TROMS\u00d8",
+    "station_id": "SN91010",
+    "latitude": 69.656,
+    "longitude": 19.56783
+  },
+  {
+    "kommune": "\u00c5MOT",
+    "station_id": "SN7940",
+    "latitude": 61.14788,
+    "longitude": 11.35621
+  },
+  {
+    "kommune": "FOLLDAL",
+    "station_id": "SN9160",
+    "latitude": 62.1282,
+    "longitude": 9.9947
+  },
+  {
+    "kommune": "STAVANGER",
+    "station_id": "SN44563",
+    "latitude": 58.96217,
+    "longitude": 5.61467
+  },
+  {
+    "kommune": "GRAN",
+    "station_id": "SN11340",
+    "latitude": 60.45483,
+    "longitude": 10.643
+  },
+  {
+    "kommune": "SOLA",
+    "station_id": "SN44545",
+    "latitude": 58.858,
+    "longitude": 5.64683
+  },
+  {
+    "kommune": "VESTV\u00c5G\u00d8Y",
+    "station_id": "SN85582",
+    "latitude": 68.115557,
+    "longitude": 13.559953
+  },
+  {
+    "kommune": "TVEDESTRAND",
+    "station_id": "SN35860",
+    "latitude": 58.6362,
+    "longitude": 9.1478
+  },
+  {
+    "kommune": "BREMANGER",
+    "station_id": "SN57940",
+    "latitude": 61.83195,
+    "longitude": 5.6674
+  },
+  {
+    "kommune": "ASK\u00d8Y",
+    "station_id": "SN52458",
+    "latitude": 60.44717,
+    "longitude": 5.20667
+  },
+  {
+    "kommune": "LARVIK",
+    "station_id": "SN30235",
+    "latitude": 58.980574,
+    "longitude": 9.803816
+  },
+  {
+    "kommune": "B\u00c5TSFJORD",
+    "station_id": "SN98645",
+    "latitude": 70.3222,
+    "longitude": 30.0648
+  },
+  {
+    "kommune": "HER\u00d8Y",
+    "station_id": "SN59815",
+    "latitude": 62.37917,
+    "longitude": 5.6275
+  },
+  {
+    "kommune": "M\u00c5S\u00d8Y",
+    "station_id": "SN94500",
+    "latitude": 71.0937,
+    "longitude": 23.9817
+  },
+  {
+    "kommune": "\u00c5SNES",
+    "station_id": "SN6020",
+    "latitude": 60.6142,
+    "longitude": 12.0125
+  },
+  {
+    "kommune": "SANDNES",
+    "station_id": "SN44760",
+    "latitude": 58.9051712,
+    "longitude": 5.9643464
+  },
+  {
+    "kommune": "HITRA",
+    "station_id": "SN65530",
+    "latitude": 63.554,
+    "longitude": 9.05333
+  },
+  {
+    "kommune": "STAD",
+    "station_id": "SN58810",
+    "latitude": 61.9405,
+    "longitude": 6.13767
+  },
+  {
+    "kommune": "STJ\u00d8RDAL",
+    "station_id": "SN69280",
+    "latitude": 63.46517,
+    "longitude": 11.49567
+  },
+  {
+    "kommune": "SKJERV\u00d8Y",
+    "station_id": "SN91728",
+    "latitude": 70.06617,
+    "longitude": 20.56467
+  },
+  {
+    "kommune": "BREMANGER",
+    "station_id": "SN57850",
+    "latitude": 61.8986,
+    "longitude": 5.5333
+  },
+  {
+    "kommune": "SYKKYLVEN",
+    "station_id": "SN60030",
+    "latitude": 62.337,
+    "longitude": 6.5912
+  },
+  {
+    "kommune": "\u00c5FJORD",
+    "station_id": "SN71900",
+    "latitude": 64.2448,
+    "longitude": 10.3257
+  },
+  {
+    "kommune": "NORSKEHAVET",
+    "station_id": "SN20958",
+    "latitude": 65.6967,
+    "longitude": 7.65
+  },
+  {
+    "kommune": "HEMSEDAL",
+    "station_id": "SN25040",
+    "latitude": 60.786,
+    "longitude": 8.74433
+  },
+  {
+    "kommune": "NARVIK",
+    "station_id": "SN84900",
+    "latitude": 68.4323,
+    "longitude": 18.0767
+  },
+  {
+    "kommune": "M\u00c5S\u00d8Y",
+    "station_id": "SN94455",
+    "latitude": 71.079,
+    "longitude": 24.062
+  },
+  {
+    "kommune": "TRONDHEIM",
+    "station_id": "SN69020",
+    "latitude": 63.4268,
+    "longitude": 10.515
+  },
+  {
+    "kommune": "TINN",
+    "station_id": "SN31410",
+    "latitude": 59.88,
+    "longitude": 8.6663
+  },
+  {
+    "kommune": "STRAND",
+    "station_id": "SN45460",
+    "latitude": 59.0147,
+    "longitude": 6.049
+  },
+  {
+    "kommune": "GISKE",
+    "station_id": "SN60990",
+    "latitude": 62.5617,
+    "longitude": 6.115
+  },
+  {
+    "kommune": "OSEN",
+    "station_id": "SN71990",
+    "latitude": 64.4013,
+    "longitude": 10.455
+  },
+  {
+    "kommune": "RAUMA",
+    "station_id": "SN61340",
+    "latitude": 62.5643,
+    "longitude": 7.672
+  },
+  {
+    "kommune": "HOLMESTRAND",
+    "station_id": "SN26996",
+    "latitude": 59.6469,
+    "longitude": 10.104
+  },
+  {
+    "kommune": "HAMMERFEST",
+    "station_id": "SN94195",
+    "latitude": 70.27833,
+    "longitude": 24.10083
+  },
+  {
+    "kommune": "LIERNE",
+    "station_id": "SN73210",
+    "latitude": 64.491,
+    "longitude": 13.1005
+  },
+  {
+    "kommune": "VANG",
+    "station_id": "SN54710",
+    "latitude": 61.178,
+    "longitude": 8.1125
+  },
+  {
+    "kommune": "VESTRE TOTEN",
+    "station_id": "SN11690",
+    "latitude": 60.6125,
+    "longitude": 10.63083
+  },
+  {
+    "kommune": "STRYN",
+    "station_id": "SN58900",
+    "latitude": 61.9157,
+    "longitude": 6.5585
+  },
+  {
+    "kommune": "SOLA",
+    "station_id": "SN44554",
+    "latitude": 58.9144,
+    "longitude": 5.67219
+  },
+  {
+    "kommune": "SALTDAL",
+    "station_id": "SN81760",
+    "latitude": 66.7525,
+    "longitude": 15.82267
+  },
+  {
+    "kommune": "NARVIK",
+    "station_id": "SN84380",
+    "latitude": 68.371,
+    "longitude": 17.24383
+  },
+  {
+    "kommune": "LUSTER",
+    "station_id": "SN55670",
+    "latitude": 61.4783,
+    "longitude": 7.034
+  },
+  {
+    "kommune": "RIS\u00d8R",
+    "station_id": "SN35340",
+    "latitude": 58.7183,
+    "longitude": 9.2111
+  },
+  {
+    "kommune": "R\u00d8ROS",
+    "station_id": "SN10380",
+    "latitude": 62.5781,
+    "longitude": 11.3487
+  },
+  {
+    "kommune": "HEMSEDAL",
+    "station_id": "SN25112",
+    "latitude": 60.8705,
+    "longitude": 8.5175
+  },
+  {
+    "kommune": "LARVIK",
+    "station_id": "SN30244",
+    "latitude": 59.0727,
+    "longitude": 9.923
+  },
+  {
+    "kommune": "NORD-FRON",
+    "station_id": "SN13655",
+    "latitude": 61.5309793,
+    "longitude": 9.4020874
+  },
+  {
+    "kommune": "S\u00d8RFOLD",
+    "station_id": "SN82720",
+    "latitude": 67.3335,
+    "longitude": 15.8282
+  },
+  {
+    "kommune": "M\u00c5LSELV",
+    "station_id": "SN89350",
+    "latitude": 69.0577,
+    "longitude": 18.5437
+  },
+  {
+    "kommune": "STORD",
+    "station_id": "SN48071",
+    "latitude": 59.7367,
+    "longitude": 5.40167
+  },
+  {
+    "kommune": "ETNE",
+    "station_id": "SN47730",
+    "latitude": 59.8735,
+    "longitude": 6.3815
+  },
+  {
+    "kommune": "VESTNES",
+    "station_id": "SN61062",
+    "latitude": 62.6062,
+    "longitude": 6.9247
+  },
+  {
+    "kommune": "KARASJOK",
+    "station_id": "SN97120",
+    "latitude": 69.7563,
+    "longitude": 26.1457
+  },
+  {
+    "kommune": "LOM",
+    "station_id": "SN15270",
+    "latitude": 61.6775,
+    "longitude": 8.369
+  },
+  {
+    "kommune": "R\u00d8YRVIK",
+    "station_id": "SN74780",
+    "latitude": 64.9608,
+    "longitude": 13.5403
+  },
+  {
+    "kommune": "NORDKAPP",
+    "station_id": "SN94805",
+    "latitude": 70.7765,
+    "longitude": 25.6297
+  }
+]

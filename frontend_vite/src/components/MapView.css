@@ -1,0 +1,14 @@
+.risk-panel {
+  position: fixed;
+  top: 80px;
+  right: 10px;
+  width: 300px;
+  background: white;
+  border: 1px solid #ccc;
+  padding: 16px;
+  box-shadow: 0 0 8px rgba(0,0,0,0.1);
+  z-index: 999;
+  max-height: 70vh;
+  overflow-y: auto;
+  font-family: sans-serif;
+}
