@@ -13,19 +13,6 @@ Prosjektet består av tre hoveddeler:
 
 ---
 
-## 📚 Innhold
-- Prosjektstruktur
-- Kilder & API‑er
-- Datainnsamling
-- Databehandling
-- Maskinlæring
-- API & Strømming
-- Frontend‑kart
-- Oppsett
-- Videre arbeid
-
----
-
 ## 📁 Prosjektstruktur
 
 ```
