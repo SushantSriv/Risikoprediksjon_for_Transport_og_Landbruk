@@ -1,114 +1,118 @@
-# 🌧️ Værbasert Risikoprediksjon for Transport og Landbruk
-Et ende‑til‑ende‑system som kombinerer **34 år med historiske vær‑ og ulykkesdata** med **sanntids MET-vær** for å beregne trafikk‑ og driftsrisiko på kommunenivå i Norge.
 
-Løsningen består av tre hoveddeler:
-1. **Datainnsamling & forbehandling** – Python‑skript henter og prosesserer åpne data fra MET, Kartverket og Statens vegvesen.
-2. **Maskinlæring** – tre risikomodeller (tidspunkt, temperatur, værforhold) + en 7‑dagers temperatur­modell.
-3. **API & Frontend** – FastAPI som serverer prediksjoner, samt et React + Leaflet‑dashbord som viser risiko i sanntid.
+# 🌦️ Værbasert Risikoprediksjon
 
-> **Viktig 📦**  
-> Tunge filer (f.eks. modell‑PKL, CSV‑eksporter, demo‑videoer) ligger **ikke** i Git‑repoet.  
-> De hentes automatisk via skript når du kjører prosjektet første gang.
+Et ende‑til‑ende‑prosjekt som kombinerer historiske ulykkesdata og sanntidsvær fra MET Norway for å forutsi trafikkulykker på kommunenivå i Norge.  
+Prosjektet består av tre hoveddeler:
+
+1. **Datainnsamling & forbehandling** – Python‑skript som henter og prosesserer 34 år med vær‑ og ulykkesdata.
+2. **Maskinlæring** – Tre modeller (tidspunkt, temperatur, værforhold) trent på de prosesserte datasettene.
+3. **API & Frontend** – FastAPI‑server som kombinerer modellene og et React‑dashbord som visualiserer risikoen i sanntid.
+
+📦 Modellene er også publisert på Hugging Face:  
+👉 https://huggingface.co/sushant
 
 ---
-## 📁 Mappestruktur (kode som faktisk pushes)
+
+## 📚 Innhold
+- Prosjektstruktur
+- Kilder & API‑er
+- Datainnsamling
+- Databehandling
+- Maskinlæring
+- API & Strømming
+- Frontend‑kart
+- Oppsett
+- Videre arbeid
+
+---
+
+## 📁 Prosjektstruktur
+
 ```
-vaerbasert-risikoprediksjon/
-│
-├── backend/                 # FastAPI‑tjeneste + nedlastingsskript
+Værbasert RisikoPrediksjon
+├── backend/
 │   ├── main.py
 │   ├── requirements.txt
-│   └── get_assets.sh        # laster modeller & data ved behov
-│
-├── config/                  # .env‑eksempler, YAML/JSON-konfig
-│
-├── frontend_vite/           # React + Leaflet (Vite)
-│   ├── src/
-│   └── public/
-│
-├── scripts/                 # Datainnsamling & trening
-│   ├── fetch_frost_weather_34yr.py
-│   └── train_models.py
-│
-├── tests/                   # Pytest‑enhetstester
+│   ├── modell_temp_pipeline.pkl
+│   ├── modell_tid_pipeline.pkl
+│   ├── modell_vaer_pipeline.pkl
+│   ├── random_forest_weather_model.pkl
+│   ├── label_encoder.pkl
+│   └── fetch_frost_weather_34yr.py
+├── frontend_vite/
+│   ├── index.html
+│   ├── vite.config.js
+│   └── src/components/MapView.jsx
+│   └── public/data/stations.json
 └── README.md
 ```
+## 📂 Mappestruktur
 
+```
+Værbasert Risikoprediksjon/
+├── data/
+│   └── processed/
+│       ├── all_frost_stations_with_kommune.csv   # stasjon-/kommune-mapping
+│       └── historisk_vaer_alle_kommuner.csv      # 34 års historikk
+│
+├── models/
+│   ├── modell_tidspunkt_pipeline.pkl             # risiko: tidspunkt-kategori
+│   ├── modell_temp_pipeline.pkl                  # risiko: temperatur-kategori
+│   ├── modell_vaerforhold_pipeline.pkl           # risiko: værtype
+│   ├── random_forest_weather_model.pkl           # 7-dagers temperaturmodell
+│   └── label_encoder.pkl                         # encoder for kommunenavn
+│
+├── src/
+│   ├── data_processing/
+│   │   └── fetch_frost_weather_34yr.py           # henter historikk fra Frost
+│   └── main.py                                   # FastAPI-server
+│
+├── notebooks/                                    # utforskning / prototyping
+│   └── temperaturmodell_trening.ipynb
+└── README.md
 ---
-## 🔗 Datakilder (hentes ved kjøring)
-| Kilde | Beskrivelse | Hentes av |
-|-------|-------------|-----------|
-| **FROST API (MET)** | Historiske temperatur‑, nedbør‑ og vinddata | `fetch_frost_weather_34yr.py` |
-| **Kartverket / Geonorge** | Kommune‑ & fylkesgrenser (GeoJSON) | eget skript i `scripts/` |
-| **Statens vegvesen – NVDB / TRINE** | Trafikkstasjoner & historiske ulykker | eget skript |
 
----
-## 🤖 Maskinlærings­modeller
-De ferdigtrente modellene lastes ned av `backend/get_assets.sh` (≈ 300 MB totalt) til en lokal `assets/`‑mappe.
+## 📦 Modell-lagring og bruk
 
-| Fil (lokalt) | Formål | Algoritme | Output |
-|--------------|--------|-----------|--------|
-| `assets/modell_tidspunkt_pipeline.pkl` | Risiko – tidspunkt | RandomForest | lav / middels / høy |
-| `assets/modell_temp_pipeline.pkl` | Risiko – temperatur | RandomForest | lav / middels / høy |
-| `assets/modell_vaerforhold_pipeline.pkl` | Risiko – værtype | RandomForest | lav / middels / høy |
-| `assets/random_forest_weather_model.pkl` | 7‑d temp | RandomForestRegressor | temp t+1 … t+7 |
+Modellene lastes automatisk fra Hugging Face ved hjelp av `huggingface_hub`. Eksempel fra `main.py`:
 
----
-## ⚙️ Komme i gang
-```bash
-# 1 Backend
-cd backend
-bash get_assets.sh                 # laster modeller & data (første gang)
-pip install -r requirements.txt
-uvicorn main:app --reload --host 0.0.0.0 --port 8000   # http://localhost:8000/docs
+```python
+from huggingface_hub import hf_hub_download
+import joblib
 
-# 2 Frontend
-cd ../frontend_vite
-npm install
-npm run dev                                             # http://localhost:5173
+modell_path = hf_hub_download("sushant/rf-weather-no", "random_forest_weather_model.pkl")
+modell_7dager = joblib.load(modell_path)
 ```
 
-`get_assets.sh` gjør bl.a.:
-```bash
-curl -L -o assets/models.zip "https://huggingface.co/ssriv/risikomodeller/resolve/main/models.zip"
-unzip assets/models.zip -d assets && rm assets/models.zip
-```
-Du kan bytte til et annet lager (S3, Google Drive, etc.) ved å redigere URL‐en.
-
-### Miljøvariabler
-Legg `.env` i `backend/` med bl.a.
-```
-FROST_CLIENT_ID=…
-FROST_CLIENT_SECRET=…
-```
+Andre modeller hentes på samme måte.
 
 ---
-## 🎥 Demo‐video i README
-1 Legg en **< 25 MB GIF** i `visualizations/` **eller** host MP4 eksternt (YouTube, Loom).  
-Embed i Markdown:
-```markdown
-![Demo](visualizations/demo.gif)
-```
+
+## 📦 Komplett kode og modeller
+
+- 🔗 Kode og data (7-Zip):  
+  https://drive.google.com/drive/folders/1q0W5uYjPStoXrE6fEnBSwFMg9p0FwbzB?usp=sharing *(be om tilgang)*
+
+- 🤖 Modellene er publisert på Hugging Face:
+    | Modell | Repo-ID |
+    |--------|---------|
+    | 7-dagers temperatur | `sushant/rf-weather-no` |
+    | Risiko – Tidspunkt | `sushant/risiko-tid` |
+    | Risiko – Temperatur | `sushant/risiko-temp` |
+    | Risiko – Værtype | `sushant/risiko-vaer` |
+    | LabelEncoder | `sushant/risiko-encoder` |
 
 ---
-## ☁️ Deploy (Railway)
-```bash
-railway login
-railway init              # peker mot backend/
-railway up                # Railway henter assets via get_assets.sh
-```
-Frontend bygges og deployes via Netlify/Vercel med `VITE_API_BASE` → Railway‑URL.
+
+## 🧠 Mer om prosjektet
+
+Prosjektet benytter åpne datakilder som:
+
+- **MET Norway (Frost & Locationforecast)**
+- **Statens Vegvesen (NVDB API)** – for ulykkes- og trafikkdata
+- **Kartverket (GeoJSON kommunegrenser)**
+
+Formålet er å skape et prediktivt verktøy som både kan brukes til historisk analyse og i sanntid for trafikkplanlegging, beredskap og agronomi.
 
 ---
-## 🛤 Videre arbeid
-* Automatisk scheduler for å oppdatere modeller månedlig
-* Prometheus‑metrics i FastAPI
-* Docker‑Compose for backend + frontend
-
----
-## 👤 Kontakt
-**Sushant Srivastava**   |  sushant.nmbu@gmail.com  |  Norge
-
----
-MIT License © 2025
 
