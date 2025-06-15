@@ -13,12 +13,6 @@ Prosjektet består av tre hoveddeler:
 
 ---
 
-### 🎞️ Kort GIF-demo
-
-![Risikoprediksjon i sanntid](https://drive.google.com/uc?export=view&id=184haJoo-ct4PWiph9ugOBt5MfPxKYMfF)
-
-> GIF-en viser hvordan risikonivåene visualiseres etter kommunevalg i frontend.
-
 ## 📁 Prosjektstruktur
 
 ```
