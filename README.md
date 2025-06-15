@@ -12,6 +12,7 @@ Prosjektet består av tre hoveddeler:
 👉 https://huggingface.co/sushant
 
 ---
+
 ### 🎞️ Kort GIF-demo
 
 ![Risikoprediksjon i sanntid](https://drive.google.com/uc?export=view&id=184haJoo-ct4PWiph9ugOBt5MfPxKYMfF)
